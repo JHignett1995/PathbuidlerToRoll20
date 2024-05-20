@@ -1,0 +1,203 @@
+{
+  "success": true,
+  "build": {
+    "name": "Eep",
+    "class": "Rogue",
+    "level": 1,
+    "ancestry": "Goblin",
+    "heritage": "Unbreakable Goblin",
+    "background": "Barker",
+    "alignment": "N",
+    "gender": "Not set",
+    "age": "Not set",
+    "deity": "Not set",
+    "size": 1,
+    "keyability": "str",
+    "languages": [],
+    "attributes": {
+      "ancestryhp": 6,
+      "classhp": 8,
+      "bonushp": 4,
+      "bonushpPerLevel": 0,
+      "speed": 25,
+      "speedBonus": 0
+    },
+    "abilities": {
+      "str": 14,
+      "dex": 16,
+      "con": 14,
+      "int": 10,
+      "wis": 8,
+      "cha": 16
+    },
+    "proficiencies": {
+      "classDC": 2,
+      "perception": 4,
+      "fortitude": 2,
+      "reflex": 4,
+      "will": 4,
+      "heavy": 0,
+      "medium": 0,
+      "light": 2,
+      "unarmored": 2,
+      "advanced": 0,
+      "martial": 0,
+      "simple": 2,
+      "unarmed": 2,
+      "castingArcane": 0,
+      "castingDivine": 0,
+      "castingOccult": 0,
+      "castingPrimal": 0,
+      "acrobatics": 2,
+      "arcana": 0,
+      "athletics": 2,
+      "crafting": 2,
+      "deception": 2,
+      "diplomacy": 2,
+      "intimidation": 2,
+      "medicine": 2,
+      "nature": 0,
+      "occultism": 0,
+      "performance": 2,
+      "religion": 0,
+      "society": 2,
+      "stealth": 2,
+      "survival": 2,
+      "thievery": 2
+    },
+    "feats": [
+      [
+        "Group Coercion",
+        null
+      ],
+      [
+        "Extra Squishy",
+        null,
+        "Ancestry Feat",
+        1
+      ],
+      [
+        "Unbreakable Goblin",
+        null,
+        "Heritage",
+        1
+      ],
+      [
+        "Trap Finder",
+        null,
+        "Class Feat",
+        1
+      ],
+      [
+        "Quick Squeeze",
+        null,
+        "Skill Feat",
+        1
+      ]
+    ],
+    "specials": [
+      "Surprise Attack",
+      "Scoundrel Racket",
+      "Sneak Attack",
+      "Darkvision",
+      "Unbreakable Goblin"
+    ],
+    "lores": [
+      [
+        "Crowd",
+        2
+      ]
+    ],
+    "equipment": [
+      [
+        "Backpack",
+        1
+      ],
+      [
+        "Arrows",
+        10
+      ],
+      [
+        "Clothing (Fine)",
+        1
+      ],
+      [
+        "Manacles (Simple)",
+        2
+      ],
+      [
+        "Thieves' Tools",
+        1
+      ]
+    ],
+    "specificProficiencies": {
+      "trained": [],
+      "expert": [],
+      "master": [],
+      "legendary": []
+    },
+    "weapons": [
+      {
+        "name": "Whip",
+        "qty": 1,
+        "prof": "martial",
+        "die": "d4",
+        "pot": 0,
+        "str": "",
+        "mat": null,
+        "display": "Whip",
+        "runes": []
+      },
+      {
+        "name": "Dagger",
+        "qty": 1,
+        "prof": "simple",
+        "die": "d4",
+        "pot": 0,
+        "str": "",
+        "mat": null,
+        "display": "Dagger",
+        "runes": []
+      },
+      {
+        "name": "Dagger",
+        "qty": 1,
+        "prof": "simple",
+        "die": "d4",
+        "pot": 0,
+        "str": "",
+        "mat": null,
+        "display": "Dagger",
+        "runes": []
+      }
+    ],
+    "money": {
+      "pp": 0,
+      "gp": 0,
+      "sp": 3,
+      "cp": 0
+    },
+    "armor": [
+      {
+        "name": "Studded Leather Armor",
+        "qty": 1,
+        "prof": "light",
+        "pot": 0,
+        "res": "",
+        "mat": null,
+        "display": "Studded Leather",
+        "worn": true,
+        "runes": []
+      }
+    ],
+    "spellCasters": [],
+    "formula": [],
+    "pets": [],
+    "acTotal": {
+      "acProfBonus": 3,
+      "acAbilityBonus": 3,
+      "acItemBonus": 2,
+      "acTotal": 18
+    }
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "success": true,
+  "build": {
+    "name": "Skylar ",
+    "class": "Rogue",
+    "level": 1,
+    "ancestry": "Elf",
+    "heritage": "Aasimar",
+    "background": "Criminal",
+    "alignment": "N",
+    "gender": "Not set",
+    "age": "Not set",
+    "deity": "Not set",
+    "size": 2,
+    "keyability": "str",
+    "languages": [
+      "Common",
+      "Elven",
+      "Goblin",
+      "Sylvan"
+    ],
+    "attributes": {
+      "ancestryhp": 6,
+      "classhp": 8,
+      "bonushp": 0,
+      "bonushpPerLevel": 0,
+      "speed": 30,
+      "speedBonus": 0
+    },
+    "abilities": {
+      "str": 16,
+      "dex": 16,
+      "con": 10,
+      "int": 14,
+      "wis": 10,
+      "cha": 12
+    },
+    "proficiencies": {
+      "classDC": 2,
+      "perception": 4,
+      "fortitude": 2,
+      "reflex": 4,
+      "will": 4,
+      "heavy": 0,
+      "medium": 0,
+      "light": 2,
+      "unarmored": 2,
+      "advanced": 0,
+      "martial": 0,
+      "simple": 2,
+      "unarmed": 2,
+      "castingArcane": 2,
+      "castingDivine": 0,
+      "castingOccult": 0,
+      "castingPrimal": 0,
+      "acrobatics": 2,
+      "arcana": 2,
+      "athletics": 2,
+      "crafting": 0,
+      "deception": 2,
+      "diplomacy": 2,
+      "intimidation": 2,
+      "medicine": 0,
+      "nature": 2,
+      "occultism": 2,
+      "performance": 0,
+      "religion": 0,
+      "society": 2,
+      "stealth": 2,
+      "survival": 2,
+      "thievery": 2
+    },
+    "feats": [
+      [
+        "Experienced Smuggler",
+        null
+      ],
+      [
+        "Aasimar",
+        null,
+        "Heritage",
+        1
+      ],
+      [
+        "Wizard Dedication",
+        null,
+        "Archetype Feat",
+        1
+      ],
+      [
+        "Nimble Dodge",
+        null,
+        "Class Feat",
+        1
+      ],
+      [
+        "Experienced Tracker",
+        null,
+        "Skill Feat",
+        1
+      ],
+      [
+        "Elven Weapon Familiarity",
+        null,
+        "Ancestry Feat",
+        1
+      ]
+    ],
+    "specials": [
+      "Enchantment",
+      "Surprise Attack",
+      "Darkvision",
+      "Low-Light Vision",
+      "Eldritch Trickster Racket",
+      "Sneak Attack",
+      "Arcane School",
+      "Aasimar"
+    ],
+    "lores": [
+      [
+        "Underworld",
+        2
+      ]
+    ],
+    "equipment": [],
+    "specificProficiencies": {
+      "trained": [
+        "Longbow"
+      ],
+      "expert": [],
+      "master": [],
+      "legendary": []
+    },
+    "weapons": [
+      {
+        "name": "Elven Curve Blade",
+        "qty": 1,
+        "prof": "simple",
+        "die": "d8",
+        "pot": 0,
+        "str": "",
+        "mat": null,
+        "display": "Elven Curve Blade",
+        "runes": []
+      },
+      {
+        "name": "Longbow",
+        "qty": 1,
+        "prof": "martial",
+        "die": "d8",
+        "pot": 0,
+        "str": "",
+        "mat": null,
+        "display": "Longbow",
+        "runes": []
+      }
+    ],
+    "money": {
+      "pp": 0,
+      "gp": 2,
+      "sp": 0,
+      "cp": 0
+    },
+    "armor": [
+      {
+        "name": "Studded Leather Armor",
+        "qty": 1,
+        "prof": "light",
+        "pot": 0,
+        "res": "",
+        "mat": null,
+        "display": "Studded Leather",
+        "worn": true,
+        "runes": []
+      }
+    ],
+    "spellCasters": [
+      {
+        "name": "Archetype Wizard",
+        "magicTradition": "arcane",
+        "spellcastingType": "prepared",
+        "ability": "int",
+        "proficiency": 2,
+        "focusPoints": 0,
+        "spells": [
+          {
+            "spellLevel": 0,
+            "list": [
+              "Produce Flame",
+              "Tanglefoot"
+            ]
+          }
+        ],
+        "perDay": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "formula": [],
+    "pets": [],
+    "acTotal": {
+      "acProfBonus": 3,
+      "acAbilityBonus": 3,
+      "acItemBonus": 2,
+      "acTotal": 18
+    }
+  }
+}

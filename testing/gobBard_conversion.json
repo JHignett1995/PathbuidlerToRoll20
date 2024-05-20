@@ -1,0 +1,2747 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "name": "Unknown Adventurer",
+        "bio": "",
+        "avatar": "",
+        "gmnotes": "",
+        "defaulttoken": "",
+        "tags": "[]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "version_character",
+                "current": 4.5,
+                "max": "",
+                "id": "-00000-e38c7be4ed1b43d64da55423feb65b3b"
+            },
+            {
+                "name": "name",
+                "current": "Unknown Adventurer",
+                "max": "",
+                "id": "-00001-532bdcdb1ced05b92ae89f3dd19b0470"
+            },
+            {
+                "name": "ancestry_heritage",
+                "current": "Gnome \/ Chameleon Gnome",
+                "max": "",
+                "id": "-00002-de310f556f166f3d9033b526f8502295"
+            },
+            {
+                "name": "deity",
+                "current": "Not set",
+                "max": "",
+                "id": "-00003-a64e5cfbfffa4991536dad23d0ed9276"
+            },
+            {
+                "name": "class",
+                "current": "Bard",
+                "max": "",
+                "id": "-00004-49d9fdc86325ce6d214c332ac1882b61"
+            },
+            {
+                "name": "background",
+                "current": "Animal Wrangler (Nature)",
+                "max": "",
+                "id": "-00005-397a7b87fb021c38aa994b74078b4a29"
+            },
+            {
+                "name": "alignment",
+                "current": "N",
+                "max": "",
+                "id": "-00006-d48d12e9edc9d2e1d6e981635e8c7dd4"
+            },
+            {
+                "name": "level",
+                "current": 1,
+                "max": "",
+                "id": "-00007-c3ca327bb3fbf36ccb04ab8d7e9506f8"
+            },
+            {
+                "name": "age",
+                "current": "Not set",
+                "max": "",
+                "id": "-00008-937ae33347e8a64560d12b123556de58"
+            },
+            {
+                "name": "gender_pronouns",
+                "current": "Not set",
+                "max": "",
+                "id": "-00009-ea50f656a2041a437193152da6311580"
+            },
+            {
+                "name": "strength",
+                "current": 12,
+                "max": "",
+                "id": "-00010-f2faf25b438a036a71cd2c1f4ed379d6"
+            },
+            {
+                "name": "strength_score",
+                "current": "12",
+                "max": "",
+                "id": "-00011-930e276cd340ea2500006e4e1e07ba50"
+            },
+            {
+                "name": "strength_modifier",
+                "current": 1,
+                "max": "",
+                "id": "-00012-ae4125857ba7da431f465a0a8b8d6e86"
+            },
+            {
+                "name": "strength_modifier_half",
+                "current": 0,
+                "max": "",
+                "id": "-00013-3da5cc8b21d4112b68bbf1193981aeb7"
+            },
+            {
+                "name": "dexterity",
+                "current": 16,
+                "max": "",
+                "id": "-00014-8be37d28541dca0313b02910ea1804b5"
+            },
+            {
+                "name": "dexterity_score",
+                "current": "16",
+                "max": "",
+                "id": "-00015-9cce1dfc3742a55d9dc283ed705f30f4"
+            },
+            {
+                "name": "dexterity_modifier",
+                "current": 3,
+                "max": "",
+                "id": "-00016-7ad982d4c370be17d0a7636d524ec5e6"
+            },
+            {
+                "name": "dexterity_modifier_half",
+                "current": 1,
+                "max": "",
+                "id": "-00017-1f603413cb15cdc6509b347f0f146616"
+            },
+            {
+                "name": "constitution",
+                "current": 12,
+                "max": "",
+                "id": "-00018-1298d8d3b1e02c5e72139d0b1696382d"
+            },
+            {
+                "name": "constitution_score",
+                "current": "12",
+                "max": "",
+                "id": "-00019-d21b32e1d561c6b7a607cb78d93e7acf"
+            },
+            {
+                "name": "constitution_modifier",
+                "current": 1,
+                "max": "",
+                "id": "-00020-0c836b0b71ac29a7f355c7dfde34a20b"
+            },
+            {
+                "name": "constitution_modifier_half",
+                "current": 0,
+                "max": "",
+                "id": "-00021-1d4796ab235bcb4523ed8d3389cbf9ec"
+            },
+            {
+                "name": "intelligence",
+                "current": 10,
+                "max": "",
+                "id": "-00022-57214c54cbcc79b4f5a917013095e752"
+            },
+            {
+                "name": "intelligence_score",
+                "current": "10",
+                "max": "",
+                "id": "-00023-4f54e1406ec4be969bc918b39808d1d1"
+            },
+            {
+                "name": "intelligence_modifier",
+                "current": 0,
+                "max": "",
+                "id": "-00024-68ca3fdb0175c64183dde1cdaa2da217"
+            },
+            {
+                "name": "intelligence_modifier_half",
+                "current": 0,
+                "max": "",
+                "id": "-00025-65f535a0f92647b1434133f33db3a620"
+            },
+            {
+                "name": "wisdom",
+                "current": 12,
+                "max": "",
+                "id": "-00026-3fad642bc80a7e51cfdd4e2c4a96c885"
+            },
+            {
+                "name": "wisdom_score",
+                "current": "12",
+                "max": "",
+                "id": "-00027-7e58783599e47c3f889963215f444a04"
+            },
+            {
+                "name": "wisdom_modifier",
+                "current": 1,
+                "max": "",
+                "id": "-00028-df7984e2c277f970e5f4cbb3301eca81"
+            },
+            {
+                "name": "wisdom_modifier_half",
+                "current": 0,
+                "max": "",
+                "id": "-00029-7642c853946b69f6b5759d1cd2f90122"
+            },
+            {
+                "name": "charisma",
+                "current": 16,
+                "max": "",
+                "id": "-00030-2eae33dbcb0c7d2b20d559604d3713e9"
+            },
+            {
+                "name": "charisma_score",
+                "current": "16",
+                "max": "",
+                "id": "-00031-6f3892e751ae1de74dfb86a9f7641149"
+            },
+            {
+                "name": "charisma_modifier",
+                "current": 3,
+                "max": "",
+                "id": "-00032-ab96404e588544fcbf7db90f8512f181"
+            },
+            {
+                "name": "charisma_modifier_half",
+                "current": 1,
+                "max": "",
+                "id": "-00033-e8c300538a6d681c4651bd3b86d74e16"
+            },
+            {
+                "name": "acrobatics",
+                "current": 3,
+                "max": "",
+                "id": "-00034-6862085dc66bf11452141c3e589ec09f"
+            },
+            {
+                "name": "acrobatics_proficiency_display",
+                "current": "U",
+                "max": "",
+                "id": "-00035-cbed676985a375667e60835d62c56b50"
+            },
+            {
+                "name": "acrobatics_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "-00036-7e51caade14ec16c2a9f45d2a47386cd"
+            },
+            {
+                "name": "acrobatics_item",
+                "current": 0,
+                "max": "",
+                "id": "-00037-dea85db2d48f03f0e19d99237cc8b383"
+            },
+            {
+                "name": "acrobatics_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00038-642a3c5740c24cfc7f8e26f420a7e735"
+            },
+            {
+                "name": "acrobatics_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00039-3c2c7f835bf5cac1394f6f989fa0353a"
+            },
+            {
+                "name": "acrobatics_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00040-277799a868c1f3ef3032ed3fe5377577"
+            },
+            {
+                "name": "acrobatics_ability",
+                "current": 3,
+                "max": "",
+                "id": "-00041-37dec4afe03ad2f294a0c71f411ba79a"
+            },
+            {
+                "name": "acrobatics_ability_select",
+                "current": "@{dexterity_modifier}",
+                "max": "",
+                "id": "-00042-726b457e7a92474d76bf663dc22b6414"
+            },
+            {
+                "name": "arcana",
+                "current": 0,
+                "max": "",
+                "id": "-00043-c8e81fd98c6d24136f575a14dd0aa0bc"
+            },
+            {
+                "name": "arcana_proficiency_display",
+                "current": "U",
+                "max": "",
+                "id": "-00044-d11c13f2a5cfa0ebc0dbde7559c4d4e9"
+            },
+            {
+                "name": "arcana_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "-00045-f1bf9d39c173d3f930c643398ca915ff"
+            },
+            {
+                "name": "arcana_item",
+                "current": 0,
+                "max": "",
+                "id": "-00046-547ee438139771a6b5a38ef95e18ea42"
+            },
+            {
+                "name": "arcana_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00047-381a89b1737808094343e13aee6d3003"
+            },
+            {
+                "name": "arcana_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00048-213bf35d2edb1bd62d94892539b2a09b"
+            },
+            {
+                "name": "arcana_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00049-b529bdb675163e3a2d9b0b775083cfb4"
+            },
+            {
+                "name": "arcana_ability",
+                "current": 0,
+                "max": "",
+                "id": "-00050-26a61fd6f2e046ac82125f616e16a3a6"
+            },
+            {
+                "name": "arcana_ability_select",
+                "current": "@{intelligence_modifier}",
+                "max": "",
+                "id": "-00051-c5292a4c33c8cbc701137a4d5ffa5478"
+            },
+            {
+                "name": "athletics",
+                "current": 4,
+                "max": "",
+                "id": "-00052-034c960ae35313d06026eb08ea159158"
+            },
+            {
+                "name": "athletics_proficiency_display",
+                "current": "T",
+                "max": "",
+                "id": "-00053-8110eb7aeafd1b06dcf247b35ca49840"
+            },
+            {
+                "name": "athletics_proficiency",
+                "current": 3,
+                "max": "",
+                "id": "-00054-d4286f7e51354cc2e9c252524d83432c"
+            },
+            {
+                "name": "athletics_item",
+                "current": 0,
+                "max": "",
+                "id": "-00055-e323228f2c15b6c5822aa3a9d8b1e092"
+            },
+            {
+                "name": "athletics_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00056-47bb48611cea6c4f8086f8c46a1a4473"
+            },
+            {
+                "name": "athletics_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00057-5d143924e12489029062ffff3993a200"
+            },
+            {
+                "name": "athletics_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00058-c8a2dde1932cea806808ad2b5edb3ac2"
+            },
+            {
+                "name": "athletics_ability",
+                "current": 1,
+                "max": "",
+                "id": "-00059-54d49ef5baea27d383e715c5dd037eec"
+            },
+            {
+                "name": "athletics_ability_select",
+                "current": "@{strength_modifier}",
+                "max": "",
+                "id": "-00060-fad3c983b57ade3f51970e97723af4cb"
+            },
+            {
+                "name": "crafting",
+                "current": 0,
+                "max": "",
+                "id": "-00061-ef199011f39c05e915801e2fa6bf04c3"
+            },
+            {
+                "name": "crafting_proficiency_display",
+                "current": "U",
+                "max": "",
+                "id": "-00062-64aba63e61a7b441af8f8ebc75695073"
+            },
+            {
+                "name": "crafting_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "-00063-cb38d9fee845af7b8050d17ece118b31"
+            },
+            {
+                "name": "crafting_item",
+                "current": 0,
+                "max": "",
+                "id": "-00064-49772056d062f50409bb3f565d62ef17"
+            },
+            {
+                "name": "crafting_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00065-d75e300ba3f0738551fb9c9ee473797c"
+            },
+            {
+                "name": "crafting_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00066-0580b57a4802818735ac5af7fc55e12d"
+            },
+            {
+                "name": "crafting_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00067-657e35b5baeec4dd2194948e10296a29"
+            },
+            {
+                "name": "crafting_ability",
+                "current": 0,
+                "max": "",
+                "id": "-00068-f3062b90c5aee2e082da9f084c3bdd57"
+            },
+            {
+                "name": "crafting_ability_select",
+                "current": "@{intelligence_modifier}",
+                "max": "",
+                "id": "-00069-667bc6e1b759e90068cbe51a1289d7ec"
+            },
+            {
+                "name": "deception",
+                "current": 6,
+                "max": "",
+                "id": "-00070-c396ea0f64e0a4f6c7948c5fac876d77"
+            },
+            {
+                "name": "deception_proficiency_display",
+                "current": "T",
+                "max": "",
+                "id": "-00071-348a9db34122cd5d03838041443346cb"
+            },
+            {
+                "name": "deception_proficiency",
+                "current": 3,
+                "max": "",
+                "id": "-00072-1e57568247bc3fba72076e547c46502a"
+            },
+            {
+                "name": "deception_item",
+                "current": 0,
+                "max": "",
+                "id": "-00073-d7bc0f0dd341704b100a010d9235f90a"
+            },
+            {
+                "name": "deception_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00074-0a1070c1178685a3ff90e49594a8c2b1"
+            },
+            {
+                "name": "deception_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00075-8cc84ba9451f535d5c4c650ade70f4c6"
+            },
+            {
+                "name": "deception_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00076-59fbec9039e7fb8b01f4e8bc333bf15a"
+            },
+            {
+                "name": "deception_ability",
+                "current": 3,
+                "max": "",
+                "id": "-00077-5ab45d563346db4316920bf1936cb9af"
+            },
+            {
+                "name": "deception_ability_select",
+                "current": "@{charisma_modifier}",
+                "max": "",
+                "id": "-00078-071934e60cebb181d91ffc669c81e8b7"
+            },
+            {
+                "name": "diplomacy",
+                "current": 6,
+                "max": "",
+                "id": "-00079-dd18984d32f6964a8c69d85c8c40621d"
+            },
+            {
+                "name": "diplomacy_proficiency_display",
+                "current": "T",
+                "max": "",
+                "id": "-00080-3ad2dbea0711899ee5e856eb0385a8fc"
+            },
+            {
+                "name": "diplomacy_proficiency",
+                "current": 3,
+                "max": "",
+                "id": "-00081-a39094f2841fd5b291ee6df012346eab"
+            },
+            {
+                "name": "diplomacy_item",
+                "current": 0,
+                "max": "",
+                "id": "-00082-15b75755702f0283acb36b09eb3e2b3b"
+            },
+            {
+                "name": "diplomacy_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00083-b9019e159911e795920033c7c51e63fd"
+            },
+            {
+                "name": "diplomacy_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00084-578f7419812902c6b3ee05c480fcf54b"
+            },
+            {
+                "name": "diplomacy_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00085-61324dc48a3103ce0e7c38db7c2ab3fa"
+            },
+            {
+                "name": "diplomacy_ability",
+                "current": 3,
+                "max": "",
+                "id": "-00086-be63f729e62ccb757dd7dd4b0ba06c80"
+            },
+            {
+                "name": "diplomacy_ability_select",
+                "current": "@{charisma_modifier}",
+                "max": "",
+                "id": "-00087-cbd74d32017d6a445bad05f9e17a7ae4"
+            },
+            {
+                "name": "intimidation",
+                "current": 3,
+                "max": "",
+                "id": "-00088-9cd99da640d3d56edc6642fb0d39b05d"
+            },
+            {
+                "name": "intimidation_proficiency_display",
+                "current": "U",
+                "max": "",
+                "id": "-00089-5dcba30c65e4f6eb43d3f8a62e76ea5f"
+            },
+            {
+                "name": "intimidation_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "-00090-0f289cdbcc7502897280a844bd92045a"
+            },
+            {
+                "name": "intimidation_item",
+                "current": 0,
+                "max": "",
+                "id": "-00091-3043e4e19fadc7458e5843fe8db38cc5"
+            },
+            {
+                "name": "intimidation_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00092-0713362e0684a5d1f4342ea478e1c819"
+            },
+            {
+                "name": "intimidation_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00093-2c6fa31a10727b9fbdf4b0e15188e828"
+            },
+            {
+                "name": "intimidation_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00094-9024599521be24e7192bfa7c2c9f6a83"
+            },
+            {
+                "name": "intimidation_ability",
+                "current": 3,
+                "max": "",
+                "id": "-00095-f52df9484ad4197abc7ca75cd3ed4c0e"
+            },
+            {
+                "name": "intimidation_ability_select",
+                "current": "@{charisma_modifier}",
+                "max": "",
+                "id": "-00096-9b2b3c20e48c4bc64a0275afa2345f92"
+            },
+            {
+                "name": "medicine",
+                "current": 1,
+                "max": "",
+                "id": "-00097-8ba5620979502e583dc012bc67444f9b"
+            },
+            {
+                "name": "medicine_proficiency_display",
+                "current": "U",
+                "max": "",
+                "id": "-00098-341c4a75342a68ab401649cdba0737bb"
+            },
+            {
+                "name": "medicine_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "-00099-ed74da87783d2105e01543ebe6b1207f"
+            },
+            {
+                "name": "medicine_item",
+                "current": 0,
+                "max": "",
+                "id": "-00100-20952969ff70768252a4338c95d9b20b"
+            },
+            {
+                "name": "medicine_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00101-1ea329ad5364fdeb9e030e511d9b8487"
+            },
+            {
+                "name": "medicine_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00102-40f906c6e7e8becda345f1191be52813"
+            },
+            {
+                "name": "medicine_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00103-d92e01e32d71911353305affa3b8c5d7"
+            },
+            {
+                "name": "medicine_ability",
+                "current": 1,
+                "max": "",
+                "id": "-00104-fc1a7fff0cff49675697a2c68d493d95"
+            },
+            {
+                "name": "medicine_ability_select",
+                "current": "@{wisdom_modifier}",
+                "max": "",
+                "id": "-00105-da08a0bbf429792d382068cac7710d9d"
+            },
+            {
+                "name": "nature",
+                "current": 4,
+                "max": "",
+                "id": "-00106-aa4e4ebd564115a5c5fdb5980dca4e65"
+            },
+            {
+                "name": "nature_proficiency_display",
+                "current": "T",
+                "max": "",
+                "id": "-00107-3aaa8ad4ec6da35ba7fdf3b5475aefba"
+            },
+            {
+                "name": "nature_proficiency",
+                "current": 3,
+                "max": "",
+                "id": "-00108-83de1f1769b3679a06d2d359f9770d39"
+            },
+            {
+                "name": "nature_item",
+                "current": 0,
+                "max": "",
+                "id": "-00109-555f9bcac11fbb4591bf30b0d8bd3e4d"
+            },
+            {
+                "name": "nature_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00110-a9627e11635c811af506b8f14eb7ffc5"
+            },
+            {
+                "name": "nature_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00111-b4619ae12382f382d1230774e996cfcf"
+            },
+            {
+                "name": "nature_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00112-4ab36d80879ae1468d111562a155360e"
+            },
+            {
+                "name": "nature_ability",
+                "current": 1,
+                "max": "",
+                "id": "-00113-f05620aa62b2cc7f649a8b8f31ee9ad8"
+            },
+            {
+                "name": "nature_ability_select",
+                "current": "@{wisdom_modifier}",
+                "max": "",
+                "id": "-00114-ee5e68ca92f598c25fce3f3cae9e7e16"
+            },
+            {
+                "name": "occultism",
+                "current": 3,
+                "max": "",
+                "id": "-00115-82b69662e35bd8b6f4ecb26e4f8b2d94"
+            },
+            {
+                "name": "occultism_proficiency_display",
+                "current": "T",
+                "max": "",
+                "id": "-00116-0a46b8203c5f9f4356edfcc240953ce9"
+            },
+            {
+                "name": "occultism_proficiency",
+                "current": 3,
+                "max": "",
+                "id": "-00117-c3edc5b1a12f915da573e1b8f4ab4777"
+            },
+            {
+                "name": "occultism_item",
+                "current": 0,
+                "max": "",
+                "id": "-00118-401dbe45a061e7152d8f4e5e97596055"
+            },
+            {
+                "name": "occultism_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00119-3feaf1f1883723580dcd128eaebf2485"
+            },
+            {
+                "name": "occultism_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00120-5dd61965b4337b14619f9ed6cfd06d2d"
+            },
+            {
+                "name": "occultism_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00121-fe061930abcf2e499ee29d25757ffa4e"
+            },
+            {
+                "name": "occultism_ability",
+                "current": 0,
+                "max": "",
+                "id": "-00122-e3cf11fe1c89eec5dc33e74fa85fe5c4"
+            },
+            {
+                "name": "occultism_ability_select",
+                "current": "@{intelligence_modifier}",
+                "max": "",
+                "id": "-00123-2df4ed78f7be327972abcca5c55fd171"
+            },
+            {
+                "name": "performance",
+                "current": 6,
+                "max": "",
+                "id": "-00124-402f87ba7bf21e44acb14dd6a7cff5e8"
+            },
+            {
+                "name": "performance_proficiency_display",
+                "current": "T",
+                "max": "",
+                "id": "-00125-03698c9f50f868c91187ced6b6abe5f4"
+            },
+            {
+                "name": "performance_proficiency",
+                "current": 3,
+                "max": "",
+                "id": "-00126-9bcabdcf3ee5ee1996780f66741f1312"
+            },
+            {
+                "name": "performance_item",
+                "current": 0,
+                "max": "",
+                "id": "-00127-f677c2d43ea57cfbf65bff389c93566b"
+            },
+            {
+                "name": "performance_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00128-9f3754ecb220bb901bea93448556a154"
+            },
+            {
+                "name": "performance_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00129-a1f0d4381be831cda7f81a0d9e9d1c88"
+            },
+            {
+                "name": "performance_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00130-3edb0ca309dd25906d4aef300084b563"
+            },
+            {
+                "name": "performance_ability",
+                "current": 3,
+                "max": "",
+                "id": "-00131-2406bb0c8542f172f5d1c2d5aadb013c"
+            },
+            {
+                "name": "performance_ability_select",
+                "current": "@{charisma_modifier}",
+                "max": "",
+                "id": "-00132-1312aa7f3aea0f9f59068d2fffdeb10b"
+            },
+            {
+                "name": "religion",
+                "current": 1,
+                "max": "",
+                "id": "-00133-ffd8cced06198819e6050efca4000fd4"
+            },
+            {
+                "name": "religion_proficiency_display",
+                "current": "U",
+                "max": "",
+                "id": "-00134-1d84df08fc29630d2cd427031442083e"
+            },
+            {
+                "name": "religion_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "-00135-a2c4fea0f884bb6b5344fb8fc8ad5c73"
+            },
+            {
+                "name": "religion_item",
+                "current": 0,
+                "max": "",
+                "id": "-00136-2d0e2978b1c868ea67783427c60d57ea"
+            },
+            {
+                "name": "religion_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00137-19571f7808b215965ca5470562f39bf2"
+            },
+            {
+                "name": "religion_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00138-b1a52bb7cb5995304dd412219be5c3de"
+            },
+            {
+                "name": "religion_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00139-408631f5ec8fd43d1218d64cc859bc3e"
+            },
+            {
+                "name": "religion_ability",
+                "current": 1,
+                "max": "",
+                "id": "-00140-747082052e2ddb840100571af219bcd4"
+            },
+            {
+                "name": "religion_ability_select",
+                "current": "@{wisdom_modifier}",
+                "max": "",
+                "id": "-00141-fb56ec7e2b632ca2ba81f66ae66bcaaa"
+            },
+            {
+                "name": "society",
+                "current": 3,
+                "max": "",
+                "id": "-00142-de796acdab52996858bee090432dd226"
+            },
+            {
+                "name": "society_proficiency_display",
+                "current": "T",
+                "max": "",
+                "id": "-00143-8a34d2046d332018bfb743f147985ec9"
+            },
+            {
+                "name": "society_proficiency",
+                "current": 3,
+                "max": "",
+                "id": "-00144-a6f0d08a180b30e33d5df6b90312225f"
+            },
+            {
+                "name": "society_item",
+                "current": 0,
+                "max": "",
+                "id": "-00145-e88e3d033fc1f49bbf79673aaf72d195"
+            },
+            {
+                "name": "society_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00146-ff272e207b9d3d529974c53f93b16fa3"
+            },
+            {
+                "name": "society_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00147-c0d816d3527cbdbabb4e4d8dbe22647c"
+            },
+            {
+                "name": "society_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00148-366d7ef5058992cce403ac3a1050d83e"
+            },
+            {
+                "name": "society_ability",
+                "current": 0,
+                "max": "",
+                "id": "-00149-fa17df1cc8da8502b4b74ed16b34c998"
+            },
+            {
+                "name": "society_ability_select",
+                "current": "@{intelligence_modifier}",
+                "max": "",
+                "id": "-00150-62ae094f54ba1a2e0fb8f30fe9ccc8d9"
+            },
+            {
+                "name": "stealth",
+                "current": 3,
+                "max": "",
+                "id": "-00151-a96a6112b5c1f4cd5a2eef1dec147899"
+            },
+            {
+                "name": "stealth_proficiency_display",
+                "current": "U",
+                "max": "",
+                "id": "-00152-ce301667eb9ccaa3a6ab8c2bb44033b2"
+            },
+            {
+                "name": "stealth_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "-00153-9553f9415668932d05145ae0d9954613"
+            },
+            {
+                "name": "stealth_item",
+                "current": 0,
+                "max": "",
+                "id": "-00154-e861d76e6b74517574bc17a16bb39c53"
+            },
+            {
+                "name": "stealth_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00155-c6be007673c3fa861ed7a945b37a9c43"
+            },
+            {
+                "name": "stealth_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00156-c98f879e5b6dcf1ac709d8dd7b44443f"
+            },
+            {
+                "name": "stealth_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00157-c32b542d1ffe917159b25653e3df2834"
+            },
+            {
+                "name": "stealth_ability",
+                "current": 3,
+                "max": "",
+                "id": "-00158-8b90879da85797ad8a5ad39084c9f29c"
+            },
+            {
+                "name": "stealth_ability_select",
+                "current": "@{dexterity_modifier}",
+                "max": "",
+                "id": "-00159-e01b89039b1c36bd96e8f6241d3f364e"
+            },
+            {
+                "name": "survival",
+                "current": 1,
+                "max": "",
+                "id": "-00160-33973dabb228ac8244bac7dfe5ed7a8d"
+            },
+            {
+                "name": "survival_proficiency_display",
+                "current": "U",
+                "max": "",
+                "id": "-00161-14431f2b4340a452e76d67461491178c"
+            },
+            {
+                "name": "survival_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "-00162-da317cfd6653db378f74628c153d948c"
+            },
+            {
+                "name": "survival_item",
+                "current": 0,
+                "max": "",
+                "id": "-00163-0e0b37f32527c66b18b2617cf7f6c143"
+            },
+            {
+                "name": "survival_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00164-6e1642516149e05934663ac46783b796"
+            },
+            {
+                "name": "survival_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00165-0f17f9542f59cd97a1d82d21b0322e62"
+            },
+            {
+                "name": "survival_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00166-2fe5f82d6442fe9f039af8e18b6e5e7a"
+            },
+            {
+                "name": "survival_ability",
+                "current": 1,
+                "max": "",
+                "id": "-00167-e400a6abdc8f88d0d0bbda432aecffcd"
+            },
+            {
+                "name": "survival_ability_select",
+                "current": "@{wisdom_modifier}",
+                "max": "",
+                "id": "-00168-4e93f272f114c884af34130d0db5bea4"
+            },
+            {
+                "name": "thievery",
+                "current": 6,
+                "max": "",
+                "id": "-00169-5254c24866abb5a5c4be4475477f42ce"
+            },
+            {
+                "name": "thievery_proficiency_display",
+                "current": "T",
+                "max": "",
+                "id": "-00170-177140375b56645f64323052ee481904"
+            },
+            {
+                "name": "thievery_proficiency",
+                "current": 3,
+                "max": "",
+                "id": "-00171-fbdca2c6b9b4cb8f41d0b6aafc88bdb4"
+            },
+            {
+                "name": "thievery_item",
+                "current": 0,
+                "max": "",
+                "id": "-00172-06f20fcd8e3ac2447efdd73315bd74a0"
+            },
+            {
+                "name": "thievery_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00173-8df783cfbee17ec1169182d15399dd67"
+            },
+            {
+                "name": "thievery_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00174-c77148ba7b0a11e8af307154aa5ce862"
+            },
+            {
+                "name": "thievery_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00175-b78386b75c4a426e861d49bf7b7d549c"
+            },
+            {
+                "name": "thievery_ability",
+                "current": 3,
+                "max": "",
+                "id": "-00176-a4558b2da4250bc975bd7beb87d646e5"
+            },
+            {
+                "name": "thievery_ability_select",
+                "current": "@{dexterity_modifier}",
+                "max": "",
+                "id": "-00177-04091d4972022af008024da9eeee7642"
+            },
+            {
+                "name": "weapon_proficiencies_simple_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00178-936052cc54ee029409641e2405d2eb99"
+            },
+            {
+                "name": "weapon_proficiencies_martial_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00179-f909334d619948f4b4b6eeb43a400010"
+            },
+            {
+                "name": "repeating_weapon-proficiencies_-00180-8e179ec9c871bb9e2089eaa7148a193e_weapon_proficiencies_other",
+                "current": "Unarmed",
+                "max": "",
+                "id": "-00181-aa32c0e74fb68502d08d291ac930737d"
+            },
+            {
+                "name": "repeating_weapon-proficiencies_-00180-8e179ec9c871bb9e2089eaa7148a193e_weapon_proficiencies_other_rank",
+                "current": "2",
+                "max": "",
+                "id": "-00182-e7ef249ea9fd61eb3fb1e93b03e69625"
+            },
+            {
+                "name": "armor_class_unarmored_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00183-e75e6d171110b69fda9066f35c775f69"
+            },
+            {
+                "name": "armor_class_light_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00184-b5cf1551c4a377ec748d278ced4184de"
+            },
+            {
+                "name": "armor_class_medium_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00185-442efc61ba212fafd76118f1ddce19a5"
+            },
+            {
+                "name": "armor_class_heavy_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00186-af595b41c097dd61e332b618a1123cdd"
+            },
+            {
+                "name": "saving_throws_fortitude",
+                "current": 4,
+                "max": "",
+                "id": "-00187-a7d81b6e12910f29ce9012854dd42d3f"
+            },
+            {
+                "name": "saving_throws_fortitude_proficiency",
+                "current": 3,
+                "max": "",
+                "id": "-00188-a8b1d11a1cc322f262f021f4e74ea30a"
+            },
+            {
+                "name": "saving_throws_fortitude_proficiency_display",
+                "current": "T",
+                "max": "",
+                "id": "-00189-4b182da4b1193b6371088e854fbb521b"
+            },
+            {
+                "name": "saving_throws_fortitude_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00190-128792fad74b2dd38511b93e7540150a"
+            },
+            {
+                "name": "saving_throws_fortitude_ability_select",
+                "current": "@{constitution_modifier}",
+                "max": "",
+                "id": "-00191-469ce1b7b6b3bade71d4afd78560c17b"
+            },
+            {
+                "name": "saving_throws_reflex",
+                "current": 6,
+                "max": "",
+                "id": "-00192-6c956990f779207c2c1873b8420bea05"
+            },
+            {
+                "name": "saving_throws_reflex_proficiency",
+                "current": 3,
+                "max": "",
+                "id": "-00193-5b6ded49759235f6176c042ae8a399f1"
+            },
+            {
+                "name": "saving_throws_reflex_proficiency_display",
+                "current": "T",
+                "max": "",
+                "id": "-00194-3c4fb3597e733cbd048fff8b98c43f62"
+            },
+            {
+                "name": "saving_throws_reflex_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00195-aa31fc52048032942e2820f953700b92"
+            },
+            {
+                "name": "saving_throws_reflex_ability_select",
+                "current": "@{dexterity_modifier}",
+                "max": "",
+                "id": "-00196-9eb91fe7d94ca3dec519d88554275b17"
+            },
+            {
+                "name": "saving_throws_will",
+                "current": 3,
+                "max": "",
+                "id": "-00197-fd4aea3e9aa5c5310b73b336809ecbbc"
+            },
+            {
+                "name": "saving_throws_will_proficiency",
+                "current": 5,
+                "max": "",
+                "id": "-00198-ca74451487f55bf1e875b50c626681a9"
+            },
+            {
+                "name": "saving_throws_will_proficiency_display",
+                "current": "E",
+                "max": "",
+                "id": "-00199-884e1e26c58bb3a9b7d3549544f9c5e2"
+            },
+            {
+                "name": "saving_throws_will_rank",
+                "current": 4,
+                "max": "",
+                "id": "-00200-2199828b2cf3e8a5c1dc91ee40471d97"
+            },
+            {
+                "name": "saving_throws_will_ability_select",
+                "current": "@{wisdom_modifier}",
+                "max": "",
+                "id": "-00201-fab636a5f92100ac333b2b81cd65f784"
+            },
+            {
+                "name": "perception",
+                "current": 6,
+                "max": "",
+                "id": "-00202-6484f7f16720058ada0f65c0fd41a191"
+            },
+            {
+                "name": "perception_proficiency_display",
+                "current": "E",
+                "max": "",
+                "id": "-00203-7d4fc7067bdd7150c213362a5e7b218a"
+            },
+            {
+                "name": "perception_proficiency",
+                "current": 5,
+                "max": "",
+                "id": "-00204-81a1c9cdf9a62cf83479258a7091169d"
+            },
+            {
+                "name": "perception_item",
+                "current": 0,
+                "max": "",
+                "id": "-00205-2507650b174594797182b9c2c1b0b06f"
+            },
+            {
+                "name": "perception_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00206-32e2cdc37d25f02b31d3b07085cc79e1"
+            },
+            {
+                "name": "perception_rank",
+                "current": 4,
+                "max": "",
+                "id": "-00207-e5776e1cc8967b62791b53e2667a2e0f"
+            },
+            {
+                "name": "class_dc",
+                "current": 16,
+                "max": "",
+                "id": "-00208-01050ed2ab43fe19a41c895e60b3d560"
+            },
+            {
+                "name": "class_dc_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00209-b5cd668a1bb649e96e3c508fef1ca6e3"
+            },
+            {
+                "name": "class_dc_proficiency_display",
+                "current": "T",
+                "max": "",
+                "id": "-00210-4bf2ab23449c5b7166c9da975c6a430d"
+            },
+            {
+                "name": "class_dc_proficiency",
+                "current": 3,
+                "max": "",
+                "id": "-00211-a42baaf571413ba79198bda196e00d70"
+            },
+            {
+                "name": "class_dc_key_ability",
+                "current": 3,
+                "max": "",
+                "id": "-00212-b7b8cfc255a83bd6e14b59bd6025875b"
+            },
+            {
+                "name": "class_dc_key_ability_select",
+                "current": "@{charisma_modifier}",
+                "max": "",
+                "id": "-00213-087adb8fc10a1700f096fec3425fd319"
+            },
+            {
+                "name": "ac",
+                "current": 16,
+                "max": "",
+                "id": "-00214-7306628c9550dd88eb6818812bfc592a"
+            },
+            {
+                "name": "armor_class",
+                "current": 16,
+                "max": "",
+                "id": "-00215-6270614dbd7f7f8caf75977e7268dcad"
+            },
+            {
+                "name": "armor_class_ability",
+                "current": 3,
+                "max": "",
+                "id": "-00216-0af58cb055d8c0afbd34f7c3717a36dc"
+            },
+            {
+                "name": "armor_class_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00217-62c7e766a20ccf2cb37e0045bfb6a090"
+            },
+            {
+                "name": "armor_class_proficiency",
+                "current": 3,
+                "max": "",
+                "id": "-00218-ea22899588278561923d2a9849b49a05"
+            },
+            {
+                "name": "armor_class_proficiency_display",
+                "current": "T",
+                "max": "",
+                "id": "-00219-effceed9fdf26d54b00c332e2f0be46f"
+            },
+            {
+                "name": "armor_class_ability_select",
+                "current": "@{dexterity_modifier}",
+                "max": "",
+                "id": "-00220-a8e3f892ae65ae30d819c9389b34e652"
+            },
+            {
+                "name": "armor_class_dc_rank",
+                "current": "2",
+                "max": "",
+                "id": "-00221-b58053eeaede7849eb1fb87ccf538bdd"
+            },
+            {
+                "name": "armor_class_shield",
+                "current": 16,
+                "max": "",
+                "id": "-00222-9024172afc86215a6743cfca8ee5544d"
+            },
+            {
+                "name": "hit_points",
+                "current": 17,
+                "max": "",
+                "id": "-00223-fa0a77fa8f7011c645ca775518942c81"
+            },
+            {
+                "name": "hit_points_max",
+                "current": 17,
+                "max": "",
+                "id": "-00224-7cc140d14ac014b7bf631f286a046780"
+            },
+            {
+                "name": "hit_points_class",
+                "current": 8,
+                "max": "",
+                "id": "-00225-6b447692864dab3a13cae5edc73fdbd0"
+            },
+            {
+                "name": "hit_points_ancestry",
+                "current": 8,
+                "max": "",
+                "id": "-00226-90fba4104d7045380291fc536618be98"
+            },
+            {
+                "name": "hit_points_notes",
+                "current": "",
+                "max": "",
+                "id": "-00227-6375d6504b1c9a7dcb6e4ff2d0601e37"
+            },
+            {
+                "name": "speed",
+                "current": 25,
+                "max": "",
+                "id": "-00228-d083850c504b585b93371427208ce6d0"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00229-678d0c80e89748e67f65bab56ba6c942_feat_ancestry",
+                "current": "Chameleon Gnome",
+                "max": "",
+                "id": "-00230-066b132037bdf82aa547a40e741bc5bd"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00229-678d0c80e89748e67f65bab56ba6c942_feat_ancestry_type",
+                "current": "",
+                "max": "",
+                "id": "-00231-a887aa59dc1165be844211cb98b30d82"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00229-678d0c80e89748e67f65bab56ba6c942_feat_ancestry_level",
+                "current": 1,
+                "max": "",
+                "id": "-00232-bf4e6e0c9c11a82081f5d6ecab74c34a"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00229-678d0c80e89748e67f65bab56ba6c942_feat_ancestry_traits",
+                "current": "",
+                "max": "",
+                "id": "-00233-01c02145afe3b05ca42ed4ec63b62f90"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00229-678d0c80e89748e67f65bab56ba6c942_feat_ancestry_prerequisites",
+                "current": "",
+                "max": "",
+                "id": "-00234-1f06486afb511e33bb147b11275ff117"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00229-678d0c80e89748e67f65bab56ba6c942_feat_ancestry_action",
+                "current": "none",
+                "max": "",
+                "id": "-00235-ecede432b3904eae7333163854b529e7"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00229-678d0c80e89748e67f65bab56ba6c942_feat_ancestry_trigger",
+                "current": "",
+                "max": "",
+                "id": "-00236-60163e48e2e94bfeb1330925fa9deac4"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00229-678d0c80e89748e67f65bab56ba6c942_feat_ancestry_requirements",
+                "current": "",
+                "max": "",
+                "id": "-00237-445727dc0b55a85638d95e6f536e3c90"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00229-678d0c80e89748e67f65bab56ba6c942_feat_ancestry_frequency",
+                "current": "",
+                "max": "",
+                "id": "-00238-5fbbb19ea786522a9cff682753e656f0"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00229-678d0c80e89748e67f65bab56ba6c942_feat_ancestry_benefits",
+                "current": "",
+                "max": "",
+                "id": "-00239-d205547eb3ff629b15629ab6da92329b"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00229-678d0c80e89748e67f65bab56ba6c942_feat_ancestry_notes",
+                "current": "\n\n",
+                "max": "",
+                "id": "-00240-2282f813221f9257fcc7c5a337b04aff"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00229-678d0c80e89748e67f65bab56ba6c942_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00241-4037e3c74eadadcd150171b8f6a44177"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00242-fa00624266f5d1895dafb00c667445c2_feat_ancestry",
+                "current": "Natural Performer",
+                "max": "",
+                "id": "-00243-b0792dfdaab3e5a39e819911f76ff795"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00242-fa00624266f5d1895dafb00c667445c2_feat_ancestry_type",
+                "current": "",
+                "max": "",
+                "id": "-00244-30cd6099f85c24ec0bacacdfbe3088f9"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00242-fa00624266f5d1895dafb00c667445c2_feat_ancestry_level",
+                "current": 1,
+                "max": "",
+                "id": "-00245-8392730eeff2bfe8064902ab12a48822"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00242-fa00624266f5d1895dafb00c667445c2_feat_ancestry_traits",
+                "current": "Gnome",
+                "max": "",
+                "id": "-00246-f1cd19dc4eb62af20e3218d380556f69"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00242-fa00624266f5d1895dafb00c667445c2_feat_ancestry_prerequisites",
+                "current": "",
+                "max": "",
+                "id": "-00247-2206278afab4598bea996ec564a20223"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00242-fa00624266f5d1895dafb00c667445c2_feat_ancestry_action",
+                "current": "none",
+                "max": "",
+                "id": "-00248-fb05c02c4decd263dfff956b17e47719"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00242-fa00624266f5d1895dafb00c667445c2_feat_ancestry_trigger",
+                "current": "",
+                "max": "",
+                "id": "-00249-218826c03af6cc3c93c3a88641a60812"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00242-fa00624266f5d1895dafb00c667445c2_feat_ancestry_requirements",
+                "current": "",
+                "max": "",
+                "id": "-00250-720ffc56b21feade97466fa321c23e0b"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00242-fa00624266f5d1895dafb00c667445c2_feat_ancestry_frequency",
+                "current": "",
+                "max": "",
+                "id": "-00251-3e6c2eacaa5a26fc089da3d59c99805d"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00242-fa00624266f5d1895dafb00c667445c2_feat_ancestry_benefits",
+                "current": "",
+                "max": "",
+                "id": "-00252-669226482558339670dbce6596ad7923"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00242-fa00624266f5d1895dafb00c667445c2_feat_ancestry_notes",
+                "current": "Entertainment comes naturally to you. You become trained in Performance and gain one 1st-level Performance skill feat.Traits\n\nGnome: A creature with this trait is a member of the gnome ancestry. Gnomes are small people skilled at magic who seek out new experiences and usually have low-light vision. An ability with this trait can be used or selected only by gnomes. A weapon with this trait is created and used by gnomes.\n\nhttps:\/\/2e.aonprd.com\/Feats.aspx?ID=991",
+                "max": "",
+                "id": "-00253-f9e4e08a1b2188e1833f1af8055f48ce"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00242-fa00624266f5d1895dafb00c667445c2_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00254-4881d4e435622ba5bd99cd55703af164"
+            },
+            {
+                "name": "repeating_feat-skill_-00255-03ed710f24becab17212e7029416a5ab_feat_skill",
+                "current": "Impressive Performance",
+                "max": "",
+                "id": "-00256-dde2f58aff118acdf93f2ad53693afbb"
+            },
+            {
+                "name": "repeating_feat-skill_-00255-03ed710f24becab17212e7029416a5ab_feat_skill_level",
+                "current": 1,
+                "max": "",
+                "id": "-00257-4255d584e9a16cf3cd56628977aea579"
+            },
+            {
+                "name": "repeating_feat-skill_-00255-03ed710f24becab17212e7029416a5ab_feat_skill_skill",
+                "current": "",
+                "max": "",
+                "id": "-00258-3efd1b434075b50620951d744ca3ddc2"
+            },
+            {
+                "name": "repeating_feat-skill_-00255-03ed710f24becab17212e7029416a5ab_feat_skill_traits",
+                "current": "General, Skill",
+                "max": "",
+                "id": "-00259-17ce169b0caf1c34dce45c76f8c7a215"
+            },
+            {
+                "name": "repeating_feat-skill_-00255-03ed710f24becab17212e7029416a5ab_feat_skill_prerequisites",
+                "current": "Trained In Performance",
+                "max": "",
+                "id": "-00260-88b8af62f91468a2bae4eb1c334a2569"
+            },
+            {
+                "name": "repeating_feat-skill_-00255-03ed710f24becab17212e7029416a5ab_feat_skill_action",
+                "current": "none",
+                "max": "",
+                "id": "-00261-fcc8f23e4999fe72d0bcb49a8f4cdb6f"
+            },
+            {
+                "name": "repeating_feat-skill_-00255-03ed710f24becab17212e7029416a5ab_feat_skill_trigger",
+                "current": "",
+                "max": "",
+                "id": "-00262-67a75de7c13e18c9e4b0f4d7ccdff7bf"
+            },
+            {
+                "name": "repeating_feat-skill_-00255-03ed710f24becab17212e7029416a5ab_feat_skill_requirements",
+                "current": "",
+                "max": "",
+                "id": "-00263-722a3a37b662a6a6d55fc70974ca89a2"
+            },
+            {
+                "name": "repeating_feat-skill_-00255-03ed710f24becab17212e7029416a5ab_feat_skill_frequency",
+                "current": "",
+                "max": "",
+                "id": "-00264-74219ce03b21fa321ccaa49ab991f554"
+            },
+            {
+                "name": "repeating_feat-skill_-00255-03ed710f24becab17212e7029416a5ab_feat_skill_benefits",
+                "current": "",
+                "max": "",
+                "id": "-00265-0a1aa09403870af5ce8ca39eaab58a43"
+            },
+            {
+                "name": "repeating_feat-skill_-00255-03ed710f24becab17212e7029416a5ab_feat_skill_notes",
+                "current": "Your performances inspire admiration and win you fans. You can Make an Impression using Performance instead of Diplomacy.Impressive Performance Leads To...\n\nGladiator DedicationTraitsGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.\n\nhttps:\/\/2e.aonprd.com\/Feats.aspx?ID=793",
+                "max": "",
+                "id": "-00266-4df5e428fe3f7b82d74c5012a8ca6c9a"
+            },
+            {
+                "name": "repeating_feat-skill_-00255-03ed710f24becab17212e7029416a5ab_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00267-0ff6d3f2612c36bcea7ebf6cf2fde5cd"
+            },
+            {
+                "name": "repeating_feat-bonus_-00268-4a004adb1fa4cc6fd640efe29e1409ec_feat_bonus",
+                "current": "Train Animal",
+                "max": "",
+                "id": "-00269-80c096b709081b3c41f03df08251ce69"
+            },
+            {
+                "name": "repeating_feat-bonus_-00268-4a004adb1fa4cc6fd640efe29e1409ec_feat_bonus_level",
+                "current": 1,
+                "max": "",
+                "id": "-00270-c8cd44bc5349dec3379a68fb77e74ac0"
+            },
+            {
+                "name": "repeating_feat-bonus_-00268-4a004adb1fa4cc6fd640efe29e1409ec_feat_bonus_traits",
+                "current": "Downtime, General, Manipulate, Skill",
+                "max": "",
+                "id": "-00271-4362d897c3a366ee4d9097a7afa3d55e"
+            },
+            {
+                "name": "repeating_feat-bonus_-00268-4a004adb1fa4cc6fd640efe29e1409ec_feat_bonus_prerequisites",
+                "current": "Trained In Nature",
+                "max": "",
+                "id": "-00272-fb875e7c2e5a8ce20b52779b498b8b91"
+            },
+            {
+                "name": "repeating_feat-bonus_-00268-4a004adb1fa4cc6fd640efe29e1409ec_feat_bonus_action",
+                "current": "none",
+                "max": "",
+                "id": "-00273-c61c6ee0a6b683643e74af5ca88aa109"
+            },
+            {
+                "name": "repeating_feat-bonus_-00268-4a004adb1fa4cc6fd640efe29e1409ec_feat_bonus_trigger",
+                "current": "",
+                "max": "",
+                "id": "-00274-304789ea57739503f708248c360d2d58"
+            },
+            {
+                "name": "repeating_feat-bonus_-00268-4a004adb1fa4cc6fd640efe29e1409ec_feat_bonus_requirements",
+                "current": "",
+                "max": "",
+                "id": "-00275-1bb2c198dc11330b2bb0731e0f4f027b"
+            },
+            {
+                "name": "repeating_feat-bonus_-00268-4a004adb1fa4cc6fd640efe29e1409ec_feat_bonus_frequency",
+                "current": "",
+                "max": "",
+                "id": "-00276-ecf97f76f400b1e5b7acb13c9935ec6a"
+            },
+            {
+                "name": "repeating_feat-bonus_-00268-4a004adb1fa4cc6fd640efe29e1409ec_feat_bonus_benefits",
+                "current": "",
+                "max": "",
+                "id": "-00277-a827b261a5f1c537088f7c2e2d321612"
+            },
+            {
+                "name": "repeating_feat-bonus_-00268-4a004adb1fa4cc6fd640efe29e1409ec_feat_bonus_notes",
+                "current": "You spend time teaching an animal to do a certain action. You can either select a basic action the animal already knows how to do (typically those listed in the Command an Animal action) or attempt to teach the animal a new basic action. The GM determines the DC of any check required and the amount of time the training takes (usually at least a week). It\u2019s usually impossible to teach an animal a trick that uses critical thinking. If you\u2019re expert, master, or legendary in Nature, you might be able to train more unusual creatures, at the GM\u2019s discretion.\n\nSuccess The animal learns the action. If it was an action the animal already knew, you can Command the Animal to take that action without attempting a Nature check. If it was a new basic action, add that action to the actions the animal can take when Commanded, but you must still roll.\nFailure The animal doesn\u2019t learn the trick.Traits\n\nDowntime: An activity with this trait takes a day or more, and can be used only during downtime.\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.Manipulate: You must physically manipulate an item or make gestures to use an action with this trait. Creatures without a suitable appendage can\u2019t perform actions with this trait. Manipulate actions often trigger reactions.Skill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.\n\nhttps:\/\/2e.aonprd.com\/Feats.aspx?ID=856",
+                "max": "",
+                "id": "-00278-4143dcc72e0813527e0fd430cb1ac90a"
+            },
+            {
+                "name": "repeating_feat-bonus_-00268-4a004adb1fa4cc6fd640efe29e1409ec_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00279-cd25329f24d83a5af40c0c6d6e29023c"
+            },
+            {
+                "name": "repeating_feat-bonus_-00280-b16e90b9bcfe18c820b46ce769321f46_feat_bonus",
+                "current": "Lingering Composition",
+                "max": "",
+                "id": "-00281-4e12061736682b02f375467f5170ae87"
+            },
+            {
+                "name": "repeating_feat-bonus_-00280-b16e90b9bcfe18c820b46ce769321f46_feat_bonus_level",
+                "current": 1,
+                "max": "",
+                "id": "-00282-1b31ad435df825ebe340a1f486338613"
+            },
+            {
+                "name": "repeating_feat-bonus_-00280-b16e90b9bcfe18c820b46ce769321f46_feat_bonus_traits",
+                "current": "Bard",
+                "max": "",
+                "id": "-00283-ad1a6d9dc9478eff98ea93c9b1355433"
+            },
+            {
+                "name": "repeating_feat-bonus_-00280-b16e90b9bcfe18c820b46ce769321f46_feat_bonus_prerequisites",
+                "current": "Maestro Muse",
+                "max": "",
+                "id": "-00284-8eab4c52c1808c61635274da48c76cf1"
+            },
+            {
+                "name": "repeating_feat-bonus_-00280-b16e90b9bcfe18c820b46ce769321f46_feat_bonus_action",
+                "current": "none",
+                "max": "",
+                "id": "-00285-6eba1fc5a4adadd9db4c4b9f2105e4fd"
+            },
+            {
+                "name": "repeating_feat-bonus_-00280-b16e90b9bcfe18c820b46ce769321f46_feat_bonus_trigger",
+                "current": "",
+                "max": "",
+                "id": "-00286-2ea622270742e613c4ef8d8d866d1c20"
+            },
+            {
+                "name": "repeating_feat-bonus_-00280-b16e90b9bcfe18c820b46ce769321f46_feat_bonus_requirements",
+                "current": "",
+                "max": "",
+                "id": "-00287-e531bd5b8debd22c19a15e2d6734ba6a"
+            },
+            {
+                "name": "repeating_feat-bonus_-00280-b16e90b9bcfe18c820b46ce769321f46_feat_bonus_frequency",
+                "current": "",
+                "max": "",
+                "id": "-00288-3bc5433e65042b4072954a4f2770c9b2"
+            },
+            {
+                "name": "repeating_feat-bonus_-00280-b16e90b9bcfe18c820b46ce769321f46_feat_bonus_benefits",
+                "current": "",
+                "max": "",
+                "id": "-00289-4e5c034741e01dcba3e1551c7f2fa58b"
+            },
+            {
+                "name": "repeating_feat-bonus_-00280-b16e90b9bcfe18c820b46ce769321f46_feat_bonus_notes",
+                "current": "By adding a flourish, you make your compositions last longer. You learn the lingering composition focus spell. Increase the number of Focus Points in your focus pool by 1.\n\nhttps:\/\/2e.aonprd.com\/Feats.aspx?ID=180",
+                "max": "",
+                "id": "-00290-89afcdba3ac1ac664dc83b8181c1cfa6"
+            },
+            {
+                "name": "repeating_feat-bonus_-00280-b16e90b9bcfe18c820b46ce769321f46_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00291-e3f2dae317b5cc5d587fe9c09cfef6e5"
+            },
+            {
+                "name": "repeating_feat-bonus_-00292-b1132cd6e18ecc3ecb575cff3f4ad493_feat_bonus",
+                "current": "Wellspring Magic",
+                "max": "",
+                "id": "-00293-ca0a98c937c431c15a83bebd046391f0"
+            },
+            {
+                "name": "repeating_feat-bonus_-00292-b1132cd6e18ecc3ecb575cff3f4ad493_feat_bonus_level",
+                "current": 1,
+                "max": "",
+                "id": "-00294-afe12e60674f5793de8cb2f419ba66d9"
+            },
+            {
+                "name": "repeating_feat-bonus_-00292-b1132cd6e18ecc3ecb575cff3f4ad493_feat_bonus_traits",
+                "current": "",
+                "max": "",
+                "id": "-00295-ffef20a06b6707c19e046f7aeb16a8ef"
+            },
+            {
+                "name": "repeating_feat-bonus_-00292-b1132cd6e18ecc3ecb575cff3f4ad493_feat_bonus_prerequisites",
+                "current": "",
+                "max": "",
+                "id": "-00296-014c3871470cc73643377d48e7343d47"
+            },
+            {
+                "name": "repeating_feat-bonus_-00292-b1132cd6e18ecc3ecb575cff3f4ad493_feat_bonus_action",
+                "current": "none",
+                "max": "",
+                "id": "-00297-e17cd90dd22a6ea46570c2c7ca10007f"
+            },
+            {
+                "name": "repeating_feat-bonus_-00292-b1132cd6e18ecc3ecb575cff3f4ad493_feat_bonus_trigger",
+                "current": "",
+                "max": "",
+                "id": "-00298-37dd45423738defc44d91b9397fa346a"
+            },
+            {
+                "name": "repeating_feat-bonus_-00292-b1132cd6e18ecc3ecb575cff3f4ad493_feat_bonus_requirements",
+                "current": "",
+                "max": "",
+                "id": "-00299-2f1b58eb3b1ab9943cfe0f0a37c7dcbc"
+            },
+            {
+                "name": "repeating_feat-bonus_-00292-b1132cd6e18ecc3ecb575cff3f4ad493_feat_bonus_frequency",
+                "current": "",
+                "max": "",
+                "id": "-00300-e64d771a314d0dddca2718d09fb3317d"
+            },
+            {
+                "name": "repeating_feat-bonus_-00292-b1132cd6e18ecc3ecb575cff3f4ad493_feat_bonus_benefits",
+                "current": "",
+                "max": "",
+                "id": "-00301-383c194437efbe79b18117c4deddb422"
+            },
+            {
+                "name": "repeating_feat-bonus_-00292-b1132cd6e18ecc3ecb575cff3f4ad493_feat_bonus_notes",
+                "current": "\n\n",
+                "max": "",
+                "id": "-00302-d89ca5c9a29c4d56cc2b0a85ccafc4cb"
+            },
+            {
+                "name": "repeating_feat-bonus_-00292-b1132cd6e18ecc3ecb575cff3f4ad493_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00303-cd19ec617d977981b8cb34a869e326e6"
+            },
+            {
+                "name": "spellcaster_prepared",
+                "current": "",
+                "max": "",
+                "id": "-00304-81695399125e795a29f2cdb3a230eda7"
+            },
+            {
+                "name": "spellcaster_spontaneous",
+                "current": "spontaneous",
+                "max": "",
+                "id": "-00305-c0fba90ac08cca6c15a5d3b9272c42a7"
+            },
+            {
+                "name": "magic_tradition_arcane_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00306-99252898cf99a9ccf73ebf5f4042988e"
+            },
+            {
+                "name": "magic_tradition_arcane_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "-00307-17800a4a93c7d0e07413b97b19e234de"
+            },
+            {
+                "name": "magic_tradition_primal_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00308-843cd843e05edb066cc97a2ed82b0e73"
+            },
+            {
+                "name": "magic_tradition_primal_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "-00309-e7a953f01dac243ba0477ccadbcb4007"
+            },
+            {
+                "name": "magic_tradition_occult_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00310-fb25527231cd1c94f7c95b8b75c6c2f1"
+            },
+            {
+                "name": "magic_tradition_occult_proficiency",
+                "current": 3,
+                "max": "",
+                "id": "-00311-7bf0c91a8d9944dbb7abb31fe62df831"
+            },
+            {
+                "name": "magic_tradition_divine_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00312-15b37e205f471618ee6dad742f05a24d"
+            },
+            {
+                "name": "magic_tradition_divine_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "-00313-c9d090737939582a22a7dd70845825df"
+            },
+            {
+                "name": "focus_points",
+                "current": 2,
+                "max": 2,
+                "id": "-00314-87c6ae29fa11a3df581be8d8b112fe4d"
+            },
+            {
+                "name": "cantrips_per_day",
+                "current": 4,
+                "max": 4,
+                "id": "-00315-8d676acd251bd04f2f809b3892e30316"
+            },
+            {
+                "name": "level_1_per_day",
+                "current": 1,
+                "max": 1,
+                "id": "-00316-e406a60f32345f8796d211ee1b95f07d"
+            },
+            {
+                "name": "level_2_per_day",
+                "current": 0,
+                "max": 0,
+                "id": "-00317-e8ad75f7cf3abe3fc69ffe3f3fe160a8"
+            },
+            {
+                "name": "level_3_per_day",
+                "current": 0,
+                "max": 0,
+                "id": "-00318-12ed4dba13d53a23c0f482b60ea05ea8"
+            },
+            {
+                "name": "level_4_per_day",
+                "current": 0,
+                "max": 0,
+                "id": "-00319-302a727c6299b3c56d5f5348ce653395"
+            },
+            {
+                "name": "level_5_per_day",
+                "current": 0,
+                "max": 0,
+                "id": "-00320-20a600f4303fc59d0eda9c992a6349e6"
+            },
+            {
+                "name": "level_6_per_day",
+                "current": 0,
+                "max": 0,
+                "id": "-00321-45806885f0989a42e8ce7f894da8d485"
+            },
+            {
+                "name": "level_7_per_day",
+                "current": 0,
+                "max": 0,
+                "id": "-00322-927c8ca28a79c40d9c53cc4d71801ddb"
+            },
+            {
+                "name": "level_8_per_day",
+                "current": 0,
+                "max": 0,
+                "id": "-00323-d408fe071a41f58a4a142b72363a5d99"
+            },
+            {
+                "name": "level_9_per_day",
+                "current": 0,
+                "max": 0,
+                "id": "-00324-8991067e817f8288454038fa9982d1e7"
+            },
+            {
+                "name": "level_10_per_day",
+                "current": 0,
+                "max": 0,
+                "id": "-00325-35a7e11fc2e2a52e77986c69853b93a0"
+            },
+            {
+                "name": "repeating_spellfocus_-00326-83cecde8385cf3a2738703d55cf63480_name",
+                "current": "Inspire Courage",
+                "max": "",
+                "id": "-00327-3096f9025acfd28678469c91d1037454"
+            },
+            {
+                "name": "repeating_spellfocus_-00326-83cecde8385cf3a2738703d55cf63480_spelllevel",
+                "current": 1,
+                "max": "",
+                "id": "-00328-b5fa4f4317efc663ff9eaa2c1389b827"
+            },
+            {
+                "name": "repeating_spellfocus_-00326-83cecde8385cf3a2738703d55cf63480_current_level",
+                "current": 1,
+                "max": "",
+                "id": "-00329-89e7a6b04c004db3b6395242a4ecd3fa"
+            },
+            {
+                "name": "repeating_spellfocus_-00326-83cecde8385cf3a2738703d55cf63480_traits",
+                "current": "Bard, Cantrip, Composition, Emotion, Enchantment, Mental",
+                "max": "",
+                "id": "-00330-7f4c25e27259622358ef801cf37f5f7a"
+            },
+            {
+                "name": "repeating_spellfocus_-00326-83cecde8385cf3a2738703d55cf63480_cast",
+                "current": "Somatic, Verbal",
+                "max": "",
+                "id": "-00331-8ae9a101907e732d62df4b97bfbc9d75"
+            },
+            {
+                "name": "repeating_spellfocus_-00326-83cecde8385cf3a2738703d55cf63480_target",
+                "current": "",
+                "max": "",
+                "id": "-00332-ab8c4affc52cce56e756051510917950"
+            },
+            {
+                "name": "repeating_spellfocus_-00326-83cecde8385cf3a2738703d55cf63480_duration",
+                "current": "1 round",
+                "max": "",
+                "id": "-00333-a88f47a7e32aede4b8ef0f54921fed37"
+            },
+            {
+                "name": "repeating_spellfocus_-00326-83cecde8385cf3a2738703d55cf63480_range",
+                "current": "",
+                "max": "",
+                "id": "-00334-1640460a0413a5d838224105fc5eb5bf"
+            },
+            {
+                "name": "repeating_spellfocus_-00326-83cecde8385cf3a2738703d55cf63480_school",
+                "current": "enchantment",
+                "max": "",
+                "id": "-00335-791b26e71cee62cb8115b29a21af0da4"
+            },
+            {
+                "name": "repeating_spellfocus_-00326-83cecde8385cf3a2738703d55cf63480_cast_actions",
+                "current": "1-action",
+                "max": "",
+                "id": "-00336-2eda0f8ac40266948fe46dbe93cd3157"
+            },
+            {
+                "name": "repeating_spellfocus_-00326-83cecde8385cf3a2738703d55cf63480_description",
+                "current": "You inspire your allies with words or tunes of encouragement. You and all allies in the area gain a +1 status bonus to attack rolls, damage rolls, and saves against fear effects.\n\nhttps:\/\/2e.aonprd.com\/Spells.aspx?ID=386",
+                "max": "",
+                "id": "-00337-6d1d1fd990d80833f3cbee3511ed533f"
+            },
+            {
+                "name": "repeating_spellfocus_-00326-83cecde8385cf3a2738703d55cf63480_uses",
+                "current": 1,
+                "max": 1,
+                "id": "-00338-fd8302702b3f51eace769e02c50cd72a"
+            },
+            {
+                "name": "repeating_spellfocus_-00326-83cecde8385cf3a2738703d55cf63480_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00339-8040d43cb669c9b11dee51ab7ba1f752"
+            },
+            {
+                "name": "repeating_spellfocus_-00340-505b8ac2ee6ea40befda18bb87aef6ab_name",
+                "current": "Counter Performance",
+                "max": "",
+                "id": "-00341-e57b13531fbcac0c5485f9b20c127c61"
+            },
+            {
+                "name": "repeating_spellfocus_-00340-505b8ac2ee6ea40befda18bb87aef6ab_spelllevel",
+                "current": 1,
+                "max": "",
+                "id": "-00342-9ee286cb1d22b512c25676b5d8140222"
+            },
+            {
+                "name": "repeating_spellfocus_-00340-505b8ac2ee6ea40befda18bb87aef6ab_current_level",
+                "current": 1,
+                "max": "",
+                "id": "-00343-c46dc9a388b6082cfe9cf0230fecff75"
+            },
+            {
+                "name": "repeating_spellfocus_-00340-505b8ac2ee6ea40befda18bb87aef6ab_traits",
+                "current": "Bard, Composition, Enchantment, Fortune, Mental",
+                "max": "",
+                "id": "-00344-44c414560d6723f3feccce388cb23974"
+            },
+            {
+                "name": "repeating_spellfocus_-00340-505b8ac2ee6ea40befda18bb87aef6ab_cast",
+                "current": "Somatic, Verbal",
+                "max": "",
+                "id": "-00345-a17599a1c8d7fc24e6cc0da18ab3ecb3"
+            },
+            {
+                "name": "repeating_spellfocus_-00340-505b8ac2ee6ea40befda18bb87aef6ab_target",
+                "current": "",
+                "max": "",
+                "id": "-00346-764eac7486d89ab36f2ed4fc94cde5e8"
+            },
+            {
+                "name": "repeating_spellfocus_-00340-505b8ac2ee6ea40befda18bb87aef6ab_duration",
+                "current": "",
+                "max": "",
+                "id": "-00347-36d9848a6cbf40d0c63d2f60d211e8cb"
+            },
+            {
+                "name": "repeating_spellfocus_-00340-505b8ac2ee6ea40befda18bb87aef6ab_range",
+                "current": "",
+                "max": "",
+                "id": "-00348-047b4404866316ddc73ee74fa0b00425"
+            },
+            {
+                "name": "repeating_spellfocus_-00340-505b8ac2ee6ea40befda18bb87aef6ab_school",
+                "current": "enchantment",
+                "max": "",
+                "id": "-00349-03b28d11ccdf9c6287507c0018c01a52"
+            },
+            {
+                "name": "repeating_spellfocus_-00340-505b8ac2ee6ea40befda18bb87aef6ab_cast_actions",
+                "current": "reaction",
+                "max": "",
+                "id": "-00350-903e4aa1fb3a129e4d175a838c2ebf82"
+            },
+            {
+                "name": "repeating_spellfocus_-00340-505b8ac2ee6ea40befda18bb87aef6ab_description",
+                "current": "Your performance protects you and your allies. Roll a Performance check for a type you know: an auditory performance if the trigger was auditory, or a visual one for a visual trigger. You and allies in the area can use the better result between your Performance check and the saving throw.\n\nhttps:\/\/2e.aonprd.com\/Spells.aspx?ID=381",
+                "max": "",
+                "id": "-00351-8c3430a0e4b3ec6c5588f35147c11046"
+            },
+            {
+                "name": "repeating_spellfocus_-00340-505b8ac2ee6ea40befda18bb87aef6ab_uses",
+                "current": 1,
+                "max": 1,
+                "id": "-00352-290755fb51aee66e29c2ae2088d4a264"
+            },
+            {
+                "name": "repeating_spellfocus_-00340-505b8ac2ee6ea40befda18bb87aef6ab_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00353-4ba35eb3e0eb56a06a2da525295f802a"
+            },
+            {
+                "name": "repeating_spellfocus_-00354-d6498ca0558fb4cd08bc33ceb1341402_name",
+                "current": "Lingering Composition",
+                "max": "",
+                "id": "-00355-70a436dd8caef5627af758d6195cc5e1"
+            },
+            {
+                "name": "repeating_spellfocus_-00354-d6498ca0558fb4cd08bc33ceb1341402_spelllevel",
+                "current": 1,
+                "max": "",
+                "id": "-00356-14632fa3e4c0b23177e8d9b3c81ec3bd"
+            },
+            {
+                "name": "repeating_spellfocus_-00354-d6498ca0558fb4cd08bc33ceb1341402_current_level",
+                "current": 1,
+                "max": "",
+                "id": "-00357-c1abaee5a62901ed1faface840b7c05e"
+            },
+            {
+                "name": "repeating_spellfocus_-00354-d6498ca0558fb4cd08bc33ceb1341402_traits",
+                "current": "Bard, Enchantment",
+                "max": "",
+                "id": "-00358-0b4d983e54da4d0fb0bef05dd05d32f8"
+            },
+            {
+                "name": "repeating_spellfocus_-00354-d6498ca0558fb4cd08bc33ceb1341402_cast",
+                "current": "Verbal",
+                "max": "",
+                "id": "-00359-fa8ea8f020665726880dd18c9c363aa7"
+            },
+            {
+                "name": "repeating_spellfocus_-00354-d6498ca0558fb4cd08bc33ceb1341402_target",
+                "current": "",
+                "max": "",
+                "id": "-00360-fee13fd898417cc519bf59a18e9a51e2"
+            },
+            {
+                "name": "repeating_spellfocus_-00354-d6498ca0558fb4cd08bc33ceb1341402_duration",
+                "current": "",
+                "max": "",
+                "id": "-00361-bfdd73584ea9427084e50bef51e56527"
+            },
+            {
+                "name": "repeating_spellfocus_-00354-d6498ca0558fb4cd08bc33ceb1341402_range",
+                "current": "",
+                "max": "",
+                "id": "-00362-0f1af1b37fa18d1926f8f62cc7c30749"
+            },
+            {
+                "name": "repeating_spellfocus_-00354-d6498ca0558fb4cd08bc33ceb1341402_school",
+                "current": "enchantment",
+                "max": "",
+                "id": "-00363-fbb5de486175e3805e9f05df331ee396"
+            },
+            {
+                "name": "repeating_spellfocus_-00354-d6498ca0558fb4cd08bc33ceb1341402_cast_actions",
+                "current": "free_action",
+                "max": "",
+                "id": "-00364-dc77ae2310cc1160c1ce18b0c3564b7b"
+            },
+            {
+                "name": "repeating_spellfocus_-00354-d6498ca0558fb4cd08bc33ceb1341402_description",
+                "current": "You add a flourish to your composition to extend its benefits. If your next action is to cast a cantrip composition with a duration of 1 round, attempt a Performance check. The DC is usually a standard-difficulty DC of a level equal to the highest-level target of your composition, but the GM can assign a different DC based on the circumstances. The effect depends on the result of your check.\n\nCritical Success The composition lasts 4 rounds.\nSuccess The composition lasts 3 rounds.\nFailure The composition lasts 1 round, but you don't spend the Focus Point for casting this spell.\n\nhttps:\/\/2e.aonprd.com\/Spells.aspx?ID=389",
+                "max": "",
+                "id": "-00365-a023d06ffba838eded7a4da3cf279aeb"
+            },
+            {
+                "name": "repeating_spellfocus_-00354-d6498ca0558fb4cd08bc33ceb1341402_uses",
+                "current": 1,
+                "max": 1,
+                "id": "-00366-f1d48fa7b1a8b0671dbc81cd45b9d5e9"
+            },
+            {
+                "name": "repeating_spellfocus_-00354-d6498ca0558fb4cd08bc33ceb1341402_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00367-0f47f3cca6b33ac63b0128e797632131"
+            },
+            {
+                "name": "repeating_cantrip_-00368-d19958bb8728a54d46e8b6eb9a48c840_name",
+                "current": "Mage Hand",
+                "max": "",
+                "id": "-00369-d3ed61ec492139fa27081a296f7b7881"
+            },
+            {
+                "name": "repeating_cantrip_-00368-d19958bb8728a54d46e8b6eb9a48c840_spelllevel",
+                "current": 1,
+                "max": "",
+                "id": "-00370-7cf50b9a976084d9d7e44097f2499d67"
+            },
+            {
+                "name": "repeating_cantrip_-00368-d19958bb8728a54d46e8b6eb9a48c840_current_level",
+                "current": 1,
+                "max": "",
+                "id": "-00371-596f72cb09f1be97dc79e1735624708c"
+            },
+            {
+                "name": "repeating_cantrip_-00368-d19958bb8728a54d46e8b6eb9a48c840_traits",
+                "current": "Cantrip, Evocation",
+                "max": "",
+                "id": "-00372-93273857fb6eca6aaf905d6ff8256918"
+            },
+            {
+                "name": "repeating_cantrip_-00368-d19958bb8728a54d46e8b6eb9a48c840_cast",
+                "current": "Somatic, Verbal",
+                "max": "",
+                "id": "-00373-ab61f8fddb580b1641445fc4c2105443"
+            },
+            {
+                "name": "repeating_cantrip_-00368-d19958bb8728a54d46e8b6eb9a48c840_target",
+                "current": "1 unattended object of light Bulk or less",
+                "max": "",
+                "id": "-00374-a24c00f9e731fc24136877c38ffb9c8e"
+            },
+            {
+                "name": "repeating_cantrip_-00368-d19958bb8728a54d46e8b6eb9a48c840_duration",
+                "current": "sustained",
+                "max": "",
+                "id": "-00375-a0ae8e8e27e984e855345066c756fe75"
+            },
+            {
+                "name": "repeating_cantrip_-00368-d19958bb8728a54d46e8b6eb9a48c840_range",
+                "current": "30 feet",
+                "max": "",
+                "id": "-00376-01f8062d75ee0e2108189f51100cc774"
+            },
+            {
+                "name": "repeating_cantrip_-00368-d19958bb8728a54d46e8b6eb9a48c840_school",
+                "current": "evocation",
+                "max": "",
+                "id": "-00377-8ab569bf12cb3380df36eeb774566238"
+            },
+            {
+                "name": "repeating_cantrip_-00368-d19958bb8728a54d46e8b6eb9a48c840_cast_actions",
+                "current": "2-action",
+                "max": "",
+                "id": "-00378-0f6611a7d940388e41e6b8a0d0723e19"
+            },
+            {
+                "name": "repeating_cantrip_-00368-d19958bb8728a54d46e8b6eb9a48c840_description",
+                "current": "You create a single magical hand, either invisible or ghostlike, that grasps the target object and moves it slowly up to 20 feet. Because you're levitating the object, you can move it in any direction. When you Sustain the Spell, you can move the object an additional 20 feet. If the object is in the air when the spell ends, the object falls.\n\n------\n\nHeightened (3rd) You can target an unattended object with a Bulk of 1 or less.\nHeightened (5th) The range increases to 60 feet, and you can target an unattended object with a Bulk of 1 or less.\nHeightened (7th) The range increases to 60 feet, and you can target an unattended object with a Bulk of 2 or less.\n\nhttps:\/\/2e.aonprd.com\/Spells.aspx?ID=177",
+                "max": "",
+                "id": "-00379-0743e7e315e0e5bdb15da19469172410"
+            },
+            {
+                "name": "repeating_cantrip_-00368-d19958bb8728a54d46e8b6eb9a48c840_uses",
+                "current": 1,
+                "max": 1,
+                "id": "-00380-afd13db655b44270b8083f51333c7d0a"
+            },
+            {
+                "name": "repeating_cantrip_-00368-d19958bb8728a54d46e8b6eb9a48c840_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00381-d6ea6fb21e1216b423c18cb450fdd7ee"
+            },
+            {
+                "name": "repeating_cantrip_-00382-61ed9aa37da65471defb1461626e8230_name",
+                "current": "Detect Magic",
+                "max": "",
+                "id": "-00383-b09c649289bd25f84ce7bc21301054f8"
+            },
+            {
+                "name": "repeating_cantrip_-00382-61ed9aa37da65471defb1461626e8230_spelllevel",
+                "current": 1,
+                "max": "",
+                "id": "-00384-a2191f6a33ca945fa1732aa43cab4bf6"
+            },
+            {
+                "name": "repeating_cantrip_-00382-61ed9aa37da65471defb1461626e8230_current_level",
+                "current": 1,
+                "max": "",
+                "id": "-00385-9d816fa7aa5bd3b00969f95e48f2d3f5"
+            },
+            {
+                "name": "repeating_cantrip_-00382-61ed9aa37da65471defb1461626e8230_traits",
+                "current": "Cantrip, Detection, Divination",
+                "max": "",
+                "id": "-00386-b6f13a9fc98323f0ae5e95eb0e97823b"
+            },
+            {
+                "name": "repeating_cantrip_-00382-61ed9aa37da65471defb1461626e8230_cast",
+                "current": "Somatic, Verbal",
+                "max": "",
+                "id": "-00387-293624214c6871d793274ea61061d57e"
+            },
+            {
+                "name": "repeating_cantrip_-00382-61ed9aa37da65471defb1461626e8230_target",
+                "current": "",
+                "max": "",
+                "id": "-00388-7e4d5a21ae4789e0a66e316ffa377818"
+            },
+            {
+                "name": "repeating_cantrip_-00382-61ed9aa37da65471defb1461626e8230_duration",
+                "current": "",
+                "max": "",
+                "id": "-00389-3e078bd892fc7d039374a76059fdf054"
+            },
+            {
+                "name": "repeating_cantrip_-00382-61ed9aa37da65471defb1461626e8230_range",
+                "current": "",
+                "max": "",
+                "id": "-00390-846bace2f927d710b07e7f4b10147782"
+            },
+            {
+                "name": "repeating_cantrip_-00382-61ed9aa37da65471defb1461626e8230_school",
+                "current": "divination",
+                "max": "",
+                "id": "-00391-bec76708c7c1f4d3d39aa83fde5ae789"
+            },
+            {
+                "name": "repeating_cantrip_-00382-61ed9aa37da65471defb1461626e8230_cast_actions",
+                "current": "2-action",
+                "max": "",
+                "id": "-00392-1af56ea34cf8aacafc1062d3a508e04d"
+            },
+            {
+                "name": "repeating_cantrip_-00382-61ed9aa37da65471defb1461626e8230_description",
+                "current": "You send out a pulse that registers the presence of magic. You receive no information beyond the presence or absence of magic. You can choose to ignore magic you're fully aware of, such as the magic items and ongoing spells of you and your allies.\n\n You detect illusion magic only if that magic's effect has a lower level than the level of your detect magic spell. However, items that have an illusion aura but aren't deceptive in appearance (such as an invisibility potion) typically are detected normally.\n\n------\n\nHeightened (3rd) You learn the school of magic for the highest-level effect within range that the spell detects. If multiple effects are equally strong, the GM determines which you learn.\nHeightened (4th) As 3rd level, but you also pinpoint the source of the highest-level magic. Like for an imprecise sense, you don't learn the exact location, but can narrow down the source to within a 5-foot cube (or the nearest if larger than that).\n\nhttps:\/\/2e.aonprd.com\/Spells.aspx?ID=66",
+                "max": "",
+                "id": "-00393-086160ce2c2e19204bbe38d8dc0fc14c"
+            },
+            {
+                "name": "repeating_cantrip_-00382-61ed9aa37da65471defb1461626e8230_uses",
+                "current": 1,
+                "max": 1,
+                "id": "-00394-505d9ee71534d8d316da9353057b6e69"
+            },
+            {
+                "name": "repeating_cantrip_-00382-61ed9aa37da65471defb1461626e8230_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00395-9df1907a14592bd67e2d0198cb0dbadf"
+            },
+            {
+                "name": "repeating_cantrip_-00396-be41f81493cb6d33a0f81af52a34b91b_name",
+                "current": "Haunting Hymn",
+                "max": "",
+                "id": "-00397-8930f2f1e68a16f63cba429cd6974abb"
+            },
+            {
+                "name": "repeating_cantrip_-00396-be41f81493cb6d33a0f81af52a34b91b_spelllevel",
+                "current": 1,
+                "max": "",
+                "id": "-00398-b71b680109564758d8ea53a34f68571a"
+            },
+            {
+                "name": "repeating_cantrip_-00396-be41f81493cb6d33a0f81af52a34b91b_current_level",
+                "current": 1,
+                "max": "",
+                "id": "-00399-9bcdbe4aec1b1ed58747dc970cfada1d"
+            },
+            {
+                "name": "repeating_cantrip_-00396-be41f81493cb6d33a0f81af52a34b91b_traits",
+                "current": "Auditory, Cantrip, Evocation, Sonic",
+                "max": "",
+                "id": "-00400-5fa6b8630638e9fbcf31b4a716a829ba"
+            },
+            {
+                "name": "repeating_cantrip_-00396-be41f81493cb6d33a0f81af52a34b91b_cast",
+                "current": "Somatic, Verbal",
+                "max": "",
+                "id": "-00401-fa84746b2c2132b2eb01959bc65cd0ec"
+            },
+            {
+                "name": "repeating_cantrip_-00396-be41f81493cb6d33a0f81af52a34b91b_target",
+                "current": "",
+                "max": "",
+                "id": "-00402-86e03927c3d8fce134220f8727244ed7"
+            },
+            {
+                "name": "repeating_cantrip_-00396-be41f81493cb6d33a0f81af52a34b91b_duration",
+                "current": "",
+                "max": "",
+                "id": "-00403-f18459313dc7e20e96d73d347632b69a"
+            },
+            {
+                "name": "repeating_cantrip_-00396-be41f81493cb6d33a0f81af52a34b91b_range",
+                "current": "",
+                "max": "",
+                "id": "-00404-d335918573b20e60a27d5bedaed347ab"
+            },
+            {
+                "name": "repeating_cantrip_-00396-be41f81493cb6d33a0f81af52a34b91b_school",
+                "current": "evocation",
+                "max": "",
+                "id": "-00405-c3321cd763ab3859c06b0e24fd735b2f"
+            },
+            {
+                "name": "repeating_cantrip_-00396-be41f81493cb6d33a0f81af52a34b91b_cast_actions",
+                "current": "2-action",
+                "max": "",
+                "id": "-00406-5f0ce2db1c1c9158eeeb75c2a61c28ba"
+            },
+            {
+                "name": "repeating_cantrip_-00396-be41f81493cb6d33a0f81af52a34b91b_description",
+                "current": "You echo a jarring hymn that only creatures in the area can hear. The hymn deals sonic damage equal to your spellcasting ability modifier, with a basic Fortitude save. If a target critically fails the save, it's also deafened for 1 minute.\n\n------\n\nHeightened (+2) The damage increases by 1d6.\n\nhttps:\/\/2e.aonprd.com\/Spells.aspx?ID=924",
+                "max": "",
+                "id": "-00407-f4b4813ddfc6f7790ad3799b510fdd35"
+            },
+            {
+                "name": "repeating_cantrip_-00396-be41f81493cb6d33a0f81af52a34b91b_uses",
+                "current": 1,
+                "max": 1,
+                "id": "-00408-b427dfc4352ce18a9aa79e25e12154dc"
+            },
+            {
+                "name": "repeating_cantrip_-00396-be41f81493cb6d33a0f81af52a34b91b_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00409-364503810a8a3f4963e234193bb49f28"
+            },
+            {
+                "name": "repeating_cantrip_-00410-26f91f92331ddfa1ca139cdb94f17a41_name",
+                "current": "Disrupt Undead",
+                "max": "",
+                "id": "-00411-8ad55496f09a70f924ff4373f6ead21d"
+            },
+            {
+                "name": "repeating_cantrip_-00410-26f91f92331ddfa1ca139cdb94f17a41_spelllevel",
+                "current": 1,
+                "max": "",
+                "id": "-00412-9f43511c006e8e24e0138b74651f9d4c"
+            },
+            {
+                "name": "repeating_cantrip_-00410-26f91f92331ddfa1ca139cdb94f17a41_current_level",
+                "current": 1,
+                "max": "",
+                "id": "-00413-8cc5504e81af27153d364557a63bdf2f"
+            },
+            {
+                "name": "repeating_cantrip_-00410-26f91f92331ddfa1ca139cdb94f17a41_traits",
+                "current": "Cantrip, Necromancy, Positive",
+                "max": "",
+                "id": "-00414-180764ec40197e2acb7ada33850382c5"
+            },
+            {
+                "name": "repeating_cantrip_-00410-26f91f92331ddfa1ca139cdb94f17a41_cast",
+                "current": "Somatic, Verbal",
+                "max": "",
+                "id": "-00415-f4cce4a985796b9d5c7b5b87d39cbbd9"
+            },
+            {
+                "name": "repeating_cantrip_-00410-26f91f92331ddfa1ca139cdb94f17a41_target",
+                "current": "1 undead creature",
+                "max": "",
+                "id": "-00416-4c31aab53ac0ef82ce96f776ad997973"
+            },
+            {
+                "name": "repeating_cantrip_-00410-26f91f92331ddfa1ca139cdb94f17a41_duration",
+                "current": "",
+                "max": "",
+                "id": "-00417-37198a2dfddc15773fdc0c64598387d9"
+            },
+            {
+                "name": "repeating_cantrip_-00410-26f91f92331ddfa1ca139cdb94f17a41_range",
+                "current": "30 feet",
+                "max": "",
+                "id": "-00418-afbbb1de23540b625c8a7dc58f80588a"
+            },
+            {
+                "name": "repeating_cantrip_-00410-26f91f92331ddfa1ca139cdb94f17a41_school",
+                "current": "necromancy",
+                "max": "",
+                "id": "-00419-8f9941465ed7456de161542a0d32968f"
+            },
+            {
+                "name": "repeating_cantrip_-00410-26f91f92331ddfa1ca139cdb94f17a41_cast_actions",
+                "current": "2-action",
+                "max": "",
+                "id": "-00420-94f739e093f1f2409b1538ba1f22ae85"
+            },
+            {
+                "name": "repeating_cantrip_-00410-26f91f92331ddfa1ca139cdb94f17a41_description",
+                "current": "You lance the target with energy. You deal 1d6 positive damage plus your spellcasting ability modifier. The target must attempt a basic Fortitude save. If the creature critically fails the save, it is also enfeebled 1 for 1 round.\n\n------\n\nHeightened (+1) The damage increases by 1d6.\n\nhttps:\/\/2e.aonprd.com\/Spells.aspx?ID=79",
+                "max": "",
+                "id": "-00421-b0ace389368e8c14b22754e0dbc8e668"
+            },
+            {
+                "name": "repeating_cantrip_-00410-26f91f92331ddfa1ca139cdb94f17a41_uses",
+                "current": 1,
+                "max": 1,
+                "id": "-00422-2428c8598f6ab1b69fd1f96a0cecf048"
+            },
+            {
+                "name": "repeating_cantrip_-00410-26f91f92331ddfa1ca139cdb94f17a41_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00423-4e631e150790540544b0a59a38419b87"
+            },
+            {
+                "name": "repeating_normalspells_-00424-ae5a6b1572b527cf6955c9715b68bf9c_name",
+                "current": "Horizon Thunder Sphere",
+                "max": "",
+                "id": "-00425-8657b8385ab22600f4dcd64483b1f902"
+            },
+            {
+                "name": "repeating_normalspells_-00424-ae5a6b1572b527cf6955c9715b68bf9c_spelllevel",
+                "current": 1,
+                "max": "",
+                "id": "-00426-80aa8894395e7cd6ed57386edc33f176"
+            },
+            {
+                "name": "repeating_normalspells_-00424-ae5a6b1572b527cf6955c9715b68bf9c_current_level",
+                "current": 1,
+                "max": "",
+                "id": "-00427-746a574974491752ccd69b41b43009a3"
+            },
+            {
+                "name": "repeating_normalspells_-00424-ae5a6b1572b527cf6955c9715b68bf9c_traits",
+                "current": "Attack, Electricity, Evocation",
+                "max": "",
+                "id": "-00428-3dfcf25d88f1d95444377464c6d27fbd"
+            },
+            {
+                "name": "repeating_normalspells_-00424-ae5a6b1572b527cf6955c9715b68bf9c_cast",
+                "current": "Somatic, Verbal, Material",
+                "max": "",
+                "id": "-00429-87e82266a0e39dd6307317e1340488eb"
+            },
+            {
+                "name": "repeating_normalspells_-00424-ae5a6b1572b527cf6955c9715b68bf9c_target",
+                "current": "1 creature",
+                "max": "",
+                "id": "-00430-7100c2d0786411ea0c39f7605bbd2433"
+            },
+            {
+                "name": "repeating_normalspells_-00424-ae5a6b1572b527cf6955c9715b68bf9c_duration",
+                "current": "",
+                "max": "",
+                "id": "-00431-eca9a0dd81b423095daccadc5e537d62"
+            },
+            {
+                "name": "repeating_normalspells_-00424-ae5a6b1572b527cf6955c9715b68bf9c_range",
+                "current": "varies",
+                "max": "",
+                "id": "-00432-ca97aaaac5c27a9309405bd7ad9fd434"
+            },
+            {
+                "name": "repeating_normalspells_-00424-ae5a6b1572b527cf6955c9715b68bf9c_school",
+                "current": "evocation",
+                "max": "",
+                "id": "-00433-71fd95150931321e04d271358469d2bc"
+            },
+            {
+                "name": "repeating_normalspells_-00424-ae5a6b1572b527cf6955c9715b68bf9c_cast_actions",
+                "current": "2-action",
+                "max": "",
+                "id": "-00434-1879dc29e338a9ce4e5ac0b345ae03d7"
+            },
+            {
+                "name": "repeating_normalspells_-00424-ae5a6b1572b527cf6955c9715b68bf9c_description",
+                "current": "You gather magical energy into your palm, forming a concentrated ball of electricity that crackles and rumbles like impossibly distant thunder. Make a ranged spell attack roll against your target's AC. On a success, you deal 3d6 electricity damage. On a critical success, the target takes double damage and is dazzled for 1 round. The number of actions you spend when Casting this Spell determines the range and other parameters.\n\n     (somatic, verbal) This spell has a range of 30 feet. \n    (material, somatic, verbal) This spell has a range of 60 feet and deals half damage on a failure (but not a critical failure) as the electricity lashes out and jolts the target.\nTwo Rounds If you spend 3 actions Casting the Spell, you can avoid finishing the spell and spend another 3 actions on your next turn to empower the spell even further. If you do, after attacking the target, whether you hit or miss, the ball of lightning explodes, dealing 2d6 electricity damage to all other creatures in a 10-foot emanation around the target (basic Reflex save). Additionally, you spark with electricity for 1 minute, dealing 1 electricity damage to creatures that Grab you or that hit you with an unarmed Strike or a non-reach melee weapon.\n\n------\n\nHeightened (+1) The initial damage on a hit, as well as the burst damage for two-round casting time, each increase by 2d6, and the damage creatures take if they Grapple or hit you while you're in your sparking state increases by 1.\n\nhttps:\/\/2e.aonprd.com\/Spells.aspx?ID=927",
+                "max": "",
+                "id": "-00435-e96d3717f40efe6201570d252e7f497b"
+            },
+            {
+                "name": "repeating_normalspells_-00424-ae5a6b1572b527cf6955c9715b68bf9c_uses",
+                "current": 1,
+                "max": 1,
+                "id": "-00436-1162e0f34b9fcb47d472ae58d324900c"
+            },
+            {
+                "name": "repeating_normalspells_-00424-ae5a6b1572b527cf6955c9715b68bf9c_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00437-bcfd9dc04d3d8b378e5a3e7122dceaeb"
+            },
+            {
+                "name": "repeating_normalspells_-00438-6424cb72458a90d11214db73347e6122_name",
+                "current": "Charm",
+                "max": "",
+                "id": "-00439-d76a5f4f01d6e0a040663e7e86e080e2"
+            },
+            {
+                "name": "repeating_normalspells_-00438-6424cb72458a90d11214db73347e6122_spelllevel",
+                "current": 1,
+                "max": "",
+                "id": "-00440-d46768bfcf36be9e845ba10efadb80a5"
+            },
+            {
+                "name": "repeating_normalspells_-00438-6424cb72458a90d11214db73347e6122_current_level",
+                "current": 1,
+                "max": "",
+                "id": "-00441-9934795670cffbff70ec1cd91088ce00"
+            },
+            {
+                "name": "repeating_normalspells_-00438-6424cb72458a90d11214db73347e6122_traits",
+                "current": "Emotion, Enchantment, Incapacitation, Mental",
+                "max": "",
+                "id": "-00442-478e367229f6f15caaea1f08a82890a7"
+            },
+            {
+                "name": "repeating_normalspells_-00438-6424cb72458a90d11214db73347e6122_cast",
+                "current": "Somatic, Verbal",
+                "max": "",
+                "id": "-00443-64b8455eda504cbc9e6fdb1331d640cf"
+            },
+            {
+                "name": "repeating_normalspells_-00438-6424cb72458a90d11214db73347e6122_target",
+                "current": "1 creature",
+                "max": "",
+                "id": "-00444-11705091414e67bb4bba905d15f5f7e4"
+            },
+            {
+                "name": "repeating_normalspells_-00438-6424cb72458a90d11214db73347e6122_duration",
+                "current": "1 hour",
+                "max": "",
+                "id": "-00445-a7523ca2788831ecc1f3d8d49fdf41a2"
+            },
+            {
+                "name": "repeating_normalspells_-00438-6424cb72458a90d11214db73347e6122_range",
+                "current": "30 feet",
+                "max": "",
+                "id": "-00446-ff86dbfef305b9c4e53da79e13e7c8ed"
+            },
+            {
+                "name": "repeating_normalspells_-00438-6424cb72458a90d11214db73347e6122_school",
+                "current": "enchantment",
+                "max": "",
+                "id": "-00447-0ef9f062a56371e24154865a92b73044"
+            },
+            {
+                "name": "repeating_normalspells_-00438-6424cb72458a90d11214db73347e6122_cast_actions",
+                "current": "2-action",
+                "max": "",
+                "id": "-00448-4c3b59fa2585313b1bc9997e78ddade2"
+            },
+            {
+                "name": "repeating_normalspells_-00438-6424cb72458a90d11214db73347e6122_description",
+                "current": "To the target, your words are honey and your visage seems bathed in a dreamy haze. It must attempt a Will save, with a +4 circumstance bonus if you or your allies recently threatened it or used hostile actions against it.\n\n You can Dismiss the spell. If you use hostile actions against the target, the spell ends. When the spell ends, the target doesn't necessarily realize it was charmed unless its friendship with you or the actions you convinced it to take clash with its expectations, meaning you could potentially convince the target to continue being your friend via mundane means.\n\nCritical Success The target is unaffected and aware you tried to charm it.\nSuccess The target is unaffected but thinks your spell was something harmless instead of charm, unless it identifies the spell (see Identifying Spells).\nFailure The target's attitude becomes friendly toward you. If it was friendly, it becomes helpful. It can't use hostile actions against you.\nCritical Failure The target's attitude becomes helpful toward you, and it can't use hostile actions against you.\n\n------\n\nHeightened (4th) The duration lasts until the next time you make your daily preparations.\nHeightened (8th) The duration lasts until the next time you make your daily preparations, and you can target up to 10 creatures.\n\nhttps:\/\/2e.aonprd.com\/Spells.aspx?ID=34",
+                "max": "",
+                "id": "-00449-9a043a6f6073d6ca2f1521676bce9b45"
+            },
+            {
+                "name": "repeating_normalspells_-00438-6424cb72458a90d11214db73347e6122_uses",
+                "current": 1,
+                "max": 1,
+                "id": "-00450-dcba078c8970e8175d60cffc5be5e560"
+            },
+            {
+                "name": "repeating_normalspells_-00438-6424cb72458a90d11214db73347e6122_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00451-69cd8e30d3630b31687ba106599c06f0"
+            },
+            {
+                "name": "repeating_normalspells_-00452-bbfebb7c0afb28b88e572f27265ac39a_name",
+                "current": "Soothe",
+                "max": "",
+                "id": "-00453-97bca0c240dc4ab4fcc5c746fa35e7c0"
+            },
+            {
+                "name": "repeating_normalspells_-00452-bbfebb7c0afb28b88e572f27265ac39a_spelllevel",
+                "current": 1,
+                "max": "",
+                "id": "-00454-18399363d6322da47cb57b75ca92cda8"
+            },
+            {
+                "name": "repeating_normalspells_-00452-bbfebb7c0afb28b88e572f27265ac39a_current_level",
+                "current": 1,
+                "max": "",
+                "id": "-00455-d5ec2f606ca3b5699e641d96a8345540"
+            },
+            {
+                "name": "repeating_normalspells_-00452-bbfebb7c0afb28b88e572f27265ac39a_traits",
+                "current": "Emotion, Enchantment, Healing, Mental",
+                "max": "",
+                "id": "-00456-20ae78d3ea20854b0a9f9f63b9714f5b"
+            },
+            {
+                "name": "repeating_normalspells_-00452-bbfebb7c0afb28b88e572f27265ac39a_cast",
+                "current": "Somatic, Verbal",
+                "max": "",
+                "id": "-00457-43580fc972b733f7347fc1b083a04048"
+            },
+            {
+                "name": "repeating_normalspells_-00452-bbfebb7c0afb28b88e572f27265ac39a_target",
+                "current": "1 willing living creature",
+                "max": "",
+                "id": "-00458-133b1092e5bec780e967486ecf1d151d"
+            },
+            {
+                "name": "repeating_normalspells_-00452-bbfebb7c0afb28b88e572f27265ac39a_duration",
+                "current": "1 minute",
+                "max": "",
+                "id": "-00459-ed315ae32a5b1a82fb18b66d6c4ed8de"
+            },
+            {
+                "name": "repeating_normalspells_-00452-bbfebb7c0afb28b88e572f27265ac39a_range",
+                "current": "30 feet",
+                "max": "",
+                "id": "-00460-3fbeeba215f498de0eaa3055159b8ec8"
+            },
+            {
+                "name": "repeating_normalspells_-00452-bbfebb7c0afb28b88e572f27265ac39a_school",
+                "current": "enchantment",
+                "max": "",
+                "id": "-00461-05371f8e35f52dc16102efacfa3b07fb"
+            },
+            {
+                "name": "repeating_normalspells_-00452-bbfebb7c0afb28b88e572f27265ac39a_cast_actions",
+                "current": "2-action",
+                "max": "",
+                "id": "-00462-a6a9e3a55ad31f38802f4698975fecbb"
+            },
+            {
+                "name": "repeating_normalspells_-00452-bbfebb7c0afb28b88e572f27265ac39a_description",
+                "current": "You grace the target's mind, boosting its mental defenses and healing its wounds. The target regains 1d10+4 Hit Points when you Cast the Spell and gains a +2 status bonus to saves against mental effects for the duration.\n\n------\n\nHeightened (+1) The amount of healing increases by 1d10+4.\n\nhttps:\/\/2e.aonprd.com\/Spells.aspx?ID=291",
+                "max": "",
+                "id": "-00463-5d546dfd4d53dd3752f22d27e7300d29"
+            },
+            {
+                "name": "repeating_normalspells_-00452-bbfebb7c0afb28b88e572f27265ac39a_uses",
+                "current": 1,
+                "max": 1,
+                "id": "-00464-99f885be1a59996fea6aa137dc17f6ae"
+            },
+            {
+                "name": "repeating_normalspells_-00452-bbfebb7c0afb28b88e572f27265ac39a_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00465-0f0d88b76330bdb52291a131730afa48"
+            },
+            {
+                "name": "spell_attack_rank",
+                "current": "2",
+                "max": "",
+                "id": "-00466-a4d0018516b55caf929cb19fda13bda6"
+            },
+            {
+                "name": "spell_dc_rank",
+                "current": "2",
+                "max": "",
+                "id": "-00467-9c4baff525d237aaf0c05a790b29c325"
+            },
+            {
+                "name": "spell_dc_key_ability",
+                "current": 3,
+                "max": "",
+                "id": "-00468-064fd2d9614bc21c1778654af511d5f4"
+            },
+            {
+                "name": "spell_attack_key_ability",
+                "current": 3,
+                "max": "",
+                "id": "-00469-130a3d75ce3d93022a7a80a856ff13d2"
+            },
+            {
+                "name": "spell_dc_key_ability_select",
+                "current": "@{charisma_modifier}",
+                "max": "",
+                "id": "-00470-743c3a8819a166d8dba3ecb2ecd297b0"
+            },
+            {
+                "name": "spell_attack_key_ability_select",
+                "current": "@{charisma_modifier}",
+                "max": "",
+                "id": "-00471-6ee4c2ff9cfed892a63f38777ad28e99"
+            }
+        ],
+        "abilities": []
+    }
+}

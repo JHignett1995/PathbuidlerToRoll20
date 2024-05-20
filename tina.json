@@ -1,0 +1,343 @@
+{
+  "success": true,
+  "build": {
+    "name": "Tina-Lisa",
+    "class": "Rogue",
+    "level": 5,
+    "ancestry": "Human",
+    "heritage": "Tiefling",
+    "background": "Criminal",
+    "alignment": "N",
+    "gender": "Not set",
+    "age": "Not set",
+    "deity": "Not set",
+    "size": 2,
+    "keyability": "int",
+    "languages": [],
+    "attributes": {
+      "ancestryhp": 8,
+      "classhp": 8,
+      "bonushp": 0,
+      "bonushpPerLevel": 0,
+      "speed": 25,
+      "speedBonus": 0
+    },
+    "abilities": {
+      "str": 12,
+      "dex": 18,
+      "con": 12,
+      "int": 16,
+      "wis": 10,
+      "cha": 18
+    },
+    "proficiencies": {
+      "classDC": 2,
+      "perception": 4,
+      "fortitude": 2,
+      "reflex": 4,
+      "will": 4,
+      "heavy": 0,
+      "medium": 0,
+      "light": 2,
+      "unarmored": 2,
+      "advanced": 0,
+      "martial": 0,
+      "simple": 4,
+      "unarmed": 4,
+      "castingArcane": 2,
+      "castingDivine": 0,
+      "castingOccult": 2,
+      "castingPrimal": 0,
+      "acrobatics": 2,
+      "arcana": 4,
+      "athletics": 2,
+      "crafting": 0,
+      "deception": 2,
+      "diplomacy": 2,
+      "intimidation": 2,
+      "medicine": 2,
+      "nature": 2,
+      "occultism": 2,
+      "performance": 2,
+      "religion": 2,
+      "society": 2,
+      "stealth": 2,
+      "survival": 2,
+      "thievery": 4
+    },
+    "feats": [
+      [
+        "Experienced Smuggler",
+        null
+      ],
+      [
+        "Tiefling",
+        null,
+        "Heritage",
+        1
+      ],
+      [
+        "Form of the Fiend",
+        null,
+        "Ancestry Feat",
+        1
+      ],
+      [
+        "Sorcerer Dedication",
+        null,
+        "Archetype Feat",
+        1
+      ],
+      [
+        "Nimble Dodge",
+        null,
+        "Class Feat",
+        1
+      ],
+      [
+        "Pickpocket",
+        null,
+        "Skill Feat",
+        1
+      ],
+      [
+        "Minor Magic",
+        null,
+        "Class Feat",
+        2
+      ],
+      [
+        "Charming Liar",
+        null,
+        "Skill Feat",
+        2
+      ],
+      [
+        "Curse Maelstrom Dedication",
+        null,
+        "Archetype Feat",
+        2
+      ],
+      [
+        "Familiar Oddities",
+        null,
+        "Skill Feat",
+        3
+      ],
+      [
+        "Ancestral Paragon",
+        null,
+        "General Feat",
+        3
+      ],
+      [
+        "Arcane Tattoos",
+        null,
+        "Ancestry Feat",
+        3
+      ],
+      [
+        "Mug",
+        null,
+        "Class Feat",
+        4
+      ],
+      [
+        "Streetwise",
+        null,
+        "Skill Feat",
+        4
+      ],
+      [
+        "Basic Sorcerer Spellcasting",
+        null,
+        "Archetype Feat",
+        4
+      ],
+      [
+        "Ornate Tattoo",
+        null,
+        "Ancestry Feat",
+        5
+      ],
+      [
+        "Read Lips",
+        null,
+        "Skill Feat",
+        5
+      ]
+    ],
+    "specials": [
+      "Surprise Attack",
+      "Low-Light Vision",
+      "Bloodline: Hag",
+      "Eldritch Trickster Racket",
+      "Sneak Attack",
+      "Arcane",
+      "Expel Maelstrom",
+      "Deny Advantage",
+      "Electric Arc",
+      "Weapon Tricks",
+      "Tiefling"
+    ],
+    "lores": [
+      [
+        "Underworld",
+        4
+      ]
+    ],
+    "equipment": [],
+    "specificProficiencies": {
+      "trained": [],
+      "expert": [],
+      "master": [],
+      "legendary": []
+    },
+    "weapons": [],
+    "money": {
+      "pp": 0,
+      "gp": 15,
+      "sp": 0,
+      "cp": 0
+    },
+    "armor": [],
+    "spellCasters": [
+      {
+        "name": "Caster Arcane Tattoos",
+        "magicTradition": "arcane",
+        "spellcastingType": "prepared",
+        "ability": "cha",
+        "proficiency": 2,
+        "focusPoints": 0,
+        "spells": [
+          {
+            "spellLevel": 0,
+            "list": [
+              "Electric Arc"
+            ]
+          }
+        ],
+        "perDay": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "Archetype Sorcerer",
+        "magicTradition": "occult",
+        "spellcastingType": "spontaneous",
+        "ability": "cha",
+        "proficiency": 2,
+        "focusPoints": 0,
+        "spells": [
+          {
+            "spellLevel": 0,
+            "list": [
+              "Pase Bolt",
+              "Daze"
+            ]
+          },
+          {
+            "spellLevel": 1,
+            "list": [
+              "Invisible Item"
+            ]
+          }
+        ],
+        "perDay": [
+          2,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "Minor Magic",
+        "magicTradition": "arcane",
+        "spellcastingType": "prepared",
+        "ability": "cha",
+        "proficiency": 2,
+        "focusPoints": 0,
+        "spells": [
+          {
+            "spellLevel": 0,
+            "list": [
+              "Produce Flame",
+              "Ghost Sound"
+            ]
+          }
+        ],
+        "perDay": [
+          2,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "name": "Ornate Tattoo",
+        "magicTradition": "arcane",
+        "spellcastingType": "prepared",
+        "ability": "cha",
+        "proficiency": 2,
+        "focusPoints": 0,
+        "spells": [
+          {
+            "spellLevel": 0,
+            "list": []
+          },
+          {
+            "spellLevel": 1,
+            "list": [
+              "Burning Hands"
+            ]
+          }
+        ],
+        "perDay": [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "formula": [],
+    "pets": [],
+    "acTotal": {
+      "acProfBonus": 7,
+      "acAbilityBonus": 4,
+      "acItemBonus": 0,
+      "acTotal": 21
+    }
+  }
+}

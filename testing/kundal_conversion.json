@@ -1,0 +1,2879 @@
+{
+    "schema_version": 3,
+    "type": "character",
+    "character": {
+        "name": "Kundal",
+        "bio": "",
+        "avatar": "",
+        "gmnotes": "",
+        "defaulttoken": "",
+        "tags": "[]",
+        "controlledby": "",
+        "inplayerjournals": "",
+        "attribs": [
+            {
+                "name": "version_character",
+                "current": 4.5,
+                "max": "",
+                "id": "-00000-71300e6b0fed65c9f32d4b82e3b0481e"
+            },
+            {
+                "name": "name",
+                "current": "Kundal",
+                "max": "",
+                "id": "-00001-aa9271d473bdab801b5bdfcc5dd8c33c"
+            },
+            {
+                "name": "ancestry_heritage",
+                "current": "Human \/ Wintertouched Human",
+                "max": "",
+                "id": "-00002-426c04983ec39881061c30c39b8f3165"
+            },
+            {
+                "name": "deity",
+                "current": "Not set",
+                "max": "",
+                "id": "-00003-c327c59bcb00be7092e3ffd2592f6c42"
+            },
+            {
+                "name": "class",
+                "current": "Barbarian",
+                "max": "",
+                "id": "-00004-e0eb55e8617e01e8df15e98d47667f93"
+            },
+            {
+                "name": "background",
+                "current": "Warrior",
+                "max": "",
+                "id": "-00005-26d5625b9718d87deefb59cee6cbe940"
+            },
+            {
+                "name": "alignment",
+                "current": "CN",
+                "max": "",
+                "id": "-00006-4b2bed032345a72819e7faa0ca6e7414"
+            },
+            {
+                "name": "level",
+                "current": 6,
+                "max": "",
+                "id": "-00007-a5ca1a4523e426926fbdda294213b74b"
+            },
+            {
+                "name": "age",
+                "current": "27",
+                "max": "",
+                "id": "-00008-fa096ec52b32d5022f2d15f70d2fc34c"
+            },
+            {
+                "name": "gender_pronouns",
+                "current": "M",
+                "max": "",
+                "id": "-00009-2202c37b054e10469fd4c9ab0f0e9dc6"
+            },
+            {
+                "name": "repeating_languages_-00010-a8ea9fe52cc0f49da5b0bbdfb7ea90ce_language",
+                "current": "Common",
+                "max": "",
+                "id": "-00011-245cf9fb1be095c6aa96ca9b4710a6ca"
+            },
+            {
+                "name": "repeating_languages_-00010-a8ea9fe52cc0f49da5b0bbdfb7ea90ce_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00012-22592092f26b7f21cbb4d3bc9f4b3719"
+            },
+            {
+                "name": "repeating_languages_-00013-d411372686186e4c4306f7beef118d0a_language",
+                "current": "Elven",
+                "max": "",
+                "id": "-00014-a22222487cf20e6878c91db430872bf5"
+            },
+            {
+                "name": "repeating_languages_-00013-d411372686186e4c4306f7beef118d0a_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00015-b69c819ccbb2d7db24a05d5e149f48e0"
+            },
+            {
+                "name": "repeating_languages_-00016-bc2e547562f67b6e3763bd814ba761ea_language",
+                "current": "Pathbuilder Custom Dialect 0",
+                "max": "",
+                "id": "-00017-b877e383a7b6f042e8ecff978383abba"
+            },
+            {
+                "name": "repeating_languages_-00016-bc2e547562f67b6e3763bd814ba761ea_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00018-8cb1b82ef24d867be9694b7738bf1ae6"
+            },
+            {
+                "name": "strength",
+                "current": 19,
+                "max": "",
+                "id": "-00019-4cf93ba164e285b9b7e60f3585ce07c2"
+            },
+            {
+                "name": "strength_score",
+                "current": "19",
+                "max": "",
+                "id": "-00020-62df57bc9450c5f2f9ffeb5a5617c579"
+            },
+            {
+                "name": "strength_modifier",
+                "current": 4,
+                "max": "",
+                "id": "-00021-915e5ed5f98a66a0f58a538380343f1e"
+            },
+            {
+                "name": "strength_modifier_half",
+                "current": 2,
+                "max": "",
+                "id": "-00022-d060ddd0600404779cd5b98031ccdbcc"
+            },
+            {
+                "name": "dexterity",
+                "current": 16,
+                "max": "",
+                "id": "-00023-6b2de42eb34004a30412826d606cebf2"
+            },
+            {
+                "name": "dexterity_score",
+                "current": "16",
+                "max": "",
+                "id": "-00024-0f7722d2feac41a488318df8eb65704b"
+            },
+            {
+                "name": "dexterity_modifier",
+                "current": 3,
+                "max": "",
+                "id": "-00025-5285ab355b80ba27bb95efd9ca985efc"
+            },
+            {
+                "name": "dexterity_modifier_half",
+                "current": 1,
+                "max": "",
+                "id": "-00026-8c6cfa49b227f3fb4e44d88fef0aae6e"
+            },
+            {
+                "name": "constitution",
+                "current": 16,
+                "max": "",
+                "id": "-00027-8db6119462be3ebbf750ba22e2e9241e"
+            },
+            {
+                "name": "constitution_score",
+                "current": "16",
+                "max": "",
+                "id": "-00028-b06df4dae8602943df97efef8ab4842a"
+            },
+            {
+                "name": "constitution_modifier",
+                "current": 3,
+                "max": "",
+                "id": "-00029-5e2090dce1543d362dcb6f5b4f049702"
+            },
+            {
+                "name": "constitution_modifier_half",
+                "current": 1,
+                "max": "",
+                "id": "-00030-0e8728e6bfd1ee92a6cb2f87b50495d0"
+            },
+            {
+                "name": "intelligence",
+                "current": 10,
+                "max": "",
+                "id": "-00031-4f49e350205cb772588b463c6e28b0c9"
+            },
+            {
+                "name": "intelligence_score",
+                "current": "10",
+                "max": "",
+                "id": "-00032-68b98eccfb7aa3f94fc588911705f1c6"
+            },
+            {
+                "name": "intelligence_modifier",
+                "current": 0,
+                "max": "",
+                "id": "-00033-f1d375c72342dba26bffc71d8339f750"
+            },
+            {
+                "name": "intelligence_modifier_half",
+                "current": 0,
+                "max": "",
+                "id": "-00034-3629fdb26afde9a82a0407b3c19fcbf4"
+            },
+            {
+                "name": "wisdom",
+                "current": 10,
+                "max": "",
+                "id": "-00035-5699a62eb753092045efbe42cbd00f03"
+            },
+            {
+                "name": "wisdom_score",
+                "current": "10",
+                "max": "",
+                "id": "-00036-83c493068116f6e3788c310b5e20cfa2"
+            },
+            {
+                "name": "wisdom_modifier",
+                "current": 0,
+                "max": "",
+                "id": "-00037-d11e4928c661d814a2169fdff8f117f4"
+            },
+            {
+                "name": "wisdom_modifier_half",
+                "current": 0,
+                "max": "",
+                "id": "-00038-e469147f9366927dc09101dcc0338f48"
+            },
+            {
+                "name": "charisma",
+                "current": 14,
+                "max": "",
+                "id": "-00039-688ca9052f5eea848cf9a07a29328529"
+            },
+            {
+                "name": "charisma_score",
+                "current": "14",
+                "max": "",
+                "id": "-00040-53a8570770b493a1357821a32ace6580"
+            },
+            {
+                "name": "charisma_modifier",
+                "current": 2,
+                "max": "",
+                "id": "-00041-593ee78f0777fc62b1dbf1eb85749f23"
+            },
+            {
+                "name": "charisma_modifier_half",
+                "current": 1,
+                "max": "",
+                "id": "-00042-b979d5bd72198d9844fa5c53beb05e17"
+            },
+            {
+                "name": "acrobatics",
+                "current": 11,
+                "max": "",
+                "id": "-00043-4eeac643d5bdf222c766698179c2ea52"
+            },
+            {
+                "name": "acrobatics_proficiency_display",
+                "current": "T",
+                "max": "",
+                "id": "-00044-3cd6dcabe332ef5ff167050bcc21a0d2"
+            },
+            {
+                "name": "acrobatics_proficiency",
+                "current": 8,
+                "max": "",
+                "id": "-00045-77c928bb0627115e6b61a5424edc8a72"
+            },
+            {
+                "name": "acrobatics_item",
+                "current": 0,
+                "max": "",
+                "id": "-00046-ae6f42d03828ee246f59161aab54811c"
+            },
+            {
+                "name": "acrobatics_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00047-8f52c8b3bd04e114ecb90ec22854947f"
+            },
+            {
+                "name": "acrobatics_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00048-e6fda07c0ed3fa28d1d92cc6a19c591b"
+            },
+            {
+                "name": "acrobatics_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00049-23a64031fd4a5e7ae72e53a22d77cdc6"
+            },
+            {
+                "name": "acrobatics_ability",
+                "current": 3,
+                "max": "",
+                "id": "-00050-a2638002b60b4382570b00a070683a76"
+            },
+            {
+                "name": "acrobatics_ability_select",
+                "current": "@{dexterity_modifier}",
+                "max": "",
+                "id": "-00051-9adf9961b749d37253b9672f0c40e9c1"
+            },
+            {
+                "name": "arcana",
+                "current": 3,
+                "max": "",
+                "id": "-00052-4681d6284c5b3d48f49f2606db328edf"
+            },
+            {
+                "name": "arcana_proficiency_display",
+                "current": "U",
+                "max": "",
+                "id": "-00053-05abca6836007d1d0f018246b046af74"
+            },
+            {
+                "name": "arcana_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "-00054-a1f7f18bbf97e4d280a1ac6e5f3087bf"
+            },
+            {
+                "name": "arcana_item",
+                "current": 3,
+                "max": "",
+                "id": "-00055-158df5f8d2524ce3cef6d37f36434374"
+            },
+            {
+                "name": "arcana_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00056-4736eaf598afd70808520fdeec1634c6"
+            },
+            {
+                "name": "arcana_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00057-c1743915a5765548c7114d8c21db8a1b"
+            },
+            {
+                "name": "arcana_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00058-46cbed406fa586f601d13f2b87b639cf"
+            },
+            {
+                "name": "arcana_ability",
+                "current": 0,
+                "max": "",
+                "id": "-00059-f34c0a5a40ee0d791f680fe6012af240"
+            },
+            {
+                "name": "arcana_ability_select",
+                "current": "@{intelligence_modifier}",
+                "max": "",
+                "id": "-00060-e5856c4dae0e06f759705557fb4972e8"
+            },
+            {
+                "name": "athletics",
+                "current": 12,
+                "max": "",
+                "id": "-00061-d4092c2c4fd335151cf71b2435939a73"
+            },
+            {
+                "name": "athletics_proficiency_display",
+                "current": "T",
+                "max": "",
+                "id": "-00062-93bea677af6b3f66aa1540dee0ce0532"
+            },
+            {
+                "name": "athletics_proficiency",
+                "current": 8,
+                "max": "",
+                "id": "-00063-7b181079d94022681184a0668b631d00"
+            },
+            {
+                "name": "athletics_item",
+                "current": 0,
+                "max": "",
+                "id": "-00064-268b641d3e3a6b9dd6c5411681350cb3"
+            },
+            {
+                "name": "athletics_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00065-caf37ccacb751ec4b2bd3d28b6538656"
+            },
+            {
+                "name": "athletics_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00066-4231834c062ea07fba24f72692084dd8"
+            },
+            {
+                "name": "athletics_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00067-332dd7034e28ca2456acfdcbefc40ee0"
+            },
+            {
+                "name": "athletics_ability",
+                "current": 4,
+                "max": "",
+                "id": "-00068-b881bae27b2cacecf38191b8c5bc196a"
+            },
+            {
+                "name": "athletics_ability_select",
+                "current": "@{strength_modifier}",
+                "max": "",
+                "id": "-00069-dfafbbf353624b5718a82d9d0e7faef4"
+            },
+            {
+                "name": "crafting",
+                "current": 3,
+                "max": "",
+                "id": "-00070-7914ac0df32cbba6f369988822d49c30"
+            },
+            {
+                "name": "crafting_proficiency_display",
+                "current": "U",
+                "max": "",
+                "id": "-00071-0ce8485cdce52b8de45f0513151dcb94"
+            },
+            {
+                "name": "crafting_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "-00072-e08b8a8f1d55eafb31418bb2620fd032"
+            },
+            {
+                "name": "crafting_item",
+                "current": 3,
+                "max": "",
+                "id": "-00073-c8270f2352a025fb810e555b57da77e4"
+            },
+            {
+                "name": "crafting_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00074-2ee398797bf292566ff9e4cf950cc93d"
+            },
+            {
+                "name": "crafting_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00075-61591e0d554783fb4eb9aa41d8adbfab"
+            },
+            {
+                "name": "crafting_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00076-55a3e8a1451d3a08493bf33a9afdc8d1"
+            },
+            {
+                "name": "crafting_ability",
+                "current": 0,
+                "max": "",
+                "id": "-00077-4b2278f4e116a0a5e76ded4a94e89452"
+            },
+            {
+                "name": "crafting_ability_select",
+                "current": "@{intelligence_modifier}",
+                "max": "",
+                "id": "-00078-ea8333d37c962de2dd8a1a37bba52b92"
+            },
+            {
+                "name": "deception",
+                "current": 10,
+                "max": "",
+                "id": "-00079-133a0789a671246b37c03dbade324067"
+            },
+            {
+                "name": "deception_proficiency_display",
+                "current": "T",
+                "max": "",
+                "id": "-00080-9f15088d1c927df28c54f15938e8324b"
+            },
+            {
+                "name": "deception_proficiency",
+                "current": 8,
+                "max": "",
+                "id": "-00081-d3b15cc0a9e3c3d5f3498f976992ae1a"
+            },
+            {
+                "name": "deception_item",
+                "current": 0,
+                "max": "",
+                "id": "-00082-22dd331f626717fe2d80d7928d2b099e"
+            },
+            {
+                "name": "deception_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00083-00f534bb132d2c31d1c0797222f3a7b0"
+            },
+            {
+                "name": "deception_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00084-36e0eaeb1aacfc9b7a5849f89aefa059"
+            },
+            {
+                "name": "deception_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00085-b16a2eb60ca3c4464bce8a85dd803ec1"
+            },
+            {
+                "name": "deception_ability",
+                "current": 2,
+                "max": "",
+                "id": "-00086-defb4aef999ccf315fdab7140af197e1"
+            },
+            {
+                "name": "deception_ability_select",
+                "current": "@{charisma_modifier}",
+                "max": "",
+                "id": "-00087-e8353d8163a102684bbde2d000093ac3"
+            },
+            {
+                "name": "diplomacy",
+                "current": 10,
+                "max": "",
+                "id": "-00088-c72234b04c5e6f70a338c28dd4d94038"
+            },
+            {
+                "name": "diplomacy_proficiency_display",
+                "current": "T",
+                "max": "",
+                "id": "-00089-a138f190e43a6001be78417c9194338b"
+            },
+            {
+                "name": "diplomacy_proficiency",
+                "current": 8,
+                "max": "",
+                "id": "-00090-d829edb0b8604dbad0162515dc11edda"
+            },
+            {
+                "name": "diplomacy_item",
+                "current": 0,
+                "max": "",
+                "id": "-00091-7d00a80c344cf88ec8ed2d7bb907bcea"
+            },
+            {
+                "name": "diplomacy_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00092-cbbae62d1a7aaacaa5db8d2d80785d64"
+            },
+            {
+                "name": "diplomacy_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00093-eec335a4f264b0d13032b2d664ec19c6"
+            },
+            {
+                "name": "diplomacy_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00094-301fd954a941836e59a6f4b27ae14382"
+            },
+            {
+                "name": "diplomacy_ability",
+                "current": 2,
+                "max": "",
+                "id": "-00095-a72c86225d7c8b39e5eac7ce7f995041"
+            },
+            {
+                "name": "diplomacy_ability_select",
+                "current": "@{charisma_modifier}",
+                "max": "",
+                "id": "-00096-923b8051a542ea68159b31858fb4f11c"
+            },
+            {
+                "name": "intimidation",
+                "current": 12,
+                "max": "",
+                "id": "-00097-57c546f8192fdd8e63dfeeacdc86e119"
+            },
+            {
+                "name": "intimidation_proficiency_display",
+                "current": "E",
+                "max": "",
+                "id": "-00098-860aca83b53b8b749a0363c667944b6e"
+            },
+            {
+                "name": "intimidation_proficiency",
+                "current": 10,
+                "max": "",
+                "id": "-00099-3728818e5202c30b53cd1ca689f19761"
+            },
+            {
+                "name": "intimidation_item",
+                "current": 0,
+                "max": "",
+                "id": "-00100-aaccc41d6421d1b893728d750020a798"
+            },
+            {
+                "name": "intimidation_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00101-1271b484fd12b969767f5152150f49bb"
+            },
+            {
+                "name": "intimidation_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00102-cdb5c71d3e5b79b1dbfadf79c17120f1"
+            },
+            {
+                "name": "intimidation_rank",
+                "current": 4,
+                "max": "",
+                "id": "-00103-042dcc7dcbc592c975ab92a926718521"
+            },
+            {
+                "name": "intimidation_ability",
+                "current": 2,
+                "max": "",
+                "id": "-00104-aa849f11fb050f27ecd6e96152e847dc"
+            },
+            {
+                "name": "intimidation_ability_select",
+                "current": "@{charisma_modifier}",
+                "max": "",
+                "id": "-00105-0b9088325a55c6b56e553a59d5f944cd"
+            },
+            {
+                "name": "medicine",
+                "current": 8,
+                "max": "",
+                "id": "-00106-4c84b25934db1e9f8790c83318617777"
+            },
+            {
+                "name": "medicine_proficiency_display",
+                "current": "T",
+                "max": "",
+                "id": "-00107-6808174c09ba5ca9002ed9b1a9fe5ca7"
+            },
+            {
+                "name": "medicine_proficiency",
+                "current": 8,
+                "max": "",
+                "id": "-00108-5d1ed47262bdb0cf8fca074b9d71aadc"
+            },
+            {
+                "name": "medicine_item",
+                "current": 0,
+                "max": "",
+                "id": "-00109-f87585ca7ccf1589d0864f03a9a7c286"
+            },
+            {
+                "name": "medicine_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00110-501d452c06e11dde656cc507b820c064"
+            },
+            {
+                "name": "medicine_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00111-503a5a8a6e9fb798afe2271a9b43f735"
+            },
+            {
+                "name": "medicine_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00112-5938aedbfdfb9588a887858c5ac6cfd6"
+            },
+            {
+                "name": "medicine_ability",
+                "current": 0,
+                "max": "",
+                "id": "-00113-5f2406d7fa7cf062f44744b7f50ef99c"
+            },
+            {
+                "name": "medicine_ability_select",
+                "current": "@{wisdom_modifier}",
+                "max": "",
+                "id": "-00114-b6469ce0d2ad47fbb675891ff131bdb5"
+            },
+            {
+                "name": "nature",
+                "current": 3,
+                "max": "",
+                "id": "-00115-4b05ccd8a120f632be99c40f9b6bd667"
+            },
+            {
+                "name": "nature_proficiency_display",
+                "current": "U",
+                "max": "",
+                "id": "-00116-6293d4dd789ba8a4f37ee58b67b8b44b"
+            },
+            {
+                "name": "nature_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "-00117-a5661c474d908c34efbdd9f07e861e58"
+            },
+            {
+                "name": "nature_item",
+                "current": 3,
+                "max": "",
+                "id": "-00118-b77d76acf104285c1a5340f9f58614d6"
+            },
+            {
+                "name": "nature_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00119-0e0bc6c991d80c96c866abd62095925d"
+            },
+            {
+                "name": "nature_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00120-c76fc83b248f10809bfb6dd9ec8ef81a"
+            },
+            {
+                "name": "nature_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00121-837e3b7db4fbb78419b73de4eef81a58"
+            },
+            {
+                "name": "nature_ability",
+                "current": 0,
+                "max": "",
+                "id": "-00122-c7fe0644b2d401064dae0e0b4ec13272"
+            },
+            {
+                "name": "nature_ability_select",
+                "current": "@{wisdom_modifier}",
+                "max": "",
+                "id": "-00123-5d3afb1ebc2fd858d0964d8473b70e06"
+            },
+            {
+                "name": "occultism",
+                "current": 3,
+                "max": "",
+                "id": "-00124-8e6b4af486634f8e300ef1419310ca16"
+            },
+            {
+                "name": "occultism_proficiency_display",
+                "current": "U",
+                "max": "",
+                "id": "-00125-14049e7218f3ce133f8bdd6dd85b50ff"
+            },
+            {
+                "name": "occultism_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "-00126-d5a437549c4b49ed1bcc07ac581ff3d6"
+            },
+            {
+                "name": "occultism_item",
+                "current": 3,
+                "max": "",
+                "id": "-00127-2423f1b90d616c3af5f02d47cf564f7c"
+            },
+            {
+                "name": "occultism_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00128-e521c17299ab191a8f93c817829ef303"
+            },
+            {
+                "name": "occultism_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00129-6b763d8061a00837cbf58b4f56c3bde9"
+            },
+            {
+                "name": "occultism_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00130-083289a5f81fc906d700a14897fd491e"
+            },
+            {
+                "name": "occultism_ability",
+                "current": 0,
+                "max": "",
+                "id": "-00131-eddd3a119776d46d4859978646657ee7"
+            },
+            {
+                "name": "occultism_ability_select",
+                "current": "@{intelligence_modifier}",
+                "max": "",
+                "id": "-00132-77caa574613ee9ced854022b9948e2fb"
+            },
+            {
+                "name": "performance",
+                "current": 5,
+                "max": "",
+                "id": "-00133-b35013add2d7c381282cb98339565323"
+            },
+            {
+                "name": "performance_proficiency_display",
+                "current": "U",
+                "max": "",
+                "id": "-00134-f3cc6e488d36ff5f738c4ad856c6f1e6"
+            },
+            {
+                "name": "performance_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "-00135-07fa66e776a8cec27454eb81dce04246"
+            },
+            {
+                "name": "performance_item",
+                "current": 3,
+                "max": "",
+                "id": "-00136-764392bcff40ebcdef781677852c5c1d"
+            },
+            {
+                "name": "performance_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00137-60903ca94f203a3d0fac93d27e1fc32a"
+            },
+            {
+                "name": "performance_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00138-9900c523269c331e3a07cfdb3601aba7"
+            },
+            {
+                "name": "performance_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00139-d15cd1542c45040cc372f853c2ac0e3a"
+            },
+            {
+                "name": "performance_ability",
+                "current": 2,
+                "max": "",
+                "id": "-00140-c247d1207ab1c7b12d48624ede55e2d2"
+            },
+            {
+                "name": "performance_ability_select",
+                "current": "@{charisma_modifier}",
+                "max": "",
+                "id": "-00141-f51e2263d5b96ad2b78afe7f96cc8cf5"
+            },
+            {
+                "name": "religion",
+                "current": 3,
+                "max": "",
+                "id": "-00142-991b003b33a8f05f6abc7d06685c608a"
+            },
+            {
+                "name": "religion_proficiency_display",
+                "current": "U",
+                "max": "",
+                "id": "-00143-7bc25f0a1ccbfdc7a13972ef2eb64aab"
+            },
+            {
+                "name": "religion_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "-00144-525a02ce3270f7bf1a6fbe7c7605f9ba"
+            },
+            {
+                "name": "religion_item",
+                "current": 3,
+                "max": "",
+                "id": "-00145-6001f24e0880cffa0246b3eb7cd1b476"
+            },
+            {
+                "name": "religion_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00146-8f224e9b8e3843bc94227e2c7687c0c8"
+            },
+            {
+                "name": "religion_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00147-9571bd8851fd07271b12c375adbbb3e6"
+            },
+            {
+                "name": "religion_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00148-78ae9f9ba2374a8a81ab1be384f77a4f"
+            },
+            {
+                "name": "religion_ability",
+                "current": 0,
+                "max": "",
+                "id": "-00149-bb33b9b7ab524bb7fa1f14a2e8da0b84"
+            },
+            {
+                "name": "religion_ability_select",
+                "current": "@{wisdom_modifier}",
+                "max": "",
+                "id": "-00150-d1d998d0aa00442c23f22a6633e1a27e"
+            },
+            {
+                "name": "society",
+                "current": 3,
+                "max": "",
+                "id": "-00151-d5ca7415906cddf509f3a90086c17ea9"
+            },
+            {
+                "name": "society_proficiency_display",
+                "current": "U",
+                "max": "",
+                "id": "-00152-63060ed484dc73383482ac547b3357cf"
+            },
+            {
+                "name": "society_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "-00153-07b110942e877473a6b4adcf34bf92a3"
+            },
+            {
+                "name": "society_item",
+                "current": 3,
+                "max": "",
+                "id": "-00154-e943c4dc2d0e11030adbd638639e54d7"
+            },
+            {
+                "name": "society_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00155-84fbedd7507b43511f30e88e4c1d82ae"
+            },
+            {
+                "name": "society_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00156-394a043a35ec7b48c09eba783af82c8b"
+            },
+            {
+                "name": "society_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00157-6219e1047ffa69fe05555896f09d1bce"
+            },
+            {
+                "name": "society_ability",
+                "current": 0,
+                "max": "",
+                "id": "-00158-b94b26f3277ba240b52802a7c7ab3a4d"
+            },
+            {
+                "name": "society_ability_select",
+                "current": "@{intelligence_modifier}",
+                "max": "",
+                "id": "-00159-0c5ef6041e17f1199ee03bcc2e31824b"
+            },
+            {
+                "name": "stealth",
+                "current": 6,
+                "max": "",
+                "id": "-00160-ff5c62298ebe5bd395809cc73ea1c79b"
+            },
+            {
+                "name": "stealth_proficiency_display",
+                "current": "U",
+                "max": "",
+                "id": "-00161-98d087c2cef54dbbf612e5d411371b67"
+            },
+            {
+                "name": "stealth_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "-00162-0a9187e278fb66779103f316be9e67cf"
+            },
+            {
+                "name": "stealth_item",
+                "current": 3,
+                "max": "",
+                "id": "-00163-25c058d4ced1776d156b446102eaf251"
+            },
+            {
+                "name": "stealth_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00164-e74a940b721e552384bb845809637b53"
+            },
+            {
+                "name": "stealth_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00165-28e99cd94a08ee567f5012966f5b6038"
+            },
+            {
+                "name": "stealth_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00166-c6ba07fa85bd879d5a8c37494bad9ce9"
+            },
+            {
+                "name": "stealth_ability",
+                "current": 3,
+                "max": "",
+                "id": "-00167-f932e15e4d751b105b9c383c55590d56"
+            },
+            {
+                "name": "stealth_ability_select",
+                "current": "@{dexterity_modifier}",
+                "max": "",
+                "id": "-00168-433fe3374ca8ecbf7a09f71848ace3bf"
+            },
+            {
+                "name": "survival",
+                "current": 8,
+                "max": "",
+                "id": "-00169-f85fc3faf8c6dd909105184c3c924307"
+            },
+            {
+                "name": "survival_proficiency_display",
+                "current": "T",
+                "max": "",
+                "id": "-00170-910ef17bb089e9e2564bb0aca7940df8"
+            },
+            {
+                "name": "survival_proficiency",
+                "current": 8,
+                "max": "",
+                "id": "-00171-69f927b6ceb190d0f969c1acfeb6d216"
+            },
+            {
+                "name": "survival_item",
+                "current": 0,
+                "max": "",
+                "id": "-00172-e81052f67c5031315915d3f82ee65311"
+            },
+            {
+                "name": "survival_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00173-1c05570463d14d571189af4f7d684187"
+            },
+            {
+                "name": "survival_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00174-2c176850a6990ddbea0078d1e12b941c"
+            },
+            {
+                "name": "survival_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00175-d43f1c85b8cca91807a1f0929e8ffc8d"
+            },
+            {
+                "name": "survival_ability",
+                "current": 0,
+                "max": "",
+                "id": "-00176-c7016a031055546dfcbe1ff494e57bc0"
+            },
+            {
+                "name": "survival_ability_select",
+                "current": "@{wisdom_modifier}",
+                "max": "",
+                "id": "-00177-897e17041942c4c12b423c530c360f4c"
+            },
+            {
+                "name": "thievery",
+                "current": 6,
+                "max": "",
+                "id": "-00178-7e78ca49ec3581a6e8df7ade9678a4e0"
+            },
+            {
+                "name": "thievery_proficiency_display",
+                "current": "U",
+                "max": "",
+                "id": "-00179-c764800d12d5730ec132930f2f9f0d22"
+            },
+            {
+                "name": "thievery_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "-00180-58b06231f9e8e00d511dc37b8dba9d59"
+            },
+            {
+                "name": "thievery_item",
+                "current": 3,
+                "max": "",
+                "id": "-00181-f4f0d90a701329dd4e142127d586d72c"
+            },
+            {
+                "name": "thievery_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00182-6327c1e4ea142c30fc4a51a3fa0c443a"
+            },
+            {
+                "name": "thievery_armor",
+                "current": "0",
+                "max": "",
+                "id": "-00183-b22578d20a880d23e01a0a9c5eb91334"
+            },
+            {
+                "name": "thievery_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00184-38a4dbf05935da7e40384fd3ba33714c"
+            },
+            {
+                "name": "thievery_ability",
+                "current": 3,
+                "max": "",
+                "id": "-00185-9081ee1933856791067b64f3c37fac6c"
+            },
+            {
+                "name": "thievery_ability_select",
+                "current": "@{dexterity_modifier}",
+                "max": "",
+                "id": "-00186-0cb8ada804f63c5566c0be6ffd6b8f15"
+            },
+            {
+                "name": "weapon_proficiencies_simple_rank",
+                "current": 4,
+                "max": "",
+                "id": "-00187-d93192eb80665515719afcb08ddd5d50"
+            },
+            {
+                "name": "weapon_proficiencies_martial_rank",
+                "current": 4,
+                "max": "",
+                "id": "-00188-a28b9c685402fbb526a77abd96a1be24"
+            },
+            {
+                "name": "repeating_weapon-proficiencies_-00189-1086ba8089d16a45cccf606489c891c8_weapon_proficiencies_other",
+                "current": "Unarmed",
+                "max": "",
+                "id": "-00190-31fc432d5ee848c2a7af78b341eea5aa"
+            },
+            {
+                "name": "repeating_weapon-proficiencies_-00189-1086ba8089d16a45cccf606489c891c8_weapon_proficiencies_other_rank",
+                "current": "4",
+                "max": "",
+                "id": "-00191-47b656fe1e1cc0b1030516be3048710a"
+            },
+            {
+                "name": "armor_class_unarmored_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00192-d137c84c2babdce1bf4ead0cd5dc48f7"
+            },
+            {
+                "name": "armor_class_light_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00193-fbed4b9b271b5906a4a13f54e6254fbc"
+            },
+            {
+                "name": "armor_class_medium_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00194-df91b1d67e6e4959752c7e2b49868cc7"
+            },
+            {
+                "name": "armor_class_heavy_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00195-640a15c4b72ff6eb8563f836fe9bfcdc"
+            },
+            {
+                "name": "saving_throws_fortitude",
+                "current": 13,
+                "max": "",
+                "id": "-00196-be64d2058b8923dd53e6f2c718ac6690"
+            },
+            {
+                "name": "saving_throws_fortitude_proficiency",
+                "current": 10,
+                "max": "",
+                "id": "-00197-dfd42a7bcd2cade974aa10687c5689a1"
+            },
+            {
+                "name": "saving_throws_fortitude_proficiency_display",
+                "current": "E",
+                "max": "",
+                "id": "-00198-e9e75f683b7d6d68e7e4f0cace40ccb0"
+            },
+            {
+                "name": "saving_throws_fortitude_rank",
+                "current": 4,
+                "max": "",
+                "id": "-00199-943e013572dd1e8ef9e8196c0d95a59f"
+            },
+            {
+                "name": "saving_throws_fortitude_ability_select",
+                "current": "@{constitution_modifier}",
+                "max": "",
+                "id": "-00200-2ed2a45c0765c9b80d0a9dfe3c1610d1"
+            },
+            {
+                "name": "saving_throws_reflex",
+                "current": 13,
+                "max": "",
+                "id": "-00201-cdb8ce4f17e117a04cc82e45abf71ec5"
+            },
+            {
+                "name": "saving_throws_reflex_proficiency",
+                "current": 8,
+                "max": "",
+                "id": "-00202-491fc8c1b16ad59ee855e9c91c461a0b"
+            },
+            {
+                "name": "saving_throws_reflex_proficiency_display",
+                "current": "T",
+                "max": "",
+                "id": "-00203-ad5f9e00f890c382d543a61c195adab6"
+            },
+            {
+                "name": "saving_throws_reflex_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00204-2109c70dc7d4cae92cbe2c4c385dfa3e"
+            },
+            {
+                "name": "saving_throws_reflex_ability_select",
+                "current": "@{dexterity_modifier}",
+                "max": "",
+                "id": "-00205-987339540397b051b182e71bef9a3b2f"
+            },
+            {
+                "name": "saving_throws_will",
+                "current": 10,
+                "max": "",
+                "id": "-00206-01110e1fd3b33990ce19eb8176777584"
+            },
+            {
+                "name": "saving_throws_will_proficiency",
+                "current": 10,
+                "max": "",
+                "id": "-00207-5d61759d65a6943cf6e5cba5d7e38dce"
+            },
+            {
+                "name": "saving_throws_will_proficiency_display",
+                "current": "E",
+                "max": "",
+                "id": "-00208-5195a26d6f5916e9bc561e10c090d089"
+            },
+            {
+                "name": "saving_throws_will_rank",
+                "current": 4,
+                "max": "",
+                "id": "-00209-a5ca430027064e3ed89f4eed35595eb1"
+            },
+            {
+                "name": "saving_throws_will_ability_select",
+                "current": "@{wisdom_modifier}",
+                "max": "",
+                "id": "-00210-f4e5639a2143a890172140a882604429"
+            },
+            {
+                "name": "perception",
+                "current": 10,
+                "max": "",
+                "id": "-00211-18e4e0c4dd8c228d0188f164d6b1aa62"
+            },
+            {
+                "name": "perception_proficiency_display",
+                "current": "E",
+                "max": "",
+                "id": "-00212-9897677a6681467d5785ee1fecf0c61a"
+            },
+            {
+                "name": "perception_proficiency",
+                "current": 10,
+                "max": "",
+                "id": "-00213-3afb4d177453cdd52f55aef3b6042ef7"
+            },
+            {
+                "name": "perception_item",
+                "current": 0,
+                "max": "",
+                "id": "-00214-91cb526f469a53342445aff2f949488c"
+            },
+            {
+                "name": "perception_temporary",
+                "current": "0",
+                "max": "",
+                "id": "-00215-14e26d58016179cd7c1a2051ccbdffa2"
+            },
+            {
+                "name": "perception_rank",
+                "current": 4,
+                "max": "",
+                "id": "-00216-da1d1ecb7a6dbcaa0283e26f75c5d9e0"
+            },
+            {
+                "name": "class_dc",
+                "current": 22,
+                "max": "",
+                "id": "-00217-158ae2d3cc04a717be6262edbcddd103"
+            },
+            {
+                "name": "class_dc_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00218-5d0f9f8ebced888b203903441b9a5fd3"
+            },
+            {
+                "name": "class_dc_proficiency_display",
+                "current": "T",
+                "max": "",
+                "id": "-00219-1420264cacab5d6c83e8169a695b5f7f"
+            },
+            {
+                "name": "class_dc_proficiency",
+                "current": 8,
+                "max": "",
+                "id": "-00220-0b1e081f852b941518e5e1c0705348a0"
+            },
+            {
+                "name": "class_dc_key_ability",
+                "current": 4,
+                "max": "",
+                "id": "-00221-b7e0b13cd53780168f26abc7dc0edc4d"
+            },
+            {
+                "name": "class_dc_key_ability_select",
+                "current": "@{strength_modifier}",
+                "max": "",
+                "id": "-00222-b7d1d6f60f225046c436b9939faff5e0"
+            },
+            {
+                "name": "ac",
+                "current": 21,
+                "max": "",
+                "id": "-00223-817ffe0e7727315fe50862c45425a89d"
+            },
+            {
+                "name": "armor_class",
+                "current": 21,
+                "max": "",
+                "id": "-00224-b99c7ae0e6203eb02f914de24a001bb2"
+            },
+            {
+                "name": "armor_class_ability",
+                "current": 3,
+                "max": "",
+                "id": "-00225-c39d3fced9ef6156f9f038872782c928"
+            },
+            {
+                "name": "armor_class_rank",
+                "current": 2,
+                "max": "",
+                "id": "-00226-58cac0255da88c32dc7ec3315255c0de"
+            },
+            {
+                "name": "armor_class_proficiency",
+                "current": 8,
+                "max": "",
+                "id": "-00227-9ea17c4bfc28303c6326dadd0452d340"
+            },
+            {
+                "name": "armor_class_proficiency_display",
+                "current": "T",
+                "max": "",
+                "id": "-00228-67e98319e961b682c587b3ce53550b0d"
+            },
+            {
+                "name": "armor_class_ability_select",
+                "current": "@{dexterity_modifier}",
+                "max": "",
+                "id": "-00229-5d5f8d74b697805ba790d15b9e0900c7"
+            },
+            {
+                "name": "armor_class_dc_rank",
+                "current": "2",
+                "max": "",
+                "id": "-00230-a40f042eecbc7f5176ef151e36dfa3cf"
+            },
+            {
+                "name": "armor_class_shield",
+                "current": 21,
+                "max": "",
+                "id": "-00231-c25d2e22e43d205ed5c6e2a250022a6e"
+            },
+            {
+                "name": "hit_points",
+                "current": 98,
+                "max": "",
+                "id": "-00232-c0257d143e234f8a0c4ba6d13964774e"
+            },
+            {
+                "name": "hit_points_max",
+                "current": 98,
+                "max": "",
+                "id": "-00233-d06ac869a918c66ae4381b3043c6f5fa"
+            },
+            {
+                "name": "hit_points_class",
+                "current": 12,
+                "max": "",
+                "id": "-00234-b9050080730ad56fbf9e90e17a6461a2"
+            },
+            {
+                "name": "hit_points_ancestry",
+                "current": 8,
+                "max": "",
+                "id": "-00235-aa63083e35e1e306920c937d19f0a572"
+            },
+            {
+                "name": "hit_points_notes",
+                "current": "",
+                "max": "",
+                "id": "-00236-2cc7ae0ed8f3c61fa1c2dd740f14094c"
+            },
+            {
+                "name": "speed",
+                "current": 25,
+                "max": "",
+                "id": "-00237-3679b07c07d5d839d0c195d2c84fb11e"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00238-d0f7c2c1f6bf1bdd1660f8c4d18f163e_feat_ancestry",
+                "current": "Wintertouched Human",
+                "max": "",
+                "id": "-00239-7cb196a11dc0eb9c18659fcb4dc34810"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00238-d0f7c2c1f6bf1bdd1660f8c4d18f163e_feat_ancestry_type",
+                "current": "",
+                "max": "",
+                "id": "-00240-8bf7ea91b7bd22363b25e771b6ac375e"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00238-d0f7c2c1f6bf1bdd1660f8c4d18f163e_feat_ancestry_level",
+                "current": 1,
+                "max": "",
+                "id": "-00241-fe0cc6d092cda21c65d1c832ea7866da"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00238-d0f7c2c1f6bf1bdd1660f8c4d18f163e_feat_ancestry_traits",
+                "current": "",
+                "max": "",
+                "id": "-00242-0f23ca43a00831b87c9da8c291285957"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00238-d0f7c2c1f6bf1bdd1660f8c4d18f163e_feat_ancestry_prerequisites",
+                "current": "",
+                "max": "",
+                "id": "-00243-6cf2dd804f445b687beb085a0368ae65"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00238-d0f7c2c1f6bf1bdd1660f8c4d18f163e_feat_ancestry_action",
+                "current": "none",
+                "max": "",
+                "id": "-00244-cfcdceae7c11c899970fec86df7582f2"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00238-d0f7c2c1f6bf1bdd1660f8c4d18f163e_feat_ancestry_trigger",
+                "current": "",
+                "max": "",
+                "id": "-00245-1012af8a4efff114c5941b5c4d352777"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00238-d0f7c2c1f6bf1bdd1660f8c4d18f163e_feat_ancestry_requirements",
+                "current": "",
+                "max": "",
+                "id": "-00246-e972920b5e10b8da13bc596c4ea76c46"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00238-d0f7c2c1f6bf1bdd1660f8c4d18f163e_feat_ancestry_frequency",
+                "current": "",
+                "max": "",
+                "id": "-00247-d7667e12f55a0c1ac675db5e02d014e7"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00238-d0f7c2c1f6bf1bdd1660f8c4d18f163e_feat_ancestry_benefits",
+                "current": "",
+                "max": "",
+                "id": "-00248-57e81ed3c8bdc572f324fe2cc3b71ecd"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00238-d0f7c2c1f6bf1bdd1660f8c4d18f163e_feat_ancestry_notes",
+                "current": "\n\n",
+                "max": "",
+                "id": "-00249-3985b9118b5f34f21faa18be46f67a21"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00238-d0f7c2c1f6bf1bdd1660f8c4d18f163e_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00250-006cb18ff605a2d0eba2e7b2ddbbacfb"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00251-f22a7f6e82cf5e248e7fee6a01ef293f_feat_ancestry",
+                "current": "Tribal Bond",
+                "max": "",
+                "id": "-00252-f1bb7c970434bda10b0277e8fae8eb29"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00251-f22a7f6e82cf5e248e7fee6a01ef293f_feat_ancestry_type",
+                "current": "",
+                "max": "",
+                "id": "-00253-1a27a5121270728dc706a64c5718d9da"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00251-f22a7f6e82cf5e248e7fee6a01ef293f_feat_ancestry_level",
+                "current": 1,
+                "max": "",
+                "id": "-00254-45d390df5e44539b815e1227adae3341"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00251-f22a7f6e82cf5e248e7fee6a01ef293f_feat_ancestry_traits",
+                "current": "",
+                "max": "",
+                "id": "-00255-ac133a1efdce9f93bce11c41a9cf5a48"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00251-f22a7f6e82cf5e248e7fee6a01ef293f_feat_ancestry_prerequisites",
+                "current": "",
+                "max": "",
+                "id": "-00256-54578458e91ba2d9934d27595d9c5d61"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00251-f22a7f6e82cf5e248e7fee6a01ef293f_feat_ancestry_action",
+                "current": "none",
+                "max": "",
+                "id": "-00257-1f0f9ce32890af9cfa426a457e8cadb6"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00251-f22a7f6e82cf5e248e7fee6a01ef293f_feat_ancestry_trigger",
+                "current": "",
+                "max": "",
+                "id": "-00258-c546262d290fefb835ef6271f09e273f"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00251-f22a7f6e82cf5e248e7fee6a01ef293f_feat_ancestry_requirements",
+                "current": "",
+                "max": "",
+                "id": "-00259-ef2dd48ab47015118837e9607c3b7219"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00251-f22a7f6e82cf5e248e7fee6a01ef293f_feat_ancestry_frequency",
+                "current": "",
+                "max": "",
+                "id": "-00260-1b69df786e6b8c2f5e31cfab14818fff"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00251-f22a7f6e82cf5e248e7fee6a01ef293f_feat_ancestry_benefits",
+                "current": "",
+                "max": "",
+                "id": "-00261-8a8da90617aa0278716eeb329590d945"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00251-f22a7f6e82cf5e248e7fee6a01ef293f_feat_ancestry_notes",
+                "current": "\n\n",
+                "max": "",
+                "id": "-00262-3610c2f8218124ec9c9250a4b008ff1a"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00251-f22a7f6e82cf5e248e7fee6a01ef293f_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00263-c70725ec3060b9703a421c7d7a43dff2"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00264-d528fc5704f573e3ed982a37b81eace9_feat_ancestry",
+                "current": "Unconventional Weaponry",
+                "max": "",
+                "id": "-00265-7119d67d4ef60c227c6a1d2c47dfef3a"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00264-d528fc5704f573e3ed982a37b81eace9_feat_ancestry_type",
+                "current": "",
+                "max": "",
+                "id": "-00266-6729e92c577f18556a28cec9ba9a76df"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00264-d528fc5704f573e3ed982a37b81eace9_feat_ancestry_level",
+                "current": 1,
+                "max": "",
+                "id": "-00267-51206ea9b94e6c53c7867dab2d196774"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00264-d528fc5704f573e3ed982a37b81eace9_feat_ancestry_traits",
+                "current": "Human",
+                "max": "",
+                "id": "-00268-f73bbcc82754f9bc870915c0e4546359"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00264-d528fc5704f573e3ed982a37b81eace9_feat_ancestry_prerequisites",
+                "current": "",
+                "max": "",
+                "id": "-00269-ce820f53979ffc64fdcd2b52fa866d01"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00264-d528fc5704f573e3ed982a37b81eace9_feat_ancestry_action",
+                "current": "none",
+                "max": "",
+                "id": "-00270-831568972869c669952763d16492da47"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00264-d528fc5704f573e3ed982a37b81eace9_feat_ancestry_trigger",
+                "current": "",
+                "max": "",
+                "id": "-00271-1c49a8e227b3c969d7beecc71d70bc6d"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00264-d528fc5704f573e3ed982a37b81eace9_feat_ancestry_requirements",
+                "current": "",
+                "max": "",
+                "id": "-00272-fb2453155fffc1b60e502704baeab1ef"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00264-d528fc5704f573e3ed982a37b81eace9_feat_ancestry_frequency",
+                "current": "",
+                "max": "",
+                "id": "-00273-194ec07b7c697ef322929e379f75c7df"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00264-d528fc5704f573e3ed982a37b81eace9_feat_ancestry_benefits",
+                "current": "",
+                "max": "",
+                "id": "-00274-2d313cb3730d9496c42f299f5cb8129f"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00264-d528fc5704f573e3ed982a37b81eace9_feat_ancestry_notes",
+                "current": "You've familiarized yourself with a particular weapon, potentially from another ancestry or culture. Choose an uncommon simple or martial weapon with a trait corresponding to an ancestry (such as dwarf, goblin, or orc) or that is common in another culture. You gain access to that weapon, and for the purpose of determining your proficiency, that weapon is a simple weapon.\n\n If you are trained in all martial weapons, you can choose an uncommon advanced weapon with such a trait. You gain access to that weapon, and for the purpose of determining your proficiency, that weapon is a martial weapon.\nUnconventional Weaponry Leads To...\n\nUnconventional ExpertiseTraitsHuman: A creature with this trait is a member of the human ancestry. Humans are a diverse array of people known for their adaptability. An ability with this trait can be used or selected only by humans.\n\nhttps:\/\/2e.aonprd.com\/Feats.aspx?ID=72",
+                "max": "",
+                "id": "-00275-257e5c75f6a1d9502989096fd99dc1cc"
+            },
+            {
+                "name": "repeating_feat-ancestry_-00264-d528fc5704f573e3ed982a37b81eace9_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00276-09416cde09188ce1852c3ab87353cfed"
+            },
+            {
+                "name": "repeating_feat-skill_-00277-c81f59e134d0c1f10f6b43fb950143d4_feat_skill",
+                "current": "Quick Jump",
+                "max": "",
+                "id": "-00278-31dbb65a26fb7da1dac4b4b968efc957"
+            },
+            {
+                "name": "repeating_feat-skill_-00277-c81f59e134d0c1f10f6b43fb950143d4_feat_skill_level",
+                "current": 1,
+                "max": "",
+                "id": "-00279-ceb225843f49966226eb17736d3549e2"
+            },
+            {
+                "name": "repeating_feat-skill_-00277-c81f59e134d0c1f10f6b43fb950143d4_feat_skill_skill",
+                "current": "",
+                "max": "",
+                "id": "-00280-22c16551c6a15ead71339539e06755a3"
+            },
+            {
+                "name": "repeating_feat-skill_-00277-c81f59e134d0c1f10f6b43fb950143d4_feat_skill_traits",
+                "current": "General, Skill",
+                "max": "",
+                "id": "-00281-fb85a9225e0944ff3703969b79fdcbc7"
+            },
+            {
+                "name": "repeating_feat-skill_-00277-c81f59e134d0c1f10f6b43fb950143d4_feat_skill_prerequisites",
+                "current": "Trained In Athletics",
+                "max": "",
+                "id": "-00282-b4f198502838ce74a3c696178adf1891"
+            },
+            {
+                "name": "repeating_feat-skill_-00277-c81f59e134d0c1f10f6b43fb950143d4_feat_skill_action",
+                "current": "none",
+                "max": "",
+                "id": "-00283-eff99ebd102178ecf17254ade729b194"
+            },
+            {
+                "name": "repeating_feat-skill_-00277-c81f59e134d0c1f10f6b43fb950143d4_feat_skill_trigger",
+                "current": "",
+                "max": "",
+                "id": "-00284-63e73c42814880326d6d9194ea43075c"
+            },
+            {
+                "name": "repeating_feat-skill_-00277-c81f59e134d0c1f10f6b43fb950143d4_feat_skill_requirements",
+                "current": "",
+                "max": "",
+                "id": "-00285-1bad93857f04ab7b51cf610120a914b9"
+            },
+            {
+                "name": "repeating_feat-skill_-00277-c81f59e134d0c1f10f6b43fb950143d4_feat_skill_frequency",
+                "current": "",
+                "max": "",
+                "id": "-00286-1a8c97de66e85d8c4fc7106ebded9be6"
+            },
+            {
+                "name": "repeating_feat-skill_-00277-c81f59e134d0c1f10f6b43fb950143d4_feat_skill_benefits",
+                "current": "",
+                "max": "",
+                "id": "-00287-fe2b2fc9fe268f434b0a94eb49c0abc8"
+            },
+            {
+                "name": "repeating_feat-skill_-00277-c81f59e134d0c1f10f6b43fb950143d4_feat_skill_notes",
+                "current": "You can use High Jump and Long Jump as a single action instead of 2 actions. If you do, you don\u2019t perform the initial Stride (nor do you fail if you don\u2019t Stride 10 feet).Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.\n\nhttps:\/\/2e.aonprd.com\/Feats.aspx?ID=825",
+                "max": "",
+                "id": "-00288-3f6a19bede3dffea2153bc8a5648953c"
+            },
+            {
+                "name": "repeating_feat-skill_-00277-c81f59e134d0c1f10f6b43fb950143d4_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00289-5532e089aa620c29e0d3a077dfe36317"
+            },
+            {
+                "name": "repeating_feat-skill_-00290-cac85994ed166effe171f90864e68ef0_feat_skill",
+                "current": "Intimidating Prowess",
+                "max": "",
+                "id": "-00291-b37ed9362f4f064c7cffff7e237f5489"
+            },
+            {
+                "name": "repeating_feat-skill_-00290-cac85994ed166effe171f90864e68ef0_feat_skill_level",
+                "current": 2,
+                "max": "",
+                "id": "-00292-e75e3683460f83cd5032589126a81d59"
+            },
+            {
+                "name": "repeating_feat-skill_-00290-cac85994ed166effe171f90864e68ef0_feat_skill_skill",
+                "current": "",
+                "max": "",
+                "id": "-00293-06768030607c78792e5a0fb188c2ed52"
+            },
+            {
+                "name": "repeating_feat-skill_-00290-cac85994ed166effe171f90864e68ef0_feat_skill_traits",
+                "current": "General, Skill",
+                "max": "",
+                "id": "-00294-65360a2c18d7b92e46cffd1517f65f5b"
+            },
+            {
+                "name": "repeating_feat-skill_-00290-cac85994ed166effe171f90864e68ef0_feat_skill_prerequisites",
+                "current": "Strength 16; Expert In Intimidation",
+                "max": "",
+                "id": "-00295-b14bc1e9cac0cd2117a67f9b8e07b037"
+            },
+            {
+                "name": "repeating_feat-skill_-00290-cac85994ed166effe171f90864e68ef0_feat_skill_action",
+                "current": "none",
+                "max": "",
+                "id": "-00296-bdc33d6f417a24dc1457190a5944f8a3"
+            },
+            {
+                "name": "repeating_feat-skill_-00290-cac85994ed166effe171f90864e68ef0_feat_skill_trigger",
+                "current": "",
+                "max": "",
+                "id": "-00297-ec5fb135cd69bf121b3eca087092e836"
+            },
+            {
+                "name": "repeating_feat-skill_-00290-cac85994ed166effe171f90864e68ef0_feat_skill_requirements",
+                "current": "",
+                "max": "",
+                "id": "-00298-205bf5eb9654a60920b375877e7a48b5"
+            },
+            {
+                "name": "repeating_feat-skill_-00290-cac85994ed166effe171f90864e68ef0_feat_skill_frequency",
+                "current": "",
+                "max": "",
+                "id": "-00299-9e3dc243dbb62abac3c1b685f23d3f85"
+            },
+            {
+                "name": "repeating_feat-skill_-00290-cac85994ed166effe171f90864e68ef0_feat_skill_benefits",
+                "current": "",
+                "max": "",
+                "id": "-00300-002758eabc1eee28b3759946d24b8a07"
+            },
+            {
+                "name": "repeating_feat-skill_-00290-cac85994ed166effe171f90864e68ef0_feat_skill_notes",
+                "current": "In situations where you can physically menace the target when you Coerce or Demoralize, you gain a +1 circumstance bonus to your Intimidation check and you ignore the penalty for not sharing a language. If your Strength score is 20 or higher and you are a master in Intimidation, this bonus increases to +2.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.\n\nhttps:\/\/2e.aonprd.com\/Feats.aspx?ID=797",
+                "max": "",
+                "id": "-00301-ecf9a0f34afcf1df9aa2a7ed8b1201a8"
+            },
+            {
+                "name": "repeating_feat-skill_-00290-cac85994ed166effe171f90864e68ef0_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00302-1a7519223d27e20ebdb359ceeb8495f9"
+            },
+            {
+                "name": "repeating_feat-skill_-00303-730ccdbe2b46e061b4cc0cee4e4a318d_feat_skill",
+                "current": "Quick Coercion",
+                "max": "",
+                "id": "-00304-4a8800853b62dd5a1ce74d2d64459556"
+            },
+            {
+                "name": "repeating_feat-skill_-00303-730ccdbe2b46e061b4cc0cee4e4a318d_feat_skill_level",
+                "current": 1,
+                "max": "",
+                "id": "-00305-762869fa2ed0e44cdcdecb56e4808f4e"
+            },
+            {
+                "name": "repeating_feat-skill_-00303-730ccdbe2b46e061b4cc0cee4e4a318d_feat_skill_skill",
+                "current": "",
+                "max": "",
+                "id": "-00306-0f3a4dfa62c8da5b77643578c85bb25f"
+            },
+            {
+                "name": "repeating_feat-skill_-00303-730ccdbe2b46e061b4cc0cee4e4a318d_feat_skill_traits",
+                "current": "General, Skill",
+                "max": "",
+                "id": "-00307-687e74a20a3610d2c26264bc4e54ae9c"
+            },
+            {
+                "name": "repeating_feat-skill_-00303-730ccdbe2b46e061b4cc0cee4e4a318d_feat_skill_prerequisites",
+                "current": "Trained In Intimidation",
+                "max": "",
+                "id": "-00308-e19029c17e8d84dbc70c6528c6d5c9fb"
+            },
+            {
+                "name": "repeating_feat-skill_-00303-730ccdbe2b46e061b4cc0cee4e4a318d_feat_skill_action",
+                "current": "none",
+                "max": "",
+                "id": "-00309-60924b2f0c6a2855eaa240f9ee91014d"
+            },
+            {
+                "name": "repeating_feat-skill_-00303-730ccdbe2b46e061b4cc0cee4e4a318d_feat_skill_trigger",
+                "current": "",
+                "max": "",
+                "id": "-00310-f17efae9d26e3c1411b317408a63db4a"
+            },
+            {
+                "name": "repeating_feat-skill_-00303-730ccdbe2b46e061b4cc0cee4e4a318d_feat_skill_requirements",
+                "current": "",
+                "max": "",
+                "id": "-00311-0a76c6bec5dcc3b7a04577613073a4c6"
+            },
+            {
+                "name": "repeating_feat-skill_-00303-730ccdbe2b46e061b4cc0cee4e4a318d_feat_skill_frequency",
+                "current": "",
+                "max": "",
+                "id": "-00312-4054c2ecd07b1eb0310889d74669596e"
+            },
+            {
+                "name": "repeating_feat-skill_-00303-730ccdbe2b46e061b4cc0cee4e4a318d_feat_skill_benefits",
+                "current": "",
+                "max": "",
+                "id": "-00313-a362664f15258a5e84b0676476c54dfd"
+            },
+            {
+                "name": "repeating_feat-skill_-00303-730ccdbe2b46e061b4cc0cee4e4a318d_feat_skill_notes",
+                "current": "You can bully others with just a few choice implications. You can Coerce a creature after 1 round of conversation instead of 1 minute. You still can\u2019t Coerce a creature in the midst of combat, or without engaging in a conversation.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.\n\nhttps:\/\/2e.aonprd.com\/Feats.aspx?ID=822",
+                "max": "",
+                "id": "-00314-7f28f3ce1ce96d1d05dd0c9b05d45f15"
+            },
+            {
+                "name": "repeating_feat-skill_-00303-730ccdbe2b46e061b4cc0cee4e4a318d_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00315-487a4ab962eef8833ef78c18e8616dd9"
+            },
+            {
+                "name": "repeating_feat-general_-00316-c3840c9d8ceb4c71e06f8b00bbcb7247_feat_general",
+                "current": "Untrained Improvisation",
+                "max": "",
+                "id": "-00317-de18858e83cf62987200c46965dd683c"
+            },
+            {
+                "name": "repeating_feat-general_-00316-c3840c9d8ceb4c71e06f8b00bbcb7247_feat_general_level",
+                "current": 3,
+                "max": "",
+                "id": "-00318-b2782ee3c435b44eccee1e1967306f6a"
+            },
+            {
+                "name": "repeating_feat-general_-00316-c3840c9d8ceb4c71e06f8b00bbcb7247_feat_general_traits",
+                "current": "General",
+                "max": "",
+                "id": "-00319-2ca77bd6d865f48013a110c544f44e48"
+            },
+            {
+                "name": "repeating_feat-general_-00316-c3840c9d8ceb4c71e06f8b00bbcb7247_feat_general_prerequisites",
+                "current": "",
+                "max": "",
+                "id": "-00320-aea9005492a5be2fa43d7e61f0fa0d8e"
+            },
+            {
+                "name": "repeating_feat-general_-00316-c3840c9d8ceb4c71e06f8b00bbcb7247_feat_general_action",
+                "current": "none",
+                "max": "",
+                "id": "-00321-dfb0e2d8c02a0bfa954dd67684330eb8"
+            },
+            {
+                "name": "repeating_feat-general_-00316-c3840c9d8ceb4c71e06f8b00bbcb7247_feat_general_trigger",
+                "current": "",
+                "max": "",
+                "id": "-00322-59fb29016d7531f5f6cab1092472027e"
+            },
+            {
+                "name": "repeating_feat-general_-00316-c3840c9d8ceb4c71e06f8b00bbcb7247_feat_general_requirements",
+                "current": "",
+                "max": "",
+                "id": "-00323-740fa8faf9c7fd2de290d2576c54645f"
+            },
+            {
+                "name": "repeating_feat-general_-00316-c3840c9d8ceb4c71e06f8b00bbcb7247_feat_general_frequency",
+                "current": "",
+                "max": "",
+                "id": "-00324-32c1f62d8bdab744efc266030b9a4023"
+            },
+            {
+                "name": "repeating_feat-general_-00316-c3840c9d8ceb4c71e06f8b00bbcb7247_feat_general_benefits",
+                "current": "",
+                "max": "",
+                "id": "-00325-776b771738b0ede23ef8439f66a68212"
+            },
+            {
+                "name": "repeating_feat-general_-00316-c3840c9d8ceb4c71e06f8b00bbcb7247_feat_general_notes",
+                "current": "You\u2019ve learned how to handle situations when you\u2019re out of your depth. Your proficiency bonus to untrained skill checks is equal to half your level instead of +0. If you\u2019re 7th level or higher, the bonus increases to your full level instead. This doesn\u2019t allow you to use the skill\u2019s trained actions.Traits\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nhttps:\/\/2e.aonprd.com\/Feats.aspx?ID=861",
+                "max": "",
+                "id": "-00326-1086d2a7eb44ea2c7c433eec3db86453"
+            },
+            {
+                "name": "repeating_feat-general_-00316-c3840c9d8ceb4c71e06f8b00bbcb7247_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00327-19c76eb3bb8a36feb12852bb89349e29"
+            },
+            {
+                "name": "repeating_feat-class_-00328-97c5facfa8721399816616683d3ec7f3_feat_class",
+                "current": "Sudden Charge",
+                "max": "",
+                "id": "-00329-e703fdfcf5640c79d665d00fdfe39996"
+            },
+            {
+                "name": "repeating_feat-class_-00328-97c5facfa8721399816616683d3ec7f3_feat_class_level",
+                "current": 1,
+                "max": "",
+                "id": "-00330-dbfd36f6fc13a223e6062aec2f58a163"
+            },
+            {
+                "name": "repeating_feat-class_-00328-97c5facfa8721399816616683d3ec7f3_feat_class_traits",
+                "current": "Barbarian, Fighter, Flourish, Open",
+                "max": "",
+                "id": "-00331-f09154baafad47daae763a6fe142b61b"
+            },
+            {
+                "name": "repeating_feat-class_-00328-97c5facfa8721399816616683d3ec7f3_feat_class_prerequisites",
+                "current": "",
+                "max": "",
+                "id": "-00332-9d287fbe5afdbd79cef039455dc1245b"
+            },
+            {
+                "name": "repeating_feat-class_-00328-97c5facfa8721399816616683d3ec7f3_feat_class_action",
+                "current": "2-action",
+                "max": "",
+                "id": "-00333-97150dbf768ab0d0ec0a90c0e1e58e37"
+            },
+            {
+                "name": "repeating_feat-class_-00328-97c5facfa8721399816616683d3ec7f3_feat_class_trigger",
+                "current": "",
+                "max": "",
+                "id": "-00334-0bc325e224222d6029f476e373c7679a"
+            },
+            {
+                "name": "repeating_feat-class_-00328-97c5facfa8721399816616683d3ec7f3_feat_class_requirements",
+                "current": "",
+                "max": "",
+                "id": "-00335-95cda9dc84d9f7775a5fc10621d145be"
+            },
+            {
+                "name": "repeating_feat-class_-00328-97c5facfa8721399816616683d3ec7f3_feat_class_frequency",
+                "current": "",
+                "max": "",
+                "id": "-00336-135d750b574f916362d8784491bc3084"
+            },
+            {
+                "name": "repeating_feat-class_-00328-97c5facfa8721399816616683d3ec7f3_feat_class_benefits",
+                "current": "",
+                "max": "",
+                "id": "-00337-8a01ea22a85d11785f03637f612e965c"
+            },
+            {
+                "name": "repeating_feat-class_-00328-97c5facfa8721399816616683d3ec7f3_feat_class_notes",
+                "current": "With a quick sprint, you dash up to your foe and swing. Stride twice. If you end your movement within melee reach of at least one enemy, you can make a melee Strike against that enemy. You can use Sudden Charge while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type.Traits\n\nFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.\n\nOpen: These maneuvers work only as the first salvo on your turn. You can use an open only if you haven't used an action with the attack or open trait yet this turn.\n\nhttps:\/\/2e.aonprd.com\/Feats.aspx?ID=134",
+                "max": "",
+                "id": "-00338-b6b1efa280915d4085b2394b740b610c"
+            },
+            {
+                "name": "repeating_feat-class_-00328-97c5facfa8721399816616683d3ec7f3_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00339-8381dc37180d27038a3010f7cd44ab86"
+            },
+            {
+                "name": "repeating_feat-class_-00340-92daab6b60073c5adda597abe0beefe5_feat_class",
+                "current": "Raging Thrower",
+                "max": "",
+                "id": "-00341-24d6d67a6d95dcf89dd3ea50cd0d2653"
+            },
+            {
+                "name": "repeating_feat-class_-00340-92daab6b60073c5adda597abe0beefe5_feat_class_level",
+                "current": 1,
+                "max": "",
+                "id": "-00342-e828514615c25b4d5bb0e617d683f1e2"
+            },
+            {
+                "name": "repeating_feat-class_-00340-92daab6b60073c5adda597abe0beefe5_feat_class_traits",
+                "current": "Barbarian",
+                "max": "",
+                "id": "-00343-6cef75e04648cfb88e4602ce099b9f5b"
+            },
+            {
+                "name": "repeating_feat-class_-00340-92daab6b60073c5adda597abe0beefe5_feat_class_prerequisites",
+                "current": "",
+                "max": "",
+                "id": "-00344-e44ed01b4da26980550bba6abac2063a"
+            },
+            {
+                "name": "repeating_feat-class_-00340-92daab6b60073c5adda597abe0beefe5_feat_class_action",
+                "current": "none",
+                "max": "",
+                "id": "-00345-0f6249e20fae3641aad4a5c634568374"
+            },
+            {
+                "name": "repeating_feat-class_-00340-92daab6b60073c5adda597abe0beefe5_feat_class_trigger",
+                "current": "",
+                "max": "",
+                "id": "-00346-4170536df56e588e3dc50bcc5b9166d7"
+            },
+            {
+                "name": "repeating_feat-class_-00340-92daab6b60073c5adda597abe0beefe5_feat_class_requirements",
+                "current": "",
+                "max": "",
+                "id": "-00347-1b6d5828f623622b26088e466fbb09df"
+            },
+            {
+                "name": "repeating_feat-class_-00340-92daab6b60073c5adda597abe0beefe5_feat_class_frequency",
+                "current": "",
+                "max": "",
+                "id": "-00348-cd3f346653a9b289162f40bb6fc7c282"
+            },
+            {
+                "name": "repeating_feat-class_-00340-92daab6b60073c5adda597abe0beefe5_feat_class_benefits",
+                "current": "",
+                "max": "",
+                "id": "-00349-d87b559ed4accb05d1959900d420bfc3"
+            },
+            {
+                "name": "repeating_feat-class_-00340-92daab6b60073c5adda597abe0beefe5_feat_class_notes",
+                "current": "Thrown weapons become especially deadly in your fury. You apply the additional damage from Rage to your thrown weapon attacks. If you have the Brutal Critical feat or the devastator class feature, apply their benefits to thrown weapon attacks.\n\nhttps:\/\/2e.aonprd.com\/Feats.aspx?ID=133",
+                "max": "",
+                "id": "-00350-28326f367e56c0dd823908eeaca16dd5"
+            },
+            {
+                "name": "repeating_feat-class_-00340-92daab6b60073c5adda597abe0beefe5_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00351-14be9d1aca83ce016b4d390b3a291b90"
+            },
+            {
+                "name": "repeating_feat-class_-00352-7398904bb404a2ace6c217a92c3963f2_feat_class",
+                "current": "Bashing Charge",
+                "max": "",
+                "id": "-00353-5a1e6fc676fa7a4c23641d6fcb7cb5cc"
+            },
+            {
+                "name": "repeating_feat-class_-00352-7398904bb404a2ace6c217a92c3963f2_feat_class_level",
+                "current": 2,
+                "max": "",
+                "id": "-00354-06723425753d5ecb08f25d94adc1787c"
+            },
+            {
+                "name": "repeating_feat-class_-00352-7398904bb404a2ace6c217a92c3963f2_feat_class_traits",
+                "current": "Barbarian, Flourish",
+                "max": "",
+                "id": "-00355-d1fb3719d3995cc759cc6ba086d2d766"
+            },
+            {
+                "name": "repeating_feat-class_-00352-7398904bb404a2ace6c217a92c3963f2_feat_class_prerequisites",
+                "current": "Trained In Athletics",
+                "max": "",
+                "id": "-00356-522de51669a7a1afe4e562fe10511462"
+            },
+            {
+                "name": "repeating_feat-class_-00352-7398904bb404a2ace6c217a92c3963f2_feat_class_action",
+                "current": "2-action",
+                "max": "",
+                "id": "-00357-d425037cc77f4d893abcfac232914a1c"
+            },
+            {
+                "name": "repeating_feat-class_-00352-7398904bb404a2ace6c217a92c3963f2_feat_class_trigger",
+                "current": "",
+                "max": "",
+                "id": "-00358-709717aa289f87b714c942a5ab82a86a"
+            },
+            {
+                "name": "repeating_feat-class_-00352-7398904bb404a2ace6c217a92c3963f2_feat_class_requirements",
+                "current": "",
+                "max": "",
+                "id": "-00359-5002672283e4e716992d4f50057daca9"
+            },
+            {
+                "name": "repeating_feat-class_-00352-7398904bb404a2ace6c217a92c3963f2_feat_class_frequency",
+                "current": "",
+                "max": "",
+                "id": "-00360-7682d130dfbf96ddc54abe79b819b2a9"
+            },
+            {
+                "name": "repeating_feat-class_-00352-7398904bb404a2ace6c217a92c3963f2_feat_class_benefits",
+                "current": "",
+                "max": "",
+                "id": "-00361-b93f9221df3f443c8696a22d8fefeb4b"
+            },
+            {
+                "name": "repeating_feat-class_-00352-7398904bb404a2ace6c217a92c3963f2_feat_class_notes",
+                "current": "You smash, bust, and charge through solid obstacles without hesitation. Stride twice. Once during your movement, if your movement passes through or ends adjacent to a door, window, fence, wall, or similar obstacle, you can attempt an Athletics check to Force Open the obstacle with a +1 circumstance bonus to the roll; on a failure, your movement ends at that obstacle.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.TraitsFlourish: Flourish actions are actions that require too much exertion to perform a large number in a row. You can use only 1 action with the flourish trait per turn.\n\nhttps:\/\/2e.aonprd.com\/Feats.aspx?ID=1604",
+                "max": "",
+                "id": "-00362-c4e12b04da34ff07055b687ae889bf37"
+            },
+            {
+                "name": "repeating_feat-class_-00352-7398904bb404a2ace6c217a92c3963f2_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00363-2389d636d5f123c892ca3869f6faa87f"
+            },
+            {
+                "name": "repeating_feat-class_-00364-5921d8eab6223e0cdce3cbd009860d93_feat_class",
+                "current": "No Escape",
+                "max": "",
+                "id": "-00365-ed499e677c179e22194e8c91d22d5808"
+            },
+            {
+                "name": "repeating_feat-class_-00364-5921d8eab6223e0cdce3cbd009860d93_feat_class_level",
+                "current": 2,
+                "max": "",
+                "id": "-00366-3f9f1309d4e9abc2d33886132187b472"
+            },
+            {
+                "name": "repeating_feat-class_-00364-5921d8eab6223e0cdce3cbd009860d93_feat_class_traits",
+                "current": "Barbarian, Rage",
+                "max": "",
+                "id": "-00367-1dabe2f0dd726665699bc438027de4fa"
+            },
+            {
+                "name": "repeating_feat-class_-00364-5921d8eab6223e0cdce3cbd009860d93_feat_class_prerequisites",
+                "current": "",
+                "max": "",
+                "id": "-00368-fba1249c0cf0250ad6726e186d23551e"
+            },
+            {
+                "name": "repeating_feat-class_-00364-5921d8eab6223e0cdce3cbd009860d93_feat_class_action",
+                "current": "reaction",
+                "max": "",
+                "id": "-00369-bde334df0affe39382f0a491e56e9ada"
+            },
+            {
+                "name": "repeating_feat-class_-00364-5921d8eab6223e0cdce3cbd009860d93_feat_class_trigger",
+                "current": "A foe within reach attempts to move away from you.",
+                "max": "",
+                "id": "-00370-50c6b65fa60d8fe33a23aef3ceceddbb"
+            },
+            {
+                "name": "repeating_feat-class_-00364-5921d8eab6223e0cdce3cbd009860d93_feat_class_requirements",
+                "current": "",
+                "max": "",
+                "id": "-00371-75cd94042489cac95f24d9820e935b77"
+            },
+            {
+                "name": "repeating_feat-class_-00364-5921d8eab6223e0cdce3cbd009860d93_feat_class_frequency",
+                "current": "",
+                "max": "",
+                "id": "-00372-0689fea1a74d15311e93fe792b46591c"
+            },
+            {
+                "name": "repeating_feat-class_-00364-5921d8eab6223e0cdce3cbd009860d93_feat_class_benefits",
+                "current": "",
+                "max": "",
+                "id": "-00373-6ce634909dabb07ef09fdd3ddda894cf"
+            },
+            {
+                "name": "repeating_feat-class_-00364-5921d8eab6223e0cdce3cbd009860d93_feat_class_notes",
+                "current": "You keep pace with a retreating foe. Stride up to your Speed, following the foe and keeping it in reach throughout its movement until it stops moving or you\u2019ve moved your full Speed. You can use No Escape to Burrow, Climb, Fly, or Swim instead of Stride if you have the corresponding movement type.Traits\n\nRage: You must be raging to use abilities with the rage trait, and they end automatically when you stop raging.\n\nhttps:\/\/2e.aonprd.com\/Feats.aspx?ID=137",
+                "max": "",
+                "id": "-00374-7c7fa21843d81b34c1bb78dd4f1e012f"
+            },
+            {
+                "name": "repeating_feat-class_-00364-5921d8eab6223e0cdce3cbd009860d93_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00375-ae4b254743c28c7ae014b163b1612730"
+            },
+            {
+                "name": "repeating_feat-class_-00376-900a03c02e9fcd7f6514659a7f6f7204_feat_class",
+                "current": "Wounded Rage",
+                "max": "",
+                "id": "-00377-1aef1337e32e1afe521c389ba1ddda7d"
+            },
+            {
+                "name": "repeating_feat-class_-00376-900a03c02e9fcd7f6514659a7f6f7204_feat_class_level",
+                "current": 4,
+                "max": "",
+                "id": "-00378-845aaf6796e2f797ae66d82f4e8f68d4"
+            },
+            {
+                "name": "repeating_feat-class_-00376-900a03c02e9fcd7f6514659a7f6f7204_feat_class_traits",
+                "current": "Barbarian",
+                "max": "",
+                "id": "-00379-d583001c06d43a18f5a875cbfec6e3ae"
+            },
+            {
+                "name": "repeating_feat-class_-00376-900a03c02e9fcd7f6514659a7f6f7204_feat_class_prerequisites",
+                "current": "",
+                "max": "",
+                "id": "-00380-6fb2e7a64a63e6e2724f221fbc95391b"
+            },
+            {
+                "name": "repeating_feat-class_-00376-900a03c02e9fcd7f6514659a7f6f7204_feat_class_action",
+                "current": "reaction",
+                "max": "",
+                "id": "-00381-e3feee9b0b1d227d0eef0a59ab684066"
+            },
+            {
+                "name": "repeating_feat-class_-00376-900a03c02e9fcd7f6514659a7f6f7204_feat_class_trigger",
+                "current": "You take damage and are capable of entering a rage.",
+                "max": "",
+                "id": "-00382-8ef38fb360d6d71834f141d25128f105"
+            },
+            {
+                "name": "repeating_feat-class_-00376-900a03c02e9fcd7f6514659a7f6f7204_feat_class_requirements",
+                "current": "",
+                "max": "",
+                "id": "-00383-edea92a487b6fcd01722fba2c877130f"
+            },
+            {
+                "name": "repeating_feat-class_-00376-900a03c02e9fcd7f6514659a7f6f7204_feat_class_frequency",
+                "current": "",
+                "max": "",
+                "id": "-00384-38bd3db0df928070c310fd31937a8310"
+            },
+            {
+                "name": "repeating_feat-class_-00376-900a03c02e9fcd7f6514659a7f6f7204_feat_class_benefits",
+                "current": "",
+                "max": "",
+                "id": "-00385-21715d689efbd46e24db6517e70eddc3"
+            },
+            {
+                "name": "repeating_feat-class_-00376-900a03c02e9fcd7f6514659a7f6f7204_feat_class_notes",
+                "current": "You roar in pain, awakening the rage within you. You Rage.\n\nhttps:\/\/2e.aonprd.com\/Feats.aspx?ID=143",
+                "max": "",
+                "id": "-00386-26360a5a524b470bc95be8e35cb8fb5d"
+            },
+            {
+                "name": "repeating_feat-class_-00376-900a03c02e9fcd7f6514659a7f6f7204_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00387-af686c947f539ea3394da67daecaa855"
+            },
+            {
+                "name": "repeating_feat-bonus_-00388-c23b4a664f7285888e8f9ed7f1b7070e_feat_bonus",
+                "current": "Intimidating Glare",
+                "max": "",
+                "id": "-00389-49807b24a3f1447ecd3b15cdeba14edf"
+            },
+            {
+                "name": "repeating_feat-bonus_-00388-c23b4a664f7285888e8f9ed7f1b7070e_feat_bonus_level",
+                "current": 1,
+                "max": "",
+                "id": "-00390-1830e5b0117f16faa8171f81c70a3456"
+            },
+            {
+                "name": "repeating_feat-bonus_-00388-c23b4a664f7285888e8f9ed7f1b7070e_feat_bonus_traits",
+                "current": "General, Skill",
+                "max": "",
+                "id": "-00391-aa7d968321ff66ee8ef9e3ec5884be8d"
+            },
+            {
+                "name": "repeating_feat-bonus_-00388-c23b4a664f7285888e8f9ed7f1b7070e_feat_bonus_prerequisites",
+                "current": "Trained In Intimidation",
+                "max": "",
+                "id": "-00392-2e863df968493029886de3e05e1db0ad"
+            },
+            {
+                "name": "repeating_feat-bonus_-00388-c23b4a664f7285888e8f9ed7f1b7070e_feat_bonus_action",
+                "current": "none",
+                "max": "",
+                "id": "-00393-d22b1609d875e0b12bb152ba2656ef2b"
+            },
+            {
+                "name": "repeating_feat-bonus_-00388-c23b4a664f7285888e8f9ed7f1b7070e_feat_bonus_trigger",
+                "current": "",
+                "max": "",
+                "id": "-00394-e572c4a005cbb9d260e868c2ec59ffce"
+            },
+            {
+                "name": "repeating_feat-bonus_-00388-c23b4a664f7285888e8f9ed7f1b7070e_feat_bonus_requirements",
+                "current": "",
+                "max": "",
+                "id": "-00395-2c6841cec55e38884c6bfd62ce4a0c40"
+            },
+            {
+                "name": "repeating_feat-bonus_-00388-c23b4a664f7285888e8f9ed7f1b7070e_feat_bonus_frequency",
+                "current": "",
+                "max": "",
+                "id": "-00396-69289aa8dc614e629a4832388aece614"
+            },
+            {
+                "name": "repeating_feat-bonus_-00388-c23b4a664f7285888e8f9ed7f1b7070e_feat_bonus_benefits",
+                "current": "",
+                "max": "",
+                "id": "-00397-ae46ed9e2d38ebc067d85f243bba8cf2"
+            },
+            {
+                "name": "repeating_feat-bonus_-00388-c23b4a664f7285888e8f9ed7f1b7070e_feat_bonus_notes",
+                "current": "You can Demoralize with a mere glare. When you do, Demoralize loses the auditory trait and gains the visual trait, and you don\u2019t take a penalty if the creature doesn\u2019t understand your language.Intimidating Glare Leads To...\n\nTerrifying HowlTraitsGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.\n\nSkill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.\n\nhttps:\/\/2e.aonprd.com\/Feats.aspx?ID=796",
+                "max": "",
+                "id": "-00398-bb1144d6a8342d33b5a654c13cebee9d"
+            },
+            {
+                "name": "repeating_feat-bonus_-00388-c23b4a664f7285888e8f9ed7f1b7070e_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00399-4d77f3dbfb7d7fde4714ee3116b7d188"
+            },
+            {
+                "name": "repeating_feat-bonus_-00400-af3810d44832adf32a7560964a08d689_feat_bonus",
+                "current": "Assurance",
+                "max": "",
+                "id": "-00401-292da6199bac060b05a7448274136b89"
+            },
+            {
+                "name": "repeating_feat-bonus_-00400-af3810d44832adf32a7560964a08d689_feat_bonus_level",
+                "current": 1,
+                "max": "",
+                "id": "-00402-37e13e1134e8ae75e422fe5cbf2b6bb5"
+            },
+            {
+                "name": "repeating_feat-bonus_-00400-af3810d44832adf32a7560964a08d689_feat_bonus_traits",
+                "current": "Fortune, General, Skill",
+                "max": "",
+                "id": "-00403-65ba728b7a2f14f585e5d11af7ad1d20"
+            },
+            {
+                "name": "repeating_feat-bonus_-00400-af3810d44832adf32a7560964a08d689_feat_bonus_prerequisites",
+                "current": "Trained In At Least One Skill",
+                "max": "",
+                "id": "-00404-d721b7a6e9a7c6636eaaff3bd99edeb7"
+            },
+            {
+                "name": "repeating_feat-bonus_-00400-af3810d44832adf32a7560964a08d689_feat_bonus_action",
+                "current": "none",
+                "max": "",
+                "id": "-00405-be84f8e17322fd99cde0c4e3d8625dcf"
+            },
+            {
+                "name": "repeating_feat-bonus_-00400-af3810d44832adf32a7560964a08d689_feat_bonus_trigger",
+                "current": "",
+                "max": "",
+                "id": "-00406-ee4b183f3278c82a900f1edc4c0d440b"
+            },
+            {
+                "name": "repeating_feat-bonus_-00400-af3810d44832adf32a7560964a08d689_feat_bonus_requirements",
+                "current": "",
+                "max": "",
+                "id": "-00407-988f5daadb0cd40cc4d82ba18b458b93"
+            },
+            {
+                "name": "repeating_feat-bonus_-00400-af3810d44832adf32a7560964a08d689_feat_bonus_frequency",
+                "current": "",
+                "max": "",
+                "id": "-00408-1f6f246df0c4faf7b12a38dfd78ec581"
+            },
+            {
+                "name": "repeating_feat-bonus_-00400-af3810d44832adf32a7560964a08d689_feat_bonus_benefits",
+                "current": "",
+                "max": "",
+                "id": "-00409-47787d43cc158f95d01e6d682977ac0d"
+            },
+            {
+                "name": "repeating_feat-bonus_-00400-af3810d44832adf32a7560964a08d689_feat_bonus_notes",
+                "current": "Even in the worst circumstances, you can perform basic tasks. Choose a skill you\u2019re trained in. You can forgo rolling a skill check for that skill to instead receive a result of 10 + your proficiency bonus (do not apply any other bonuses, penalties, or modifiers).\n\nSpecial You can select this feat multiple times. Each time, choose a different skill and gain the benefits for that skill.Assurance Leads To...\n\nAutomatic KnowledgeTraitsFortune: A fortune effect beneficially alters how you roll your dice. You can never have more than one fortune effect alter a single roll. If multiple fortune effects would apply, you have to pick which to use. If a fortune effect and a misfortune effect would apply to the same roll, the two cancel each other out, and you roll normally.\n\nGeneral: A type of feat that any character can select, regardless of ancestry and class, as long as they meet the prerequisites. You can select a feat with this trait when your class grants a general feat.Skill: A general feat with the skill trait improves your skills and their actions or gives you new actions for a skill. A feat with this trait can be selected when a class grants a skill feat or general feat. Archetype feats with the skill trait can be selected in place of a skill feat if you have that archetype's dedication feat.\n\nhttps:\/\/2e.aonprd.com\/Feats.aspx?ID=756",
+                "max": "",
+                "id": "-00410-1cc54e71b5ea39fae490859dd135b894"
+            },
+            {
+                "name": "repeating_feat-bonus_-00400-af3810d44832adf32a7560964a08d689_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00411-288e6d179861e0037cec71942f800c88"
+            },
+            {
+                "name": "repeating_feat-bonus_-00412-3839f15e66fbe8a7eb1ae363c2ed2cb3_feat_bonus",
+                "current": "Double Slice",
+                "max": "",
+                "id": "-00413-3fc8a53a28e05a608d27a3e0a16319d4"
+            },
+            {
+                "name": "repeating_feat-bonus_-00412-3839f15e66fbe8a7eb1ae363c2ed2cb3_feat_bonus_level",
+                "current": 1,
+                "max": "",
+                "id": "-00414-55ddecbe3a54dea2f602ca5c7176d1c9"
+            },
+            {
+                "name": "repeating_feat-bonus_-00412-3839f15e66fbe8a7eb1ae363c2ed2cb3_feat_bonus_traits",
+                "current": "Fighter",
+                "max": "",
+                "id": "-00415-c309479bb65b27d0b7c043acbe0981b6"
+            },
+            {
+                "name": "repeating_feat-bonus_-00412-3839f15e66fbe8a7eb1ae363c2ed2cb3_feat_bonus_prerequisites",
+                "current": "",
+                "max": "",
+                "id": "-00416-61d9dd30cce23afd82cb54179dc408be"
+            },
+            {
+                "name": "repeating_feat-bonus_-00412-3839f15e66fbe8a7eb1ae363c2ed2cb3_feat_bonus_action",
+                "current": "2-action",
+                "max": "",
+                "id": "-00417-2ce5ee55e95648c08b008747ffa1f181"
+            },
+            {
+                "name": "repeating_feat-bonus_-00412-3839f15e66fbe8a7eb1ae363c2ed2cb3_feat_bonus_trigger",
+                "current": "",
+                "max": "",
+                "id": "-00418-70bada0ffcf9d258d899312a7754a89f"
+            },
+            {
+                "name": "repeating_feat-bonus_-00412-3839f15e66fbe8a7eb1ae363c2ed2cb3_feat_bonus_requirements",
+                "current": "",
+                "max": "",
+                "id": "-00419-2b0664c2aef3a2ca936e6e903a93abfc"
+            },
+            {
+                "name": "repeating_feat-bonus_-00412-3839f15e66fbe8a7eb1ae363c2ed2cb3_feat_bonus_frequency",
+                "current": "",
+                "max": "",
+                "id": "-00420-b99ad416d072f7f045c94713d5c8a62b"
+            },
+            {
+                "name": "repeating_feat-bonus_-00412-3839f15e66fbe8a7eb1ae363c2ed2cb3_feat_bonus_benefits",
+                "current": "",
+                "max": "",
+                "id": "-00421-c9605ee335d4204293cc72e8c08a33e3"
+            },
+            {
+                "name": "repeating_feat-bonus_-00412-3839f15e66fbe8a7eb1ae363c2ed2cb3_feat_bonus_notes",
+                "current": "You lash out at your foe with both weapons. Make two Strikes, one with each of your two melee weapons, each using your current multiple attack penalty. Both Strikes must have the same target. If the second Strike is made with a weapon that doesn't have the agile trait, it takes a \u20132 penalty.\n\n If both attacks hit, combine their damage, and then add any other applicable effects from both weapons. You add any precision damage only once, to the attack of your choice. Combine the damage from both Strikes and apply resistances and weaknesses only once. This counts as two attacks when calculating your multiple attack penalty.Double Slice Leads To...\n\nGraceful Poise\n\nhttps:\/\/2e.aonprd.com\/Feats.aspx?ID=356",
+                "max": "",
+                "id": "-00422-01b42d30f272c6de3b206ee8f2127e20"
+            },
+            {
+                "name": "repeating_feat-bonus_-00412-3839f15e66fbe8a7eb1ae363c2ed2cb3_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00423-0cff5659f9e4e8e06a00e7bafe389fd6"
+            },
+            {
+                "name": "repeating_feat-bonus_-00424-017ff80bbbdd3fd5ae708a9d4dd6a337_feat_bonus",
+                "current": "No class archetype",
+                "max": "",
+                "id": "-00425-c2a2a65fe55f7160d869beb91a73111b"
+            },
+            {
+                "name": "repeating_feat-bonus_-00424-017ff80bbbdd3fd5ae708a9d4dd6a337_feat_bonus_level",
+                "current": 1,
+                "max": "",
+                "id": "-00426-1cb97093f0fd2cdaaec32748d12ab0ae"
+            },
+            {
+                "name": "repeating_feat-bonus_-00424-017ff80bbbdd3fd5ae708a9d4dd6a337_feat_bonus_traits",
+                "current": "",
+                "max": "",
+                "id": "-00427-c465fec41df608b1de21c57ba5363e3c"
+            },
+            {
+                "name": "repeating_feat-bonus_-00424-017ff80bbbdd3fd5ae708a9d4dd6a337_feat_bonus_prerequisites",
+                "current": "",
+                "max": "",
+                "id": "-00428-bed08fb91e2bbacbc0da9e74519026d0"
+            },
+            {
+                "name": "repeating_feat-bonus_-00424-017ff80bbbdd3fd5ae708a9d4dd6a337_feat_bonus_action",
+                "current": "none",
+                "max": "",
+                "id": "-00429-cfb68053c4458d5e1a7565e4dd76211e"
+            },
+            {
+                "name": "repeating_feat-bonus_-00424-017ff80bbbdd3fd5ae708a9d4dd6a337_feat_bonus_trigger",
+                "current": "",
+                "max": "",
+                "id": "-00430-185b9031de95ad447fe842c9679262f9"
+            },
+            {
+                "name": "repeating_feat-bonus_-00424-017ff80bbbdd3fd5ae708a9d4dd6a337_feat_bonus_requirements",
+                "current": "",
+                "max": "",
+                "id": "-00431-c673d4252555fafc1bb9fea9ea4b4c6c"
+            },
+            {
+                "name": "repeating_feat-bonus_-00424-017ff80bbbdd3fd5ae708a9d4dd6a337_feat_bonus_frequency",
+                "current": "",
+                "max": "",
+                "id": "-00432-1accc08104f1b3291fa93a74f63922b2"
+            },
+            {
+                "name": "repeating_feat-bonus_-00424-017ff80bbbdd3fd5ae708a9d4dd6a337_feat_bonus_benefits",
+                "current": "",
+                "max": "",
+                "id": "-00433-85e097fb3c80a32f2661426866a251c3"
+            },
+            {
+                "name": "repeating_feat-bonus_-00424-017ff80bbbdd3fd5ae708a9d4dd6a337_feat_bonus_notes",
+                "current": "\n\n",
+                "max": "",
+                "id": "-00434-53372690061de49a98c07951b12a0b58"
+            },
+            {
+                "name": "repeating_feat-bonus_-00424-017ff80bbbdd3fd5ae708a9d4dd6a337_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00435-66e765bedc519d9d53736bcbf9f01b69"
+            },
+            {
+                "name": "repeating_feat-bonus_-00436-a71eb23a42af29d63f06ef76118a6ab5_feat_bonus",
+                "current": "Dual-Weapon Warrior Dedication",
+                "max": "",
+                "id": "-00437-72f904e4ed0b34e541401485abcb3501"
+            },
+            {
+                "name": "repeating_feat-bonus_-00436-a71eb23a42af29d63f06ef76118a6ab5_feat_bonus_level",
+                "current": 2,
+                "max": "",
+                "id": "-00438-3ff8e5258092a96c2dd0c06f354e9dc4"
+            },
+            {
+                "name": "repeating_feat-bonus_-00436-a71eb23a42af29d63f06ef76118a6ab5_feat_bonus_traits",
+                "current": "Archetype, Dedication",
+                "max": "",
+                "id": "-00439-8c95a2255c1b252ebe02b52544eaff75"
+            },
+            {
+                "name": "repeating_feat-bonus_-00436-a71eb23a42af29d63f06ef76118a6ab5_feat_bonus_prerequisites",
+                "current": "",
+                "max": "",
+                "id": "-00440-0489bd0e3ac9e3da8915018c3017ceee"
+            },
+            {
+                "name": "repeating_feat-bonus_-00436-a71eb23a42af29d63f06ef76118a6ab5_feat_bonus_action",
+                "current": "none",
+                "max": "",
+                "id": "-00441-17b30bad080a7ea98a361832bb865bd3"
+            },
+            {
+                "name": "repeating_feat-bonus_-00436-a71eb23a42af29d63f06ef76118a6ab5_feat_bonus_trigger",
+                "current": "",
+                "max": "",
+                "id": "-00442-4ac87bb897a3e98033a04c639981f4ca"
+            },
+            {
+                "name": "repeating_feat-bonus_-00436-a71eb23a42af29d63f06ef76118a6ab5_feat_bonus_requirements",
+                "current": "",
+                "max": "",
+                "id": "-00443-8279a824d548723d71b772407f4da139"
+            },
+            {
+                "name": "repeating_feat-bonus_-00436-a71eb23a42af29d63f06ef76118a6ab5_feat_bonus_frequency",
+                "current": "",
+                "max": "",
+                "id": "-00444-ca5c9885a63c554461aedf2c8d36a4a8"
+            },
+            {
+                "name": "repeating_feat-bonus_-00436-a71eb23a42af29d63f06ef76118a6ab5_feat_bonus_benefits",
+                "current": "",
+                "max": "",
+                "id": "-00445-4f29610666974e8acac92fd8d72327d3"
+            },
+            {
+                "name": "repeating_feat-bonus_-00436-a71eb23a42af29d63f06ef76118a6ab5_feat_bonus_notes",
+                "current": "You're exceptional in your use of two weapons. You gain the Double Slice fighter feat. This serves as Double Slice for the purpose of meeting prerequisites.\n\nSpecial You can't select another dedication feat until you gain two other feats from the dual-weapon warrior archetype.Dual-Weapon Warrior Dedication Leads To...\n\nDual Onslaught, Dual Thrower, Dual-Weapon Blitz, Dual-Weapon Reload, Flensing SliceTraitsArchetype: This feat belongs to an archetype.\n\nDedication: You must select a feat with this trait to apply an archetype to your character.\n\nhttps:\/\/2e.aonprd.com\/Feats.aspx?ID=1950",
+                "max": "",
+                "id": "-00446-535f129f6ba9bb81790fa65ba4246247"
+            },
+            {
+                "name": "repeating_feat-bonus_-00436-a71eb23a42af29d63f06ef76118a6ab5_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00447-035f81a151072487542613ea85bea38c"
+            },
+            {
+                "name": "repeating_feat-bonus_-00448-0520237efbc640de0edb8466a875cf26_feat_bonus",
+                "current": "Dual Thrower",
+                "max": "",
+                "id": "-00449-aec9ebb9bd86501e0d707f4a9beca96b"
+            },
+            {
+                "name": "repeating_feat-bonus_-00448-0520237efbc640de0edb8466a875cf26_feat_bonus_level",
+                "current": 4,
+                "max": "",
+                "id": "-00450-50654de1c66cdb1f2262d47fa575e041"
+            },
+            {
+                "name": "repeating_feat-bonus_-00448-0520237efbc640de0edb8466a875cf26_feat_bonus_traits",
+                "current": "Archetype",
+                "max": "",
+                "id": "-00451-79981b2719ba7b85d5935cae053c0ffa"
+            },
+            {
+                "name": "repeating_feat-bonus_-00448-0520237efbc640de0edb8466a875cf26_feat_bonus_prerequisites",
+                "current": "Dual-weapon Warrior Dedication",
+                "max": "",
+                "id": "-00452-cea2ed9c8b6c72b1e4bcdfd17c7eaeda"
+            },
+            {
+                "name": "repeating_feat-bonus_-00448-0520237efbc640de0edb8466a875cf26_feat_bonus_action",
+                "current": "none",
+                "max": "",
+                "id": "-00453-e96c3987a7d0928cd8225ad8f77e1b5c"
+            },
+            {
+                "name": "repeating_feat-bonus_-00448-0520237efbc640de0edb8466a875cf26_feat_bonus_trigger",
+                "current": "",
+                "max": "",
+                "id": "-00454-4c9113c29a310b5a3b3cf59aec11a064"
+            },
+            {
+                "name": "repeating_feat-bonus_-00448-0520237efbc640de0edb8466a875cf26_feat_bonus_requirements",
+                "current": "",
+                "max": "",
+                "id": "-00455-9ed10883e5f177e6311a33234375c404"
+            },
+            {
+                "name": "repeating_feat-bonus_-00448-0520237efbc640de0edb8466a875cf26_feat_bonus_frequency",
+                "current": "",
+                "max": "",
+                "id": "-00456-f1c53561b6211408bdf0519ab4d9f2d3"
+            },
+            {
+                "name": "repeating_feat-bonus_-00448-0520237efbc640de0edb8466a875cf26_feat_bonus_benefits",
+                "current": "",
+                "max": "",
+                "id": "-00457-34f838f42615277bd994980b93e6c488"
+            },
+            {
+                "name": "repeating_feat-bonus_-00448-0520237efbc640de0edb8466a875cf26_feat_bonus_notes",
+                "current": "You know how to throw two weapons as easily as strike with them. Whenever a dual-weapon warrior feat allows you to make a melee Strike, you can instead make a ranged Strike with a thrown weapon or a one-handed ranged weapon you are wielding. Any effects from these feats that apply to one-handed melee weapons or melee Strikes also apply to one-handed ranged weapons and ranged Strikes.Traits\n\nArchetype: This feat belongs to an archetype.\n\nhttps:\/\/2e.aonprd.com\/Feats.aspx?ID=1951",
+                "max": "",
+                "id": "-00458-b534367645fdf0902a713ac51598db18"
+            },
+            {
+                "name": "repeating_feat-bonus_-00448-0520237efbc640de0edb8466a875cf26_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00459-615da11d10260e440cdb69e2b2f74a89"
+            },
+            {
+                "name": "repeating_feat-bonus_-00460-51b35159e3b654d60c29e61af53f3930_feat_bonus",
+                "current": "Twin Parry",
+                "max": "",
+                "id": "-00461-5fe7c279efc09bec11d88ebd7018649f"
+            },
+            {
+                "name": "repeating_feat-bonus_-00460-51b35159e3b654d60c29e61af53f3930_feat_bonus_level",
+                "current": 4,
+                "max": "",
+                "id": "-00462-9c4e4dabbf83fdd6bfba6f7da74e629d"
+            },
+            {
+                "name": "repeating_feat-bonus_-00460-51b35159e3b654d60c29e61af53f3930_feat_bonus_traits",
+                "current": "Fighter, Ranger, Swashbuckler",
+                "max": "",
+                "id": "-00463-10c2a360edf8eb2cdd8d439d9fd6ace0"
+            },
+            {
+                "name": "repeating_feat-bonus_-00460-51b35159e3b654d60c29e61af53f3930_feat_bonus_prerequisites",
+                "current": "",
+                "max": "",
+                "id": "-00464-883550163219cf232e23c2055f3db1d5"
+            },
+            {
+                "name": "repeating_feat-bonus_-00460-51b35159e3b654d60c29e61af53f3930_feat_bonus_action",
+                "current": "1-action",
+                "max": "",
+                "id": "-00465-b985727feaa77b7fd1632ada99059de5"
+            },
+            {
+                "name": "repeating_feat-bonus_-00460-51b35159e3b654d60c29e61af53f3930_feat_bonus_trigger",
+                "current": "",
+                "max": "",
+                "id": "-00466-5e217d5b62fb572330635f5a519cea0e"
+            },
+            {
+                "name": "repeating_feat-bonus_-00460-51b35159e3b654d60c29e61af53f3930_feat_bonus_requirements",
+                "current": "",
+                "max": "",
+                "id": "-00467-d0653e6c0af92cd1b30e12892452f9b7"
+            },
+            {
+                "name": "repeating_feat-bonus_-00460-51b35159e3b654d60c29e61af53f3930_feat_bonus_frequency",
+                "current": "",
+                "max": "",
+                "id": "-00468-88635c7c366d2a4597216eb95cbfd36b"
+            },
+            {
+                "name": "repeating_feat-bonus_-00460-51b35159e3b654d60c29e61af53f3930_feat_bonus_benefits",
+                "current": "",
+                "max": "",
+                "id": "-00469-4d0a6f61200de6d457b6c5f51b77a316"
+            },
+            {
+                "name": "repeating_feat-bonus_-00460-51b35159e3b654d60c29e61af53f3930_feat_bonus_notes",
+                "current": "You use your two weapons to parry attacks. You gain a +1 circumstance bonus to AC until the start of your next turn, or a +2 circumstance bonus if either weapon has the parry trait. You lose this circumstance bonus if you no longer meet this feat's requirement.Archetype Use\n\nThis feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.Twin Parry Leads To...Twinned Defense (Fighter), Twinned Defense (Swashbuckler)\n\nhttps:\/\/2e.aonprd.com\/Feats.aspx?ID=377",
+                "max": "",
+                "id": "-00470-0a3459185ec43d2dbcee49cba36d97ab"
+            },
+            {
+                "name": "repeating_feat-bonus_-00460-51b35159e3b654d60c29e61af53f3930_toggles",
+                "current": "display,",
+                "max": "",
+                "id": "-00471-3a569c6398b170b2c81f95b3f1805817"
+            },
+            {
+                "name": "spellcaster_prepared",
+                "current": "",
+                "max": "",
+                "id": "-00472-9721ab17bbbc6f6b734890655fab5a9a"
+            },
+            {
+                "name": "spellcaster_spontaneous",
+                "current": "",
+                "max": "",
+                "id": "-00473-f6884068ea5f761cda2397874787f415"
+            },
+            {
+                "name": "magic_tradition_arcane_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00474-37fadb6d02087e96e1ec073ea850c2a6"
+            },
+            {
+                "name": "magic_tradition_arcane_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "-00475-104401d9cbc51ccf5284700e8530d9ed"
+            },
+            {
+                "name": "magic_tradition_primal_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00476-cf746331073d1cd9e5a5b7b8a9316045"
+            },
+            {
+                "name": "magic_tradition_primal_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "-00477-10d752509682bdc903f2b5c0c9646f76"
+            },
+            {
+                "name": "magic_tradition_occult_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00478-44b24da4d9c3293ee4c15c11f5611597"
+            },
+            {
+                "name": "magic_tradition_occult_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "-00479-f49ea50f9e99fe8155b3c48f48671e7b"
+            },
+            {
+                "name": "magic_tradition_divine_rank",
+                "current": 0,
+                "max": "",
+                "id": "-00480-b22db5a36a8529671b8a15d447b0adeb"
+            },
+            {
+                "name": "magic_tradition_divine_proficiency",
+                "current": 0,
+                "max": "",
+                "id": "-00481-bae3ee14ec567c30bd429f476581fc4b"
+            },
+            {
+                "name": "focus_points",
+                "current": 0,
+                "max": 0,
+                "id": "-00482-6fa969d41049ddb14ae60a59719f6b53"
+            },
+            {
+                "name": "cantrips_per_day",
+                "current": 0,
+                "max": 0,
+                "id": "-00483-0a1df0edf3096462f5b5eb89f17bf64a"
+            },
+            {
+                "name": "level_1_per_day",
+                "current": 0,
+                "max": 0,
+                "id": "-00484-46d6fb979cf3a58eae4d4c5a20389255"
+            },
+            {
+                "name": "level_2_per_day",
+                "current": 0,
+                "max": 0,
+                "id": "-00485-231af654ecfd0faaf67327a23bd5d5fb"
+            },
+            {
+                "name": "level_3_per_day",
+                "current": 0,
+                "max": 0,
+                "id": "-00486-2483044a9e14acc83f7e5cd614894d32"
+            },
+            {
+                "name": "level_4_per_day",
+                "current": 0,
+                "max": 0,
+                "id": "-00487-e1ee7e516eac8a4d9c7bf2bc44d2f6e1"
+            },
+            {
+                "name": "level_5_per_day",
+                "current": 0,
+                "max": 0,
+                "id": "-00488-77c3aafc2ae5396d9b7f86485d69b3c4"
+            },
+            {
+                "name": "level_6_per_day",
+                "current": 0,
+                "max": 0,
+                "id": "-00489-fc9724c394771402d0f559fcf81d5dae"
+            },
+            {
+                "name": "level_7_per_day",
+                "current": 0,
+                "max": 0,
+                "id": "-00490-8ac9c83740da8beb9e588782be46c4cc"
+            },
+            {
+                "name": "level_8_per_day",
+                "current": 0,
+                "max": 0,
+                "id": "-00491-db9a3662d0de4133bdf597fdfbeffb53"
+            },
+            {
+                "name": "level_9_per_day",
+                "current": 0,
+                "max": 0,
+                "id": "-00492-147f29eed5a4eaf70299be710438972c"
+            },
+            {
+                "name": "level_10_per_day",
+                "current": 0,
+                "max": 0,
+                "id": "-00493-1e7e8575a6ad25bc16a07d3541042bfa"
+            },
+            {
+                "name": "spell_attack_rank",
+                "current": "0",
+                "max": "",
+                "id": "-00494-143ce074fd5da5f2ccecfe743ad28352"
+            },
+            {
+                "name": "spell_dc_rank",
+                "current": "0",
+                "max": "",
+                "id": "-00495-96ad342e0521b3038d5045254bf77d35"
+            },
+            {
+                "name": "spell_dc_key_ability",
+                "current": 4,
+                "max": "",
+                "id": "-00496-a4bfd4ffd2ef704fad2c8fc177ff6757"
+            },
+            {
+                "name": "spell_attack_key_ability",
+                "current": 4,
+                "max": "",
+                "id": "-00497-4073ef5447bac740f67296d37a96f372"
+            },
+            {
+                "name": "spell_dc_key_ability_select",
+                "current": "@{strength_modifier}",
+                "max": "",
+                "id": "-00498-42ccab182d7d1ec1743abbc667349113"
+            },
+            {
+                "name": "spell_attack_key_ability_select",
+                "current": "@{strength_modifier}",
+                "max": "",
+                "id": "-00499-d3058cfa526fa56204b5323e6ad43b3c"
+            }
+        ],
+        "abilities": []
+    }
+}
